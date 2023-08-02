@@ -44,7 +44,8 @@ Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tene
 ```python
 project_folders = {
     "datasets sin modificar": "Aqui se pueden encontrar los archivos de los datasets que nos fuesen dados sin ningun tipo de modificacion, antes de iniciar ETL y EDA de los mismos",
-
+ "ETL-EDA": "archivos ... ",
+ "Proceso de Machine Learning": "archivos ... ",
     
 }
 
