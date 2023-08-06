@@ -91,6 +91,32 @@ def franquicia(Franquicia: str):
 
 
 
+### PAISES  
+
+# Cargar los datasets
+# ----------------------------------------------------
+# Leer el archivo CSV
+df_paises = pd.read_csv('df_paises_Def.csv',encoding='utf-8')
+
+@app.get("/peliculas_por_paises/{Pais}")
+def peliculas_por_paises(Pais: str):
+    pais_lower = Pais.lower()
+
+    # Llenare los valores NaN que tiene la columna con una cadena vacía
+    df_paises['country_name'] = df_paises['country_name'].fillna('')
+
+    # filas correspondientes al país
+    peliculas_pais = df_paises[df_paises['country_name'].str.lower().str.contains(pais_lower)]
+
+    # cantidad de películas producidas en el país
+    cantidad_peliculas = len(peliculas_pais)
+
+    resultado_paises = f" En {Pais} se produjeron {cantidad_peliculas} películas"
+    return resultado_paises
+
+
+
+
 
 
 
