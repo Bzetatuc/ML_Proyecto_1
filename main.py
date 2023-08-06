@@ -8,7 +8,7 @@ import zipfile
 
 
 
-df_Languages = pd.read_csv("../Users/benjaminzelaya/Desktop/ML_Proyecto_Individual_Henry/df_Languages_Def.csv", encoding='utf-8')
+df_Languages = pd.read_csv("/Users/benjaminzelaya/Desktop/ML_Proyecto_Individual_Henry/df_Languages_Def.csv", encoding='utf-8')
 
 
 
