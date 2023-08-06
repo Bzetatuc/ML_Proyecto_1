@@ -67,6 +67,8 @@ def peliculas_times(pelicula: str):
 # ----------------------------------------------------
 # Leer el archivo CSV
 df_franquicia = pd.read_csv('df_franquicia_Def.csv',encoding='utf-8')
+
+@app.get("/franquicia/{franquicia}")
 def franquicia(Franquicia: str):
     franquicia_lower = Franquicia.lower()
 
@@ -86,6 +88,11 @@ def franquicia(Franquicia: str):
 
     resultado = f"La franquicia {Franquicia} posee {cantidad_peliculas} películas, una ganancia total de {ganancia_total_str} y una ganancia promedio de {ganancia_promedio_str} de Dolares"
     return resultado
+
+
+
+
+
 
 
 
