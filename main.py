@@ -15,7 +15,7 @@ app = FastAPI(title='Proyecto Individual',
 # ----------------------------------------------------
 # Leer el archivo CSV
 df = pd.read_csv('Api_merged_data.csv',encoding='utf-8')
-
+df_lenguage = pd.read_csv('df_Languages_Def.csv',encoding='utf-8')
 
 # Definir la ruta de FastAPI
 @app.get("/idioma/{idioma}")
@@ -23,7 +23,7 @@ def cantidad_peliculas_idioma(idioma: str):
     idioma = idioma.lower()
 
     # Filtrar el DataFrame para obtener las filas correspondientes al idioma consultado
-    peliculas_idioma = df[df['original_language'].str.lower() == idioma]
+    peliculas_idioma = df_lenguage[df_lenguage['original_language'].str.lower() == idioma]
 
     # Obtener la cantidad de películas producidas en el idioma consultado
     cantidad_peliculas = len(peliculas_idioma)
