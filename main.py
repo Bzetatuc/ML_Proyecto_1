@@ -1,17 +1,25 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse
-from fastapi.responses import Response
 from sklearn.neighbors import NearestNeighbors
 import pandas as pd
-import os
+import numpy as np
 import zipfile
 
 
 
+app = FastAPI(title='Proyecto Individual',
+            description='Benjamin Zelaya',
+            version='1.0.1')
+
+# Cargar los datasets
+# ----------------------------------------------------
+# Leer el archivo CSV
+df = pd.read_csv('/ML_Proyecto_Individual_Henry/Api_merged_data.csv')
+
 df_Languages = pd.read_csv("/Users/benjaminzelaya/Desktop/ML_Proyecto_Individual_Henry/df_Languages_Def.csv", encoding='utf-8')
 
-
-
+# Definir la ruta de FastAPI
+@app.get("/idioma/{idioma}")
 def cantidad_peliculas_idioma(idioma: str):
     idioma = idioma.lower()
 
@@ -24,13 +32,6 @@ def cantidad_peliculas_idioma(idioma: str):
     mensaje = f"La cantidad de peliculas producidas en el idioma {idioma.capitalize()} es: {cantidad_peliculas}"
     return mensaje
 
-
-app = FastAPI()
-
-@app.get("/cantidad_peliculas/{idioma}", response_class=Response)
-def obtener_cantidad_peliculas(idioma: str):
-    mensaje = cantidad_peliculas_idioma(idioma)
-    return mensaje
 
 
 
