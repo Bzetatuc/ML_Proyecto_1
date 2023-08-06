@@ -11,6 +11,9 @@ app = FastAPI(title='Proyecto Individual',
             description='Benjamin Zelaya',
             version='1.0.1')
 
+
+### IDIOMA 
+
 # Cargar los datasets
 # ----------------------------------------------------
 # Leer el archivo CSV
@@ -31,10 +34,13 @@ def cantidad_peliculas_idioma(idioma: str):
     return mensaje
 
 
+
+# DURACION 
+
 # Cargar los datasets
 # ----------------------------------------------------
 # Leer el archivo CSV
-df_duracion = pd.read_csv('df_franquicia_Def.csv',encoding='utf-8')
+df_duracion = pd.read_csv('df_duracion_Def.csv',encoding='utf-8')
 
 @app.get("/peliculas_times/{pelicula}")
 def peliculas_times(pelicula: str):
@@ -55,10 +61,12 @@ def peliculas_times(pelicula: str):
     return mensaje
 
 
+### FRANQUICIA 
+
 # Cargar los datasets
 # ----------------------------------------------------
 # Leer el archivo CSV
-df_franquicia = pd.read_csv('df_duracion_Def.csv',encoding='utf-8')
+df_franquicia = pd.read_csv('df_franquicia_Def.csv',encoding='utf-8')
 def franquicia(Franquicia: str):
     franquicia_lower = Franquicia.lower()
 
