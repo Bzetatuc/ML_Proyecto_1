@@ -120,7 +120,7 @@ def peliculas_por_paises(Pais: str):
 # Cargar los datasets
 # ----------------------------------------------------
 # Leer el archivo CSV
-df_Prod_exitosas = pd.read_csv('df_prod_exitosas_Def.csv.csv',encoding='utf-8')
+df_Prod_exitosas = pd.read_csv('df_prod_exitosas_Def.csv',encoding='utf-8')
 
 @app.get("/productoras_exitosas/{Productora}")
 def productoras_exitosas(Productora: str):
