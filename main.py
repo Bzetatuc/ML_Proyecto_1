@@ -14,7 +14,6 @@ app = FastAPI(title='Proyecto Individual',
 # Cargar los datasets
 # ----------------------------------------------------
 # Leer el archivo CSV
-df = pd.read_csv('Api_merged_data.csv',encoding='utf-8')
 df_lenguage = pd.read_csv('df_Languages_Def.csv',encoding='utf-8')
 
 # Definir la ruta de FastAPI
