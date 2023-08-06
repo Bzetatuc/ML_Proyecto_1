@@ -4,7 +4,6 @@ from sklearn.neighbors import NearestNeighbors
 import pandas as pd
 import numpy as np
 import zipfile
-import locale
 
 app = FastAPI(title='Proyecto Individual',
             description='Benjamin Zelaya',
@@ -139,8 +138,8 @@ def productoras_exitosas(Productora: str):
     cantidad_peliculas = len(peliculas_productora)
 
     # Formatear el revenue como moneda en dólares
-    locale.setlocale(locale.LC_ALL, 'en_US')
-    revenue_formateado = locale.currency(total_revenue, grouping=True)
+    revenue_formateado = "u$s {:,.2f}".format(revenue_formateado)
+
 
     Resultado = f"La productora {Productora} ha tenido un revenue de u$s {revenue_formateado} y ha realizado {cantidad_peliculas} películas"
     return Resultado
