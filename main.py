@@ -14,7 +14,7 @@ app = FastAPI(title='Proyecto Individual',
 # Cargar los datasets
 # ----------------------------------------------------
 # Leer el archivo CSV
-df = pd.read_csv('/ML_Proyecto_Individual_Henry/Api_merged_data.csv')
+df = pd.read_csv('/Users/benjaminzelaya/Desktop/ML_Proyecto_Individual_Henry/Api_merged_data.csv')
 
 df_Languages = pd.read_csv("/Users/benjaminzelaya/Desktop/ML_Proyecto_Individual_Henry/df_Languages_Def.csv", encoding='utf-8')
 
