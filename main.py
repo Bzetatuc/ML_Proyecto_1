@@ -139,6 +139,7 @@ def productoras_exitosas(Productora: str):
     cantidad_peliculas = len(peliculas_productora)
 
     # Formatear el revenue como moneda en dólares
+    locale.setlocale(locale.LC_ALL, 'en_US')
     revenue_formateado = locale.currency(total_revenue, grouping=True)
 
     Resultado = f"La productora {Productora} ha tenido un revenue de u$s {revenue_formateado} y ha realizado {cantidad_peliculas} películas"
