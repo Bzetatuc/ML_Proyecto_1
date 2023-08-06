@@ -4,8 +4,7 @@ from sklearn.neighbors import NearestNeighbors
 import pandas as pd
 import numpy as np
 import zipfile
-
-
+import locale
 
 app = FastAPI(title='Proyecto Individual',
             description='Benjamin Zelaya',
@@ -116,9 +115,34 @@ def peliculas_por_paises(Pais: str):
 
 
 
+### PRODUCTORAS EXITOSAS  
 
+# Cargar los datasets
+# ----------------------------------------------------
+# Leer el archivo CSV
+df_Prod_exitosas = pd.read_csv('df_prod_exitosas_Def.csv.csv',encoding='utf-8')
 
+@app.get("/productoras_exitosas/{Productora}")
+def productoras_exitosas(Productora: str):
+    productora_lower = Productora.lower()
 
+    # Rellenar los valores faltantes (NaN) en la columna 'name_companies' con una cadena vacía ('')
+    df_Prod_exitosas['name_companies'] = df_Prod_exitosas['name_companies'].fillna('')
+
+    # Filas correspondientes a la productora
+    peliculas_productora = df_Prod_exitosas[df_Prod_exitosas['name_companies'].str.lower().str.contains(productora_lower)]
+
+    # Total de revenue
+    total_revenue = peliculas_productora['revenue'].sum()
+
+    # Cantidad de películas realizadas por la productora
+    cantidad_peliculas = len(peliculas_productora)
+
+    # Formatear el revenue como moneda en dólares
+    revenue_formateado = locale.currency(total_revenue, grouping=True)
+
+    Resultado = f"La productora {Productora} ha tenido un revenue de u$s {revenue_formateado} y ha realizado {cantidad_peliculas} películas"
+    return Resultado
 
 
 
