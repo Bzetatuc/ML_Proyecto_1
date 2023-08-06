@@ -34,7 +34,7 @@ def cantidad_peliculas_idioma(idioma: str):
 # Cargar los datasets
 # ----------------------------------------------------
 # Leer el archivo CSV
-df_duracion = pd.read_csv('df_duracion_Def.csv',encoding='utf-8')
+df_duracion = pd.read_csv('df_franquicia_Def.csv',encoding='utf-8')
 
 @app.get("/peliculas_times/{pelicula}")
 def peliculas_times(pelicula: str):
@@ -53,6 +53,32 @@ def peliculas_times(pelicula: str):
 
     mensaje = f"La pelicula {pelicula} tiene una duración de {duracion} minutos, del Año {año}"
     return mensaje
+
+
+# Cargar los datasets
+# ----------------------------------------------------
+# Leer el archivo CSV
+df_franquicia = pd.read_csv('df_duracion_Def.csv',encoding='utf-8')
+def franquicia(Franquicia: str):
+    franquicia_lower = Franquicia.lower()
+
+    # filas correspondientes a la franquicia indicada
+    peliculas_franquicia = df_franquicia[df_franquicia['franquicia'].str.lower() == franquicia_lower]
+
+    # cantidad de películas 
+    cantidad_peliculas = len(peliculas_franquicia)
+
+    # ganancia total / ganancia promedio de la franquicia
+    ganancia_total = peliculas_franquicia['revenue'].sum()
+    ganancia_promedio = peliculas_franquicia['revenue'].mean()
+
+    # Formatear los montos de las ganancias
+    ganancia_total_str = "u$s {:,.2f}".format(ganancia_total) #utilizo format para visulizar mejor los montos.
+    ganancia_promedio_str = "u$s {:,.2f}".format(ganancia_promedio)
+
+    resultado = f"La franquicia {Franquicia} posee {cantidad_peliculas} películas, una ganancia total de {ganancia_total_str} y una ganancia promedio de {ganancia_promedio_str} de Dolares"
+    return resultado
+
 
 
 if __name__ == "__main__":
