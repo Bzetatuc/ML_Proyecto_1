@@ -120,6 +120,10 @@ def peliculas_por_paises(Pais: str):
 # ----------------------------------------------------
 # Leer el archivo CSV
 df_Prod_exitosas = pd.read_csv('df_prod_exitosas_Def.csv',encoding='utf-8')
+import locale
+locale.setlocale(locale.LC_ALL, 'en_US')
+
+# Tu código para cargar el DataFrame y realizar los cálculos aquí...
 
 @app.get("/productoras_exitosas/{Productora}")
 def productoras_exitosas(Productora: str):
@@ -138,7 +142,7 @@ def productoras_exitosas(Productora: str):
     cantidad_peliculas = len(peliculas_productora)
 
     # Formatear el revenue como moneda en dólares
-    revenue_formateado = "u$s {:,.2f}".format(revenue_formateado)
+    revenue_formateado = locale.currency(total_revenue, grouping=True)
 
 
     Resultado = f"La productora {Productora} ha tenido un revenue de u$s {revenue_formateado} y ha realizado {cantidad_peliculas} películas"
