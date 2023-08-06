@@ -8,8 +8,7 @@ import zipfile
 
 
 
-# Supongamos que tienes un archivo CSV llamado "movies.csv" con la información de las películas
-df_Languages = pd.read_csv("/Users/benjaminzelaya/Desktop/ML_Proyecto_Individual_Henry/FASTAPI/df_Languages_Def.csv", encoding='utf-8')
+df_Languages = pd.read_csv("../Users/benjaminzelaya/Desktop/ML_Proyecto_Individual_Henry/df_Languages_Def.csv", encoding='utf-8')
 
 
 
@@ -32,8 +31,6 @@ app = FastAPI()
 def obtener_cantidad_peliculas(idioma: str):
     mensaje = cantidad_peliculas_idioma(idioma)
     return mensaje
-
-
 
 
 
