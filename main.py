@@ -14,7 +14,6 @@ app = FastAPI(title='Proyecto Individual',
 # Cargar los datasets
 # ----------------------------------------------------
 # Leer el archivo CSV
-df = pd.read_csv('Api_merged_data.csv',encoding='utf-8')
 df_lenguage = pd.read_csv('df_Languages_Def.csv',encoding='utf-8')
 
 # Definir la ruta de FastAPI
@@ -32,7 +31,28 @@ def cantidad_peliculas_idioma(idioma: str):
     return mensaje
 
 
+# Cargar los datasets
+# ----------------------------------------------------
+# Leer el archivo CSV
+df_duracion = pd.read_csv('df_duracion_Def.csv',encoding='utf-8')
 
+@app.get("/peliculas_times/{pelicula}")
+def peliculas_times(pelicula: str):
+    pelicula = pelicula.lower()
+
+    # DataFrame para obtener las filas correspondientes a la película consultada
+    pelicula_info = df_duracion[df_duracion['title'].str.lower() == pelicula]
+
+    # Verificaremos si se encontró la película
+    if pelicula_info.empty:
+        raise HTTPException(status_code=404, detail=f"La película '{pelicula.capitalize()}' no fue encontrada.")
+
+    # duración y año de la película consultada
+    duracion = pelicula_info.iloc[0]['runtime'].astype(int)
+    año = pelicula_info.iloc[0]['release_year']
+
+    mensaje = f"La pelicula {pelicula} tiene una duración de {duracion} minutos, del Año {año}"
+    return mensaje
 
 
 if __name__ == "__main__":
