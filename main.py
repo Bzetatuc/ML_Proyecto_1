@@ -247,7 +247,7 @@ def Pelis_recom(pelicula):
 # ----------------------------------------------------
 # 
 
-movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv.csv')
+movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
 
 @app.get("/movie_recommendation_artista/{Artista}")
