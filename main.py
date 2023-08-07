@@ -5,13 +5,13 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 import numpy as np
 
-app = FastAPI(title='Proyecto Individual',
+OBTENER = FastAPI(title='Proyecto Individual',
             description='Benjamin Zelaya',
             version='0.101.0')
 
 
 ### Ruta raíz
-@app.get("/", response_class=HTMLResponse)
+@OBTENER.get("/", response_class=HTMLResponse)
 def root():
     return "<h1>{ Mi primer API - Primer Proyecto individual Data Science}</h1>"
 
@@ -24,7 +24,7 @@ def root():
 df_lenguage = pd.read_csv('df_Languages_Def.csv',encoding='utf-8')
 
 # ruta FastAPI
-@app.get("/idioma/{idioma}")
+@OBTENER.get("/idioma/{idioma}")
 def cantidad_peliculas_idioma(idioma: str):
     idioma = idioma.lower()
 
@@ -45,11 +45,11 @@ def cantidad_peliculas_idioma(idioma: str):
 # 
 df_duracion = pd.read_csv('df_duracion_Def.csv',encoding='utf-8')
 
-@app.get("/peliculas_times/{pelicula}")
+@OBTENER.get("/peliculas_times/{pelicula}")
 def peliculas_times(pelicula: str):
     pelicula = pelicula.lower()
 
-    # DataFrame para obtener las filas correspondientes a la película consultada
+    # DataFrame para OBTENER las filas correspondientes a la película consultada
     pelicula_info = df_duracion[df_duracion['title'].str.lower() == pelicula]
 
     # Verificaremos si se encontró la película
@@ -71,7 +71,7 @@ def peliculas_times(pelicula: str):
 # 
 df_franquicia = pd.read_csv('df_franquicia_Def.csv',encoding='utf-8')
 
-@app.get("/franquicia/{franquicia}")
+@OBTENER.get("/franquicia/{franquicia}")
 def franquicia(Franquicia: str):
     franquicia_lower = Franquicia.lower()
 
@@ -101,7 +101,7 @@ def franquicia(Franquicia: str):
 # 
 df_paises = pd.read_csv('df_paises_Def.csv',encoding='utf-8')
 
-@app.get("/peliculas_por_paises/{Pais}")
+@OBTENER.get("/peliculas_por_paises/{Pais}")
 def peliculas_por_paises(Pais: str):
     pais_lower = Pais.lower()
 
@@ -126,7 +126,7 @@ def peliculas_por_paises(Pais: str):
 # 
 df_Prod_exitosas = pd.read_csv('df_prod_exitosas_Def.csv',encoding='utf-8')
 
-@app.get("/productoras_exitosas/{Productora}")
+@OBTENER.get("/productoras_exitosas/{Productora}")
 def productoras_exitosas(Productora: str):
     productora_lower = Productora.lower()
 
@@ -157,9 +157,9 @@ def productoras_exitosas(Productora: str):
 # 
 df_directores_final = pd.read_csv('df_directores_Def.csv',encoding='utf-8')
 
-@app.get("/get_director/{nombre_director}")
+@OBTENER.get("/get_director/{nombre_director}")
 def get_director(nombre_director):
-    #  DataFrame para obtener las filas correspondientes al director consultado
+    #  DataFrame para OBTENER las filas correspondientes al director consultado
     peliculas_director = df_directores_final[df_directores_final['Nombre Director'] == nombre_director]
 
     # Calcular el éxito del director medido a través del retorno (ganancia total / costo total)
@@ -179,7 +179,7 @@ def get_director(nombre_director):
             'costo': pelicula['budget'],
             'ganancia': pelicula['revenue']
         }
-        peliculas_info.append(info_pelicula)
+        peliculas_info.OBTENERend(info_pelicula)
 
 
 
@@ -206,14 +206,14 @@ def get_director(nombre_director):
 ML_DF1 = pd.read_csv('ML_SistemaRecomendacion1.csv')
 
 
-@app.get("/Pelis_recom/{pelicula}")
+@OBTENER.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
     movie = ML_DF1[ML_DF1['title'] == pelicula]
 
     if len(movie) == 0:
         return "La película no se encuentra en la base de datos."
 
-    # Obtener el género y la popularidad de la película
+    # OBTENER el género y la popularidad de la película
     movie_genero = movie['genero'].values[0]
     movie_popularity = movie['popularity'].values[0]
 
@@ -255,7 +255,7 @@ movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
 
 
-@app.get("/movie_recommendation_artista/{Artista}")
+@OBTENER.get("/movie_recommendation_artista/{Artista}")
 def movie_recommendation_artista(Artista):
     # películas que tengan al actor/actriz especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
@@ -289,4 +289,4 @@ def movie_recommendation_artista(Artista):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(OBTENER, host="0.0.0.0", port=8000)
