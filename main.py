@@ -121,7 +121,7 @@ def peliculas_por_paises(Pais: str):
 # Leer el archivo CSV
 df_Prod_exitosas = pd.read_csv('df_prod_exitosas_Def.csv',encoding='utf-8')
 import locale
-locale.setlocale(locale.LC_ALL, 'en_US')
+locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 # Tu código para cargar el DataFrame y realizar los cálculos aquí...
 
