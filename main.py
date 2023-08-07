@@ -13,7 +13,7 @@ app = FastAPI(title='Proyecto Individual',
 ### Ruta raíz
 @app.get("/", response_class=HTMLResponse)
 def root():
-    return "<h1>{Mi primer API}</h1>"
+    return "<h1>{ Mi primer API - Primer Proyecto individual Data Science}</h1>"
 
 
 ### IDIOMA 
