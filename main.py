@@ -273,7 +273,9 @@ def movie_recommendation_artista(Artista):
     # Recomendar películas similares
     movie_recommendation_artista = movie_df.iloc[indices[1][0][1:]]['title']
 
-    return movie_recommendation_artista
+    return  movie_recommendation_artista(Artista)
+    print(f"Películas recomendadas para '{Artista}':")
+    print(peliculas_recomendadas)
 
 
 
