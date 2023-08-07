@@ -141,8 +141,59 @@ def productoras_exitosas(Productora: str):
     revenue_formateado = "u$s {:,.2f}".format(total_revenue)
 
 
-    Resultado = f"La productora {Productora} ha tenido un revenue de u$s {revenue_formateado} y ha realizado {cantidad_peliculas} películas"
+    Resultado = f"La productora {Productora} ha tenido un revenue de {revenue_formateado} y ha realizado {cantidad_peliculas} películas"
     return Resultado
+
+
+### DIRECTOR
+
+# Cargar los datasets
+# ----------------------------------------------------
+# Leer el archivo CSV
+df_directores_final = pd.read_csv('df_directores_Def.csv',encoding='utf-8')
+
+@app.get("/get_director/{nombre_director}")
+def get_director(nombre_director):
+    #  DataFrame para obtener las filas correspondientes al director consultado
+    peliculas_director = df_directores_final[df_directores_final['Nombre Director'] == nombre_director]
+
+    # Calcular el éxito del director medido a través del retorno (ganancia total / costo total)
+    costo_total = peliculas_director['budget'].sum()
+    ganancia_total = peliculas_director['revenue'].sum()
+    retorno_director = ganancia_total / costo_total if costo_total != 0 else 0
+
+    # Crear una lista para almacenar la información de cada película
+    peliculas_info = []
+
+    # Recorrer las filas del DataFrame y obtener la información de cada película
+    for _, pelicula in peliculas_director.iterrows():
+        info_pelicula = {
+            'nombre_pelicula': pelicula['title'],
+            'fecha_lanzamiento': pelicula['release_date'],
+            'retorno_individual': pelicula['return'],
+            'costo': pelicula['budget'],
+            'ganancia': pelicula['revenue']
+        }
+        peliculas_info.append(info_pelicula)
+
+
+
+        
+
+    # Crear un diccionario con la información del director y las películas
+    resultado = [
+         nombre_director,
+       retorno_director,
+         peliculas_info
+    ]
+
+    return resultado
+
+
+
+
+
+
 
 
 if __name__ == "__main__":
