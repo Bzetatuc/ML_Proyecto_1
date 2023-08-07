@@ -247,13 +247,11 @@ def Pelis_recom(pelicula):
 # ----------------------------------------------------
 # 
 
-movie_df = pd.read_csv('df_ML_SistRecomendacion.csv')
+movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv.csv')
 
 
 @app.get("/movie_recommendation_artista/{Artista}")
 def movie_recommendation_artista(Artista):
-    movie_df = pd.read_csv('df_ML_SistRecomendacion.csv')
-
     # películas que tengan al actor/actriz especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 
@@ -274,8 +272,10 @@ def movie_recommendation_artista(Artista):
     movie_recommendation_artista = movie_df.iloc[indices[1][0][1:]]['title']
 
     return  movie_recommendation_artista(Artista)
-    print(f"Películas recomendadas para '{Artista}':")
-    print(peliculas_recomendadas)
+  
+
+
+
 
 
 

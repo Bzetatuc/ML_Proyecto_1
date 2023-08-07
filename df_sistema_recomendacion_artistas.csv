@@ -1,0 +1,1001 @@
+genero,id_genres,id_peliculas,Actor,title,popularity
+'Comedy' 'Crime',"'35,80'",862,Tom Hanks,Toy Story,21.946943
+'Comedy' 'Drama',"'35,18'",862,Tim Allen,Jumanji,17.015539
+'Comedy' 'Science Fiction',"'35,878'",862,Don Rickles,Grumpier Old Men,11.7129
+'Drama' 'War',"'18,10752'",862,Jim Varney,Waiting to Exhale,3.859495
+'Drama','18',862,Wallace Shawn,Father of the Bride Part II,8.387519
+'Drama' 'Crime' 'Romance',"'18,80,10749'",862,John Ratzenberger,Heat,17.924927
+'Horror' 'Thriller',"'27,53'",862,Annie Potts,Sabrina,6.677277
+'Thriller' 'Action' 'Romance' 'Science Fiction' 'Adventure',"'53,28,10749,878,12'",862,John Morris,Sabrina,6.677277
+'Drama' 'Action',"'18,28'",862,Erik von Detten,Tom and Huck,2.561161
+'Drama','18',862,Laurie Metcalf,Sudden Death,5.23158
+'Drama' 'Fantasy' 'Horror' 'Thriller' 'Mystery',"'18,14,27,53,9648'",862,R. Lee Ermey,GoldenEye,14.686036
+'Comedy','35',862,Sarah Freeman,GoldenEye,14.686036
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",862,Penn Jillette,The American President,6.318445
+'Action' 'Adventure' 'Thriller',"'28,12,53'",8844,Robin Williams,Dracula: Dead and Loving It,5.430331
+'Comedy' 'Drama',"'35,18'",8844,Jonathan Hyde,Dracula: Dead and Loving It,5.430331
+'Action' 'Crime' 'Drama',"'28,80,18'",8844,Kirsten Dunst,Balto,12.140733
+'Drama' 'War',"'18,10752'",8844,Bradley Pierce,Nixon,5.092
+'Action' 'Thriller',"'28,53'",8844,Bonnie Hunt,Cutthroat Island,7.284477
+'Horror' 'Thriller',"'27,53'",8844,Bebe Neuwirth,Cutthroat Island,7.284477
+'Horror' 'Thriller',"'27,53'",8844,David Alan Grier,Cutthroat Island,7.284477
+'','',8844,Patricia Clarkson,Cutthroat Island,7.284477
+'','',8844,Adam Hann-Byrd,Casino,10.137389
+'Action' 'Thriller' 'Crime',"'28,53,80'",8844,Laura Bell Bundy,Casino,10.137389
+'Adventure' 'Horror' 'Action' 'Thriller' 'Science Fiction',"'12,27,28,53,878'",8844,James Handy,Sense and Sensibility,10.673167
+'Adventure' 'Animation' 'Family',"'12,16,10751'",8844,Gillian Barber,Sense and Sensibility,10.673167
+'Adventure' 'Animation' 'Family',"'12,16,10751'",8844,Brandon Obray,Four Rooms,9.026586
+'Horror' 'Thriller',"'27,53'",8844,Cyrus Thiedeke,Ace Ventura: When Nature Calls,8.205448
+'Action' 'Adventure' 'Thriller',"'28,12,53'",8844,Gary Joseph Thorup,Money Train,7.337906
+'Horror' 'Comedy',"'27,35'",8844,Leonard Zola,Get Shorty,12.669608
+'Horror' 'Thriller' 'Foreign',"'27,53,10769'",8844,Lloyd Berry,Copycat,10.701801
+'Comedy' 'Drama' 'Fantasy' 'Romance',"'35,18,14,10749'",8844,Malcolm Stewart,Assassins,11.065939
+'Horror','27',8844,Annabel Kershaw,Assassins,11.065939
+'Action' 'Comedy' 'Drama' 'War',"'28,35,18,10752'",8844,Darryl Henriques,Powder,12.133094
+'Comedy','35',8844,Robyn Driscoll,Leaving Las Vegas,10.332025
+'Action' 'Horror' 'Science Fiction',"'28,27,878'",8844,Peter Bryant,Othello,1.845899
+'Drama','18',8844,Sarah Gilson,Now and Then,8.681325
+'Romance' 'Science Fiction' 'Horror' 'Action' 'Crime',"'10749,878,27,28,80'",8844,Florica Vlad,Persuasion,2.228434
+'Documentary','99',8844,June Lion,Persuasion,2.228434
+'Romance' 'Drama' 'Comedy',"'10749,18,35'",8844,Brenda Lockmuller,The City of Lost Children,9.822423
+'Action' 'Horror',"'28,27'",15602,Walter Matthau,The City of Lost Children,9.822423
+'','',15602,Jack Lemmon,The City of Lost Children,9.822423
+'Fantasy' 'Comedy' 'Romance',"'14,35,10749'",15602,Ann-Margret,Shanghai Triad,1.100915
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",15602,Sophia Loren,Shanghai Triad,1.100915
+'Romance' 'Family' 'Animation' 'Fantasy' 'Music',"'10749,10751,16,14,10402'",15602,Daryl Hannah,Dangerous Minds,9.481338
+'','',15602,Burgess Meredith,Twelve Monkeys,12.297305
+'Comedy','35',15602,Kevin Pollak,Wings of Courage,0.745542
+'Drama' 'History',"'18,36'",31357,Whitney Houston,Wings of Courage,0.745542
+'Action' 'Comedy' 'Drama' 'Family' 'Thriller',"'28,35,18,10751,53'",31357,Angela Bassett,Babe,14.404764
+'Documentary','99',31357,Loretta Devine,Babe,14.404764
+'Action' 'Comedy' 'Crime',"'28,35,80'",31357,Lela Rochon,Carrington,1.493361
+'Drama','18',31357,Gregory Hines,Carrington,1.493361
+'Horror' 'Thriller',"'27,53'",31357,Dennis Haysbert,Dead Man Walking,6.891317
+'Drama' 'Thriller',"'18,53'",31357,Michael Beach,Dead Man Walking,6.891317
+'Animation' 'Comedy',"'16,35'",31357,Mykelti Williamson,Across the Sea of Time,0.114469
+'Animation' 'Comedy',"'16,35'",31357,Lamont Johnson,It Takes Two,7.777735
+'Comedy' 'Drama' 'Family' 'Fantasy' 'Romance',"'35,18,10751,14,10749'",31357,Wesley Snipes,Clueless,9.882383
+'','',11862,Steve Martin,"Cry, the Beloved Country",0.894647
+'Drama','18',11862,Diane Keaton,Richard III,4.561387
+'Action' 'Crime',"'28,80'",11862,Martin Short,Richard III,4.561387
+'Comedy' 'Horror',"'35,27'",11862,Kimberly Williams-Paisley,Dead Presidents,9.87957
+'Comedy' 'Fantasy' 'Animation' 'Drama',"'35,14,16,18'",11862,George Newbern,Restoration,10.979269
+'Comedy' 'Drama' 'Horror',"'35,18,27'",11862,Kieran Culkin,Mortal Kombat,10.870138
+'Thriller' 'Drama' 'Fantasy' 'Horror',"'53,18,14,27'",11862,BD Wong,To Die For,10.448481
+'Horror' 'Comedy',"'27,35'",11862,Peter Michael Goetz,How To Make An American Quilt,4.485958
+'Romance' 'Music' 'Family',"'10749,10402,10751'",11862,Kate McGregor-Stewart,Se7en,18.45743
+'Documentary' 'Science Fiction',"'99,878'",11862,Jane Adams,Pocahontas,13.280069
+'Drama','18',11862,Eugene Levy,When Night Is Falling,3.302524
+'Comedy' 'Crime' 'Thriller',"'35,80,53'",11862,Lori Alan,The Usual Suspects,16.302466
+'Documentary','99',949,Al Pacino,Guardian Angel,0.595949
+'Comedy','35',949,Robert De Niro,Mighty Aphrodite,15.899134
+'Comedy','35',949,Val Kilmer,Lamerica,1.361286
+'Comedy' 'Romance',"'35,10749'",949,Jon Voight,Lamerica,1.361286
+'Action' 'Crime' 'Comedy',"'28,80,35'",949,Tom Sizemore,Lamerica,1.361286
+'','',949,Diane Venora,The Big Green,5.982764
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",949,Amy Brenneman,Georgia,4.093443
+'Drama' 'Thriller' 'Romance',"'18,53,10749'",949,Ashley Judd,Georgia,4.093443
+'Comedy','35',949,Mykelti Williamson,Kids of the Round Table,0.307075
+'Action' 'Adventure' 'Thriller',"'28,12,53'",949,Natalie Portman,Home for the Holidays,8.416802
+'Action' 'Comedy',"'28,35'",949,Ted Levine,The Postman,10.168437
+'Action' 'Adventure' 'Science Fiction',"'28,12,878'",949,Tom Noonan,The Postman,10.168437
+'Foreign','10769',949,Tone Loc,The Postman,10.168437
+'Horror' 'Thriller',"'27,53'",949,Hank Azaria,The Confessional,0.120789
+'Comedy','35',949,Wes Studi,The Indian in the Cupboard,10.673296
+'Drama' 'Fantasy' 'Romance',"'18,14,10749'",949,Dennis Haysbert,Eye for an Eye,4.733526
+'Action' 'Comedy',"'28,35'",949,Danny Trejo,Mr. Holland's Opus,7.137117
+'Action' 'Thriller' 'Science Fiction',"'28,53,878'",949,Henry Rollins,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,11.700115
+'','',949,William Fichtner,Two If by Sea,2.174487
+'Western','37',949,Kevin Gage,Bio-Dome,6.387469
+'Drama' 'History' 'War',"'18,36,10752'",949,Susan Traylor,Lawnmower Man 2: Beyond Cyberspace,2.49535
+'Mystery' 'Horror',"'9648,27'",949,Jerry Trimble,Two Bits,4.046208
+'Adventure' 'Drama' 'Action' 'History' 'War',"'12,18,28,36,10752'",949,Ricky Harris,French Twist,2.518051
+'Action','28',949,Jeremy Piven,Friday,14.56965
+'Action' 'Thriller',"'28,53'",949,Xander Berkeley,From Dusk Till Dawn,15.339153
+'Drama' 'Romance',"'18,10749'",949,Begonya Plaza,Fair Game,5.912223
+'Horror','27',949,Rick Avery,Kicking and Screaming,3.367276
+'Comedy' 'Romance',"'35,10749'",949,Hazelle Goodman,Les Miserables,1.479446
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",949,Ray Buktenica,Bed of Roses,10.412194
+'Drama','18',949,Max Daniels,Big Bully,2.936443
+'Drama' 'Fantasy' 'War',"'18,14,10752'",949,Vince Deadrick Jr.,Screamers,12.758848
+'Drama','18',949,Steven Ford,Screamers,12.758848
+'Comedy','35',949,Farrah Forke,Screamers,12.758848
+'Horror' 'Thriller',"'27,53'",949,Patricia Healy,Nico Icon,0.133893
+'Documentary' 'Romance',"'99,10749'",949,Paul Herman,Nico Icon,0.133893
+'Action' 'Comedy' 'Family' 'Adventure',"'28,35,10751,12'",949,Cindy Katz,The Crossing Guard,5.756462
+'Action','28',949,Brian Libby,The Juror,6.010579
+'Crime' 'Drama',"'80,18'",949,Dan Martin,The White Balloon,1.196256
+'Horror' 'Thriller',"'27,53'",949,Mario Roberts,Things to Do in Denver When You're Dead,4.486179
+'Crime' 'Drama' 'Thriller',"'80,18,53'",949,"Thomas Rosales, Jr.",Antonia's Line,2.030174
+'Drama','18',949,Yvonne Zima,Antonia's Line,2.030174
+'Action' 'Adventure' 'Comedy',"'28,12,35'",949,Mick Gould,Antonia's Line,2.030174
+'Animation' 'Drama',"'16,18'",949,Bud Cort,Once Upon a Time... When We Were Colored,0.252287
+'Action' 'Horror' 'Science Fiction',"'28,27,878'",949,Viviane Vives,Last Summer in the Hamptons,0.531159
+'Drama','18',949,Kim Staunton,Angels and Insects,2.15166
+'History' 'War' 'Action',"'36,10752,28'",949,Martin Ferrero,Angels and Insects,2.15166
+'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'",949,Brad Baldridge,White Squall,9.568604
+'Thriller' 'Horror' 'Comedy',"'53,27,35'",949,Andrew Camuccio,Dunston Checks In,4.814825
+'Drama' 'Comedy',"'18,35'",949,Kenny Endoso,Black Sheep,8.963037
+'Romance','10749',949,Kimberly Flynn,Nick of Time,6.848591
+'Thriller','53',949,Niki Harris,The Journey of August King,0.411424
+'Horror' 'Thriller' 'Drama',"'27,53,18'",949,Bill McIntosh,Mary Reilly,12.866139
+'Fantasy' 'Science Fiction' 'Romance',"'14,878,10749'",949,Rick Marzan,Vampire in Brooklyn,9.071127
+'Horror','27',949,Terry Miller,Beautiful Girls,4.670562
+'Horror','27',949,Daniel O'Haco,Broken Arrow,14.957626
+'Drama' 'Horror' 'Thriller' 'Action',"'18,27,53,28'",949,Kai Soremekun,A Midwinter's Tale,0.513391
+'Comedy' 'Family',"'35,10751'",949,Peter Blackwell,La Haine,12.108196
+'Horror' 'Mystery',"'27,9648'",949,Trevor Coppola,Shopping,2.657647
+'Drama' 'Romance',"'18,10749'",949,Mary Kircher,Heidi Fleiss: Hollywood Madam,0.638211
+'Drama' 'Thriller',"'18,53'",949,Darin Mangan,Heidi Fleiss: Hollywood Madam,0.638211
+'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'",949,Robert Miranda,Heidi Fleiss: Hollywood Madam,0.638211
+'Horror' 'Thriller',"'27,53'",949,Manny Perry,Heidi Fleiss: Hollywood Madam,0.638211
+'Action' 'Comedy' 'Horror',"'28,35,27'",949,Iva Franks Singer,City Hall,4.807223
+'Comedy','35',949,Tim Werner,Bottle Rocket,6.904831
+'Horror' 'Thriller',"'27,53'",949,Philip Ettington,Mr. Wrong,3.329264
+'Comedy','35',11860,Harrison Ford,Unforgettable,2.464425
+'Action' 'Comedy',"'28,35'",11860,Julia Ormond,Happy Gilmore,9.592265
+'Drama' 'War',"'18,10752'",11860,Greg Kinnear,The Bridges of Madison County,5.951077
+'Drama' 'Fantasy' 'Horror' 'Romance',"'18,14,27,10749'",11860,Angie Dickinson,Nobody Loves Me,1.015068
+'Thriller' 'Science Fiction' 'Adventure' 'Action',"'53,878,12,28'",11860,Nancy Marchand,Muppet Treasure Island,6.902423
+'Horror','27',11860,John Wood,Catwalk,0.976707
+'Documentary' 'Music',"'99,10402'",11860,Richard Crenna,Headless Body in Topless Bar,0.001346
+'Comedy','35',11860,Lauren Holly,Braveheart,20.755149
+'Comedy' 'Drama' 'Family',"'35,18,10751'",11860,Dana Ivey,Taxi Driver,14.092713
+'','',11860,Fanny Ardant,Rumble in the Bronx,12.314278
+'Comedy' 'Fantasy' 'Family',"'35,14,10751'",11860,Patrick Bruel,Before and After,2.938293
+'Drama' 'Foreign',"'18,10769'",11860,Paul Giamatti,Margaret's Museum,0.372697
+'Action' 'Adventure' 'Crime' 'Drama',"'28,12,80,18'",11860,Miriam Colón,Margaret's Museum,0.372697
+'Romance' 'Drama' 'Thriller',"'10749,18,53'",11860,Elizabeth Franz,Happiness Is in the Field,1.254885
+'Documentary','99',11860,Valérie Lemercier,Anne Frank Remembered,0.243986
+'Action' 'Adventure' 'War',"'28,12,10752'",11860,Becky Ann Baker,Anne Frank Remembered,0.243986
+'Documentary' 'Music',"'99,10402'",11860,John C. Vennema,Anne Frank Remembered,0.243986
+'Documentary','99',11860,Margo Martindale,The Young Poisoner's Handbook,6.178497
+'Action' 'Drama' 'Thriller',"'28,18,53'",11860,J. Smith-Cameron,The Young Poisoner's Handbook,6.178497
+'Comedy','35',11860,Christine Luneau-Lipton,The Young Poisoner's Handbook,6.178497
+'Horror','27',11860,Michael Dees,If Lucy Fell,2.891918
+'Comedy' 'Crime' 'Drama' 'Horror',"'35,80,18,27'",11860,Denis Holmes,Steal Big Steal Little,1.522412
+'Drama','18',11860,Jo-Jo Lowe,Race the Sun,1.317878
+'','',11860,Ira Wheeler,The Boys of St. Vincent,0.86539
+'Comedy' 'Horror',"'35,27'",11860,Philippa Cooper,Boomerang,6.506983
+'Crime' 'Drama',"'80,18'",11860,Ayako Kawahara,Chungking Express,6.778979
+'Drama' 'Romance',"'18,10749'",11860,François Genty,The Star Maker,1.702639
+'Action' 'Adventure' 'Comedy' 'Crime',"'28,12,35,80'",11860,Guillaume Gallienne,Flirting with Disaster,5.579088
+'Drama' 'Romance',"'18,10749'",11860,Inés Sastre,The Neverending Story III: Escape from Fantasia,6.252377
+'','',11860,Phina Oruche,The Neverending Story III: Escape from Fantasia,6.252377
+'Horror' 'Thriller',"'27,53'",11860,Andrea Behalikova,The Silences of the Palace,0.406754
+'Drama','18',11860,Jennifer Herrera,The Silences of the Palace,0.406754
+'Drama' 'Horror' 'Thriller',"'18,27,53'",11860,Kristina Kumlin,Jupiter's Wife,0.001178
+'Crime' 'Drama' 'Horror' 'Mystery' 'Thriller',"'80,18,27,9648,53'",11860,Eva Linderholm,Pie in the Sky,0.699066
+'Comedy' 'Fantasy' 'Romance',"'35,14,10749'",11860,Carmen Chaplin,Angela,2.197439
+'Drama' 'Comedy' 'Crime',"'18,35,80'",11860,Micheline Van de Velde,Frankie Starlight,0.637554
+'Drama' 'Thriller',"'18,53'",11860,Joanna Rhodes,Frankie Starlight,0.637554
+'Drama' 'Comedy',"'18,35'",11860,Alan Boone,Frankie Starlight,0.637554
+'Comedy' 'Drama',"'35,18'",11860,Patrick Forster-Delmas,Frankie Starlight,0.637554
+'Thriller' 'Crime' 'Drama',"'53,80,18'",11860,Kentaro Matsuo,Jade,11.418917
+'Drama','18',11860,Peter McKernan,Nueba Yol,0.291021
+'Drama' 'Comedy',"'18,35'",11860,Ed Connelly,Sonic Outlaws,0.001838
+'Comedy','35',11860,Ronald L. Schwary,Down Periscope,5.184977
+'Drama','18',11860,Alvin Lum,From the Journals of Jean Seberg,0.276401
+'Comedy' 'Drama',"'35,18'",11860,Siching Song,Man of the Year,0.540436
+'Adventure','12',11860,Phil Nee,The Neon Bible,0.370342
+'Action' 'Adventure' 'Drama' 'History' 'War',"'28,12,18,36,10752'",11860,Randy Becker,Target,0.001205
+'Drama' 'Romance' 'Foreign',"'18,10749,10769'",11860,Susan Browning,Up Close & Personal,3.402749
+'Adventure' 'Comedy' 'Family',"'12,35,10751'",11860,Anthony Mondal,The Birdcage,6.49968
+'Action' 'Adventure' 'Comedy' 'Drama' 'Fantasy' 'Romance',"'28,12,35,18,14,10749'",11860,Peter Parks,Virgin Mary,0.918504
+'Drama' 'History' 'War',"'18,36,10752'",11860,Woodrow Asai,Virgin Mary,0.918504
+'Comedy' 'Romance',"'35,10749'",11860,Eric Bruno Borgman,Virgin Mary,0.918504
+'Animation' 'Comedy' 'Family' 'Adventure',"'16,35,10751,12'",11860,Michael Cline,The Brothers McMullen,2.039196
+'Documentary' 'Foreign',"'99,10769'",11860,Christopher Del Gaudio,Bad Boys,9.262184
+'Adventure' 'Action' 'Drama',"'12,28,18'",11860,Philippe Hartmann,The Amazing Panda Adventure,2.375865
+'Adventure' 'Comedy' 'Family',"'12,35,10751'",11860,Jerry Quinn,The Basketball Diaries,7.415144
+'Comedy' 'Drama',"'35,18'",11860,Dori Rosenthal,An Awfully Big Adventure,0.922958
+'Action','28',45325,Jonathan Taylor Thomas,Amateur,1.759012
+'Action' 'Adventure' 'Comedy' 'Crime' 'Drama',"'28,12,35,80,18'",45325,Brad Renfro,Amateur,1.759012
+'Drama' 'Thriller',"'18,53'",45325,Rachael Leigh Cook,Amateur,1.759012
+'Horror' 'Thriller',"'27,53'",45325,Michael McShane,Apollo 13,18.761467
+'Horror' 'Thriller' 'Mystery',"'27,53,9648'",45325,Amy Wright,Rob Roy,10.193549
+'Comedy','35',45325,Eric Schweig,Rob Roy,10.193549
+'Drama','18',45325,Tamara Mello,The Addiction,3.137285
+'Drama' 'History' 'Romance',"'18,36,10749'",9091,Jean-Claude Van Damme,Batman Forever,13.321354
+'Comedy' 'Drama',"'35,18'",9091,Powers Boothe,Batman Forever,13.321354
+'Action' 'Comedy' 'Crime',"'28,35,80'",9091,Dorian Harewood,Belle de Jour,10.142662
+'Action' 'Comedy',"'28,35'",9091,Raymond J. Barry,Belle de Jour,10.142662
+'Drama' 'Romance' 'Thriller',"'18,10749,53'",9091,Ross Malinger,Beyond Rangoon,2.04189
+'Comedy','35',9091,Whittni Wright,Blue in the Face,11.528147
+'Family' 'Science Fiction' 'Adventure',"'10751,878,12'",710,Pierce Brosnan,Canadian Bacon,5.391556
+'Comedy' 'Family',"'35,10751'",710,Sean Bean,Canadian Bacon,5.391556
+'','',710,Izabella Scorupco,Casper,12.812539
+'Drama' 'Mystery',"'18,9648'",710,Famke Janssen,Clockers,4.558992
+'Horror','27',710,Joe Don Baker,Congo,7.260574
+'Comedy' 'Romance',"'35,10749'",710,Judi Dench,Crimson Tide,8.657365
+'Thriller' 'Drama',"'53,18'",710,Gottfried John,Crumb,3.620388
+'Action' 'Crime' 'Drama',"'28,80,18'",710,Robbie Coltrane,Desperado,6.950458
+'Documentary' 'Music',"'99,10402'",710,Alan Cumming,Devil in a Blue Dress,4.646132
+'Comedy' 'Horror' 'Science Fiction' 'Thriller',"'35,27,878,53'",710,Tchéky Karyo,Die Hard: With a Vengeance,15.138855
+'Crime' 'Science Fiction' 'Thriller',"'80,878,53'",710,Desmond Llewelyn,The Doom Generation,7.120806
+'Comedy','35',710,Samantha Bond,The Doom Generation,7.120806
+'Romance' 'Drama',"'10749,18'",710,Michael Kitchen,Feast of July,0.523575
+'Comedy' 'Romance' 'War',"'35,10749,10752'",710,Serena Gordon,First Knight,15.178338
+'Drama','18',710,Simon Kunz,Free Willy 2 - The Adventure Home,7.575098
+'Drama' 'Thriller' 'Action' 'Crime',"'18,53,28,80'",710,Billy J. Mitchell,Free Willy 2 - The Adventure Home,7.575098
+'Drama','18',710,Constantine Gregory,Hackers,14.810519
+'Adventure' 'Action' 'Science Fiction',"'12,28,878'",710,Minnie Driver,Jeffrey,3.196456
+'Drama','18',710,Michelle Arthur,Johnny Mnemonic,11.715868
+'Drama','18',710,Ravil Isyanov,Johnny Mnemonic,11.715868
+'Western' 'Action',"'37,28'",9087,Michael Douglas,Judge Dredd,8.184815
+'Horror' 'Thriller',"'27,53'",9087,Annette Bening,Jury Duty,3.676921
+'Drama','18',9087,Michael J. Fox,Kids,4.877872
+'','',9087,Martin Sheen,Living in Oblivion,10.058329
+'Drama','18',9087,Anna Deavere Smith,Lord of Illusions,4.102409
+'Thriller' 'Science Fiction' 'Mystery',"'53,878,9648'",9087,Shawna Waldron,Love & Human Remains,0.354014
+'Drama','18',9087,Samantha Mathis,Mad Love,2.624771
+'Drama' 'Foreign',"'18,10769'",9087,David Paymer,Mallrats,8.25547
+'Action' 'Science Fiction',"'28,878'",9087,Richard Dreyfuss,Mighty Morphin Power Rangers: The Movie,7.024227
+'Comedy','35',9087,Nina Siemaszko,Mighty Morphin Power Rangers: The Movie,7.024227
+'Action' 'Thriller',"'28,53'",9087,Wendie Malick,Moonlight and Valentino,1.01115
+'Comedy','35',9087,Beau Billingslea,Moonlight and Valentino,1.01115
+'Action' 'Adventure' 'Comedy',"'28,12,35'",9087,Gail Strickland,Mute Witness,2.466066
+'Comedy' 'Adventure' 'Crime',"'35,12,80'",9087,Joshua Malina,Mute Witness,2.466066
+'Comedy' 'Fantasy' 'Family',"'35,14,10751'",9087,Clement von Franckenstein,Mute Witness,2.466066
+'Animation' 'Fantasy' 'Family' 'Comedy',"'16,14,10751,35'",9087,John Mahoney,Mute Witness,2.466066
+'Documentary' 'Foreign',"'99,10769'",9087,John Mahon,Nadja,7.720056
+'Adventure' 'Action' 'Science Fiction',"'12,28,878'",9087,Gabriel Jarret,The Net,13.304342
+'Drama','18',12110,Leslie Nielsen,Nine Months,8.482834
+'Documentary','99',12110,Mel Brooks,Party Girl,1.165039
+'History' 'Drama',"'36,18'",12110,Amy Yasbeck,The Prophecy,10.187623
+'Adventure' 'Family' 'Fantasy',"'12,10751,14'",12110,Peter MacNicol,Reckless,0.119713
+'Crime' 'Comedy',"'80,35'",12110,Lysette Anthony,Safe,8.180047
+'Drama' 'History' 'War',"'18,36,10752'",12110,Harvey Korman,Safe,8.180047
+'Thriller','53',12110,Steven Weber,The Scarlet Letter,6.752119
+'Horror' 'Mystery',"'27,9648'",12110,Mark Blankfield,The Show,0.159596
+'Animation' 'Family',"'16,10751'",12110,Megan Cavanagh,Showgirls,17.502375
+'Crime' 'Adventure' 'Action' 'War',"'80,12,28,10752'",12110,Gregg Binkley,Showgirls,17.502375
+'Comedy' 'TV Movie',"'35,10770'",12110,Anne Bancroft,Smoke,5.552946
+'Crime' 'Drama' 'Horror' 'Mystery' 'Science Fiction' 'Thriller',"'80,18,27,9648,878,53'",21032,Kevin Bacon,Smoke,5.552946
+'Comedy','35',21032,Bob Hoskins,Smoke,5.552946
+'Drama' 'Comedy' 'Crime',"'18,35,80'",21032,Bridget Fonda,Something to Talk About,3.743212
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",21032,Jim Cummings,Species,13.492845
+'Comedy' 'Drama',"'35,18'",21032,Phil Collins,The Stars Fell on Henrietta,0.913522
+'Fantasy' 'Animation' 'Family',"'14,16,10751'",21032,Juliette Brewer,Strange Days,11.223055
+'Horror' 'Thriller',"'27,53'",21032,Jack Angel,The Umbrellas of Cherbourg,8.133881
+'Animation' 'Family' 'Comedy',"'16,10751,35'",21032,Danny Mann,The Umbrellas of Cherbourg,8.133881
+'Drama','18',21032,Robbie Rist,The Tie That Binds,1.820419
+'Drama' 'Family' 'Comedy' 'TV Movie',"'18,10751,35,10770'",21032,Sandra Dickinson,Three Wishes,11.002046
+'Comedy' 'Thriller',"'35,53'",21032,Frank Welker,Total Eclipse,4.546552
+'Comedy','35',21032,Miriam Margolyes,Total Eclipse,4.546552
+'Documentary','99',21032,Lola Bates-Campbell,Total Eclipse,4.546552
+'Science Fiction','878',10858,Anthony Hopkins,"To Wong Foo, Thanks for Everything! Julie Newmar",7.653446
+'Animation' 'Family',"'16,10751'",10858,Joan Allen,Under Siege 2: Dark Territory,7.490247
+'Comedy' 'Crime' 'Romance',"'35,80,10749'",10858,Powers Boothe,Unstrung Heroes,2.881689
+'Thriller','53',10858,Ed Harris,Unzipped,0.786023
+'Western','37',10858,Bob Hoskins,A Walk in the Clouds,9.715639
+'Drama' 'Western',"'18,37'",10858,E.G. Marshall,Waterworld,16.885184
+'Comedy','35',10858,David Paymer,White Man's Burden,1.834099
+'Drama','18',10858,David Hyde Pierce,White Man's Burden,1.834099
+'Comedy' 'Crime',"'35,80'",10858,Paul Sorvino,Wild Bill,8.922139
+'Comedy' 'Drama',"'35,18'",10858,Mary Steenburgen,The Browning Version,3.727644
+'Adventure' 'Action' 'Comedy' 'Thriller',"'12,28,35,53'",10858,J.T. Walsh,Bushwhacked,3.287036
+'Action' 'Adventure' 'War',"'28,12,10752'",10858,James Woods,Burnt by the Sun,2.486073
+'Horror' 'Thriller',"'27,53'",10858,Brian Bedford,Burnt by the Sun,2.486073
+'Documentary','99',10858,Kevin Dunn,Before the Rain,3.525649
+'Drama','18',10858,Fyvush Finkel,Before the Rain,3.525649
+'Comedy' 'Romance',"'35,10749'",10858,Annabeth Gish,Before the Rain,3.525649
+'Horror' 'Thriller' 'Science Fiction',"'27,53,878'",10858,Larry Hagman,Before Sunrise,11.304979
+'Comedy' 'Drama',"'35,18'",10858,Madeline Kahn,Before Sunrise,11.304979
+'Drama' 'History',"'18,36'",10858,Dan Hedaya,Before Sunrise,11.304979
+'Science Fiction','878',10858,Bridgette Wilson,Billy Madison,6.638116
+'Drama','18',10858,Tom Bower,The Babysitter,2.761837
+'Adventure' 'Fantasy' 'Horror',"'12,14,27'",10858,Tony Goldwyn,Boys on the Side,3.030309
+'Drama' 'Science Fiction' 'Action' 'Adventure',"'18,878,28,12'",10858,Edward Herrmann,Boys on the Side,3.030309
+'Adventure','12',10858,Tony Lo Bianco,The Cure,2.686342
+'Crime' 'Drama' 'Horror' 'Thriller',"'80,18,27,53'",10858,Saul Rubinek,Castle Freak,2.26977
+'Crime' 'Action' 'Thriller',"'80,28,53'",10858,Robert Beltran,Circle of Friends,2.605521
+'Comedy' 'Crime',"'35,80'",10858,John Cunningham,Circle of Friends,2.605521
+'Comedy' 'Crime',"'35,80'",10858,John Diehl,Clerks,10.513367
+'Drama' 'Action' 'Thriller' 'Romance',"'18,28,53,10749'",10858,John C. McGinley,Don Juan DeMarco,7.438934
+'Romance' 'Drama',"'10749,18'",10858,Michael Chiklis,Disclosure,11.812244
+'','',10858,Ric Young,Dream Man,0.155859
+'Comedy' 'Family' 'Drama',"'35,10751,18'",10858,Boris Sichkin,Dream Man,0.155859
+'Horror','27',10858,Sam Waterston,Drop Zone,9.579155
+'Action' 'Thriller',"'28,53'",10858,Marley Shelton,Destiny Turns on the Radio,0.710671
+'Comedy' 'Drama',"'35,18'",1408,Geena Davis,Death and the Maiden,5.484156
+'Comedy' 'Horror',"'35,27'",1408,Matthew Modine,Death and the Maiden,5.484156
+'Documentary' 'Music',"'99,10402'",1408,Frank Langella,Death and the Maiden,5.484156
+'Crime' 'Drama',"'80,18'",1408,Maury Chaykin,Dolores Claiborne,5.8025
+'Drama' 'Romance',"'18,10749'",1408,Patrick Malahide,Dumb and Dumber,9.844558
+'Drama' 'Science Fiction' 'Thriller',"'18,878,53'",1408,Stan Shaw,Eat Drink Man Woman,4.860016
+'Drama' 'Foreign',"'18,10769'",1408,Rex Linn,Eat Drink Man Woman,4.860016
+'Comedy' 'Horror' 'Science Fiction',"'35,27,878'",1408,Paul Dillon,Exotica,5.378467
+'Drama' 'War',"'18,10752'",1408,Christopher Masterson,Exit to Eden,4.322726
+'Drama' 'War',"'18,10752'",1408,Jimmie F. Skaggs,Ed Wood,11.720358
+'Action' 'Thriller' 'Foreign',"'28,53,10769'",1408,Harris Yulin,French Kiss,9.146544
+'Action' 'Science Fiction' 'Comedy',"'28,878,35'",1408,Carl Chase,French Kiss,9.146544
+'Horror' 'Thriller',"'27,53'",1408,Peter Geeves,Forget Paris,16.236745
+'Thriller' 'Drama' 'Mystery',"'53,18,9648'",1408,Angus Wright,Far from Home: The Adventures of Yellow Dog,2.657337
+'Action' 'Comedy' 'Crime',"'28,35,80'",1408,Ken Bones,A Goofy Movie,10.177977
+'Music' 'Comedy' 'Documentary',"'10402,35,99'",1408,Mary Peach,Hideaway,8.182165
+'Documentary','99',1408,Thomas Lockyer,Fluke,4.953936
+'Animation' 'Comedy' 'Family' 'Horror' 'Thriller',"'16,35,10751,27,53'",1408,Roger Booth,Farinelli,8.935058
+'Drama','18',1408,George Murcell,Farinelli,8.935058
+'Drama','18',1408,Simon Atherton,Farinelli,8.935058
+'Crime' 'Drama' 'Thriller',"'80,18,53'",1408,Dickey Beer,Gordy,0.398924
+'Comedy' 'Romance' 'Drama',"'35,10749,18'",1408,Christopher Halliday,Gumby: The Movie,0.090452
+'Mystery' 'Drama' 'Crime' 'Thriller' 'Horror',"'9648,18,80,53,27'",1408,Chris Johnston,The Glass Shield,1.012197
+'Thriller' 'Mystery' 'Romance',"'53,9648,10749'",1408,Richard Leaf,The Glass Shield,1.012197
+'Comedy','35',1408,Tam White,Hoop Dreams,9.47666
+'Comedy' 'Music',"'35,10402'",1408,Rupert Vansittart,Heavenly Creatures,9.438042
+'Documentary','99',1408,Nick Bartlett,Houseguest,2.688562
+'Drama' 'Comedy',"'18,35'",1408,David Bailie,Immortal Beloved,7.983666
+'Adventure' 'Comedy' 'Drama' 'Family',"'12,35,18,10751'",1408,Kwame Kwei-Armah,Heavyweights,9.546707
+'Comedy' 'Drama',"'35,18'",1408,Ramon Tikaram,The Hunted,2.756986
+'Action' 'Comedy',"'28,35'",1408,Christopher Adamson,I.Q.,5.146352
+'Adventure' 'Comedy',"'12,35'",524,Robert De Niro,Interview with the Vampire,11.970205
+'Drama','18',524,Sharon Stone,Jefferson in Paris,1.596058
+'Fantasy' 'Drama',"'14,18'",524,Joe Pesci,The Jerky Boys,0.748846
+'Drama','18',524,James Woods,Junior,6.710215
+'Fantasy' 'Adventure' 'Animation' 'Family',"'14,12,16,10751'",524,Don Rickles,Just Cause,9.195256
+'Drama','18',524,Alan King,A Kid in King Arthur's Court,5.874511
+'Thriller' 'Drama',"'53,18'",524,Kevin Pollak,Kiss of Death,7.797512
+'Drama','18',524,Pasquale Cajano,Star Wars,42.149697
+'Comedy' 'Adventure' 'Fantasy' 'Animation' 'Family',"'35,12,14,16,10751'",524,L.Q. Jones,Little Women,9.774994
+'Crime' 'Drama',"'80,18'",524,Dick Smothers,A Little Princess,7.731725
+'Animation' 'Family' 'Comedy',"'16,10751,35'",524,Frank Vincent,Ladybird Ladybird,0.84508
+'Adventure' 'Fantasy' 'Action',"'12,14,28'",524,Oscar Goodman,L'Enfer,1.948315
+'Drama','18',524,Richard Riehle,Like Water for Chocolate,4.126083
+'Action' 'Adventure' 'Family' 'Fantasy',"'28,12,10751,14'",524,Catherine Scorsese,Legends of the Fall,12.199047
+'Foreign' 'Drama',"'10769,18'",524,Vinny Vella,Major Payne,9.253362
+'Drama','18',524,Nobu Matsuhisa,Little Odessa,1.861292
+'Drama' 'Music' 'Romance',"'18,10402,10749'",524,Erika von Tagen,Mi Vida Loca,1.788829
+'Romance' 'Family' 'Animation' 'Music',"'10749,10751,16,10402'",524,Nick Mazzola,Love Affair,3.290192
+'Adventure' 'Animation' 'Family',"'12,16,10751'",524,David Rose,Losing Isaiah,7.698526
+'','',524,John Bloom,The Madness of King George,4.81307
+'Drama','18',524,Joseph Rigano,Mary Shelley's Frankenstein,14.287753
+'Drama' 'Romance',"'18,10749'",524,Philip Suriano,Mary Shelley's Frankenstein,14.287753
+'Drama' 'Science Fiction' 'Thriller',"'18,878,53'",524,Melissa Prophet,Mary Shelley's Frankenstein,14.287753
+'Drama','18',524,Bill Allison,Man of the House,2.558118
+'Drama','18',524,Joe La Due,Mixed Nuts,2.899608
+'Comedy','35',524,Joseph P. Reidy,Milk Money,3.770115
+'Drama' 'Foreign',"'18,10769'",524,Craig Vincent,Miracle on 34th Street,5.831622
+'Fantasy' 'Comedy' 'Family' 'Romance',"'14,35,10751,10749'",524,Carl Ciarfalio,Miami Rhapsody,1.137266
+'Drama' 'Romance',"'18,10749'",524,Gene Ruffini,My Family,3.121288
+'Drama' 'Documentary',"'18,99'",524,Dominick Grieco,Murder in the First,9.518564
+'Drama' 'Romance',"'18,10749'",524,Clem Caserta,Murder in the First,9.518564
+'Comedy' 'Science Fiction',"'35,878'",524,Daniel P. Conte,Nobody's Fool,2.891269
+'Action' 'Adventure' 'Comedy',"'28,12,35'",524,Joey DePinto,Nell,5.930957
+'Documentary' 'History',"'99,36'",524,Jack Orend,New Jersey Drive,0.629955
+'Comedy' 'Foreign' 'Horror' 'Thriller',"'35,10769,27,53'",524,Paul Herman,New York Cop,0.004537
+'Comedy' 'Romance',"'35,10749'",524,Jed Mills,New York Cop,0.004537
+'Comedy','35',524,Claudia Haro,Beyond Bedlam,0.426952
+'Comedy','35',524,Ffolliott Le Coque,Nemesis 2 - Nebula,1.466491
+'Action' 'Comedy',"'28,35'",524,John Manca,Nina Takes a Lover,0.769522
+'Action' 'Comedy' 'Horror',"'28,35,27'",524,Ronald Maccone,Natural Born Killers,11.226856
+'Romance' 'Drama',"'10749,18'",524,Joseph Bono,Only You,4.936761
+'War' 'Drama',"'10752,18'",524,Frank Adonis,Once Were Warriors,4.025276
+'Fantasy' 'Comedy' 'Science Fiction' 'Family',"'14,35,878,10751'",524,Anthony Russell,Poison Ivy II: Lily,6.448039
+'Drama' 'Romance' 'War',"'18,10749,10752'",524,Stuart Nisbet,Outbreak,13.676444
+'Romance' 'Drama',"'10749,18'",524,Alfred Nittoli,Leon: The Professional,20.477329
+'Comedy' 'Drama' 'War',"'35,18,10752'",4584,Kate Winslet,Leon: The Professional,20.477329
+'Fantasy' 'Drama' 'Comedy' 'Romance',"'14,18,35,10749'",4584,Emma Thompson,The Perez Family,1.433544
+'Comedy' 'Horror' 'Thriller' 'Western',"'35,27,53,37'",4584,Hugh Grant,A Pyromaniac's Love Story,0.463307
+'Western' 'Horror' 'Thriller',"'37,27,53'",4584,Tom Wilkinson,Pulp Fiction,140.950236
+'Fantasy' 'Comedy' 'Family' 'Adventure',"'14,35,10751,12'",4584,Alan Rickman,Panther,7.160149
+'Comedy','35',4584,Imogen Stubbs,Panther,7.160149
+'Comedy' 'Drama' 'Fantasy' 'Romance',"'35,18,14,10749'",4584,Greg Wise,Pushing Hands,1.638622
+'History' 'War',"'36,10752'",4584,Hugh Laurie,Priest,1.881932
+'Science Fiction' 'Action' 'Horror',"'878,28,27'",4584,Imelda Staunton,Quiz Show,7.772505
+'Animation','16',4584,Robert Hardy,Picture Bride,1.296912
+'Drama' 'War',"'18,10752'",4584,Oliver Ford Davies,Picture Bride,1.296912
+'Drama','18',4584,James Fleet,Queen Margot,4.405405
+'Comedy' 'Romance',"'35,10749'",4584,Harriet Walter,Queen Margot,4.405405
+'Drama' 'Romance',"'18,10749'",4584,Gemma Jones,Queen Margot,4.405405
+'Comedy' 'Science Fiction',"'35,878'",4584,Emilie François,The Quick and the Dead,7.54701
+'Action' 'Thriller',"'28,53'",4584,Elizabeth Spriggs,The Quick and the Dead,7.54701
+'Drama' 'Romance',"'18,10749'",4584,Richard Lumsden,Roommates,3.395867
+'Drama' 'Crime',"'18,80'",5,Tim Roth,Prêt-à-Porter,6.259433
+'Adventure' 'Comedy',"'12,35'",5,Antonio Banderas,Three Colors: Red,7.832755
+'Action' 'Thriller',"'28,53'",5,Jennifer Beals,Three Colors: Red,7.832755
+'Drama' 'Action',"'18,28'",5,Madonna,Three Colors: Red,7.832755
+'Comedy' 'Foreign',"'35,10769'",5,Marisa Tomei,Three Colors: Blue,8.843517
+'Drama' 'Crime' 'Thriller',"'18,80,53'",5,Bruce Willis,Three Colors: Blue,8.843517
+'Action' 'Crime',"'28,80'",5,Quentin Tarantino,Three Colors: White,6.5898
+'Music' 'Drama',"'10402,18'",5,Sammi Davis,Three Colors: White,6.5898
+'Horror' 'Mystery' 'Thriller',"'27,9648,53'",5,Amanda de Cadenet,"Red Firecracker, Green Firecracker",0.078257
+'Mystery' 'Drama' 'Fantasy' 'Horror' 'Thriller',"'9648,18,14,27,53'",5,Valeria Golino,"Red Firecracker, Green Firecracker",0.078257
+'Horror' 'Thriller' 'Mystery',"'27,53,9648'",5,Lili Taylor,Rent-a-Kid,1.155255
+'Comedy','35',5,Lawrence Bender,Relative Fear,0.499601
+'Drama','18',5,Ione Skye,Stuart Saves His Family,1.390885
+'Animation','16',5,Alicia Witt,Stuart Saves His Family,1.390885
+'Drama','18',5,David Proval,The Swan Princess,8.910462
+'Action' 'Western',"'28,37'",5,Lana McKissack,The Secret of Roan Inish,1.750481
+'Western','37',5,Tamlyn Tomita,The Secret of Roan Inish,1.750481
+'Drama' 'Romance',"'18,10749'",5,Kathy Griffin,The Specialist,10.388183
+'Drama','18',5,Paul Calderon,The Specialist,10.388183
+'Adventure' 'Drama',"'12,18'",5,Salma Hayek,Stargate,13.328924
+'Drama' 'Comedy' 'Crime',"'18,35,80'",5,Patricia Vonne,Stargate,13.328924
+'Drama','18',5,Danny Verduzco,The Santa Clause,9.665424
+'Drama','18',5,Kimberly Blair,The Shawshank Redemption,51.645403
+'Drama','18',5,Marc Lawrence,Shallow Grave,8.223026
+'Drama','18',9273,Jim Carrey,Suture,1.298224
+'Drama','18',9273,Ian McNeice,Strawberry and Chocolate,1.777197
+'Drama' 'Horror' 'Thriller',"'18,27,53'",9273,Simon Callow,Strawberry and Chocolate,1.777197
+'Drama' 'History' 'War',"'18,36,10752'",9273,Maynard Eziashi,Swimming with Sharks,5.869261
+'Drama' 'Romance',"'18,10749'",9273,Bob Gunton,The Sum of Us,1.407427
+'Thriller' 'Action' 'Crime' 'Drama',"'53,28,80,18'",9273,Sophie Okonedo,Senior Trip,5.05806
+'Drama' 'Action',"'18,28'",9273,Tommy Davidson,Senior Trip,5.05806
+'','',9273,Adewale Akinnuoye-Agbaje,To Live,5.260627
+'Crime' 'Drama' 'Thriller',"'80,18,53'",9273,Danny D. Daniels,To Live,5.260627
+'Drama','18',9273,Sam Motoana Phillips,Tank Girl,7.602087
+'Action' 'Adventure' 'Fantasy',"'28,12,14'",9273,Damon Standifer,Tales from the Crypt: Demon Knight,9.455342
+'Adventure' 'Comedy' 'Romance',"'12,35,10749'",9273,Andrew Steel,Star Trek: Generations,8.105708
+'Drama' 'Romance',"'18,10749'",9273,Bruce Spence,Tales from the Hood,2.86007
+'Drama' 'Fantasy',"'18,14'",9273,Tom Grunke,Tom & Viv,0.704204
+'Drama','18',9273,Arsenio 'Sonny' Trinidad,Tom & Viv,0.704204
+'Comedy' 'Foreign',"'35,10769'",11517,Wesley Snipes,Village of the Damned,6.529879
+'Music','10402',11517,Woody Harrelson,Tommy Boy,11.971318
+'Thriller','53',11517,Jennifer Lopez,Vanya on 42nd Street,7.039846
+'Drama' 'Horror' 'Thriller',"'18,27,53'",11517,Robert Blake,The Underneath,2.059771
+'Comedy' 'Horror',"'35,27'",11517,Chris Cooper,The Walking Dead,0.620873
+'Drama' 'Music',"'18,10402'",11517,Joe Grifasi,What's Eating Gilbert Grape,10.3919
+'Adventure' 'Drama',"'12,18'",11517,Scott Sowers,Virtuosity,5.188399
+'Drama' 'Family',"'18,10751'",11517,Skipp Sudduth,While You Were Sleeping,15.783615
+'Drama','18',11517,Aida Turturro,The War,3.908596
+'Science Fiction' 'Western',"'878,37'",11517,Vincent Pastore,Double Happiness,0.372239
+'Comedy','35',11517,Enrico Colantoni,Muriel's Wedding,5.254847
+'Drama','18',11517,Bill Nunn,Muriel's Wedding,5.254847
+'Romance' 'Comedy' 'Drama',"'10749,35,18'",11517,Katie Gill,The Baby-Sitters Club,2.15805
+'Comedy','35',11517,Jeremy Roberts,Ace Ventura: Pet Detective,11.247957
+'Western','37',11517,Joe Bacino,"The Adventures of Priscilla, Queen of the Desert",8.328596
+'Drama' 'Romance',"'18,10749'",8012,John Travolta,Backbeat,2.487951
+'Action' 'Adventure' 'Science Fiction' 'Family',"'28,12,878,10751'",8012,Gene Hackman,Backbeat,2.487951
+'Horror' 'Thriller',"'27,53'",8012,Rene Russo,Bitter Moon,11.298195
+'TV Movie' 'Comedy',"'10770,35'",8012,Danny DeVito,Bitter Moon,11.298195
+'Drama' 'Comedy',"'18,35'",8012,Dennis Farina,Bitter Moon,11.298195
+'Adventure' 'Drama',"'12,18'",8012,Delroy Lindo,Bullets Over Broadway,5.72288
+'','',8012,James Gandolfini,Clear and Present Danger,7.513245
+'Fantasy' 'Drama' 'Horror' 'Action' 'Thriller' 'Science Fiction',"'14,18,27,28,53,878'",8012,Jon Gries,The Client,15.263829
+'','',8012,Renee Props,"Corrina, Corrina",6.924689
+'Thriller','53',8012,David Paymer,Crooklyn,2.533022
+'Crime' 'Action' 'Thriller',"'80,28,53'",8012,Martin Ferrero,The Crow,15.799336
+'War' 'Drama' 'Romance',"'10752,18,10749'",8012,Miguel Sandoval,Cobb,2.583363
+'Adventure' 'Action' 'Comedy' 'Science Fiction',"'12,28,35,878'",8012,Jacob Vargas,The Flintstones,15.019586
+'Animation' 'Comedy' 'Family',"'16,35,10751'",8012,Bobby Slayton,Forrest Gump,48.307194
+'Documentary' 'War',"'99,10752'",8012,Linda Hart,Four Weddings and a Funeral,8.990345
+'Drama' 'Family',"'18,10751'",8012,Jeffrey J. Stephen,Higher Learning,7.817811
+'Comedy','35',1710,Sigourney Weaver,I Like It Like That,0.289295
+'Fantasy' 'Comedy',"'14,35'",1710,Holly Hunter,I Love Trouble,3.570874
+'Music' 'Documentary',"'10402,99'",1710,Will Patton,It Could Happen to You,11.272073
+'Adventure' 'Drama' 'Action' 'Thriller',"'12,18,28,53'",1710,William McNamara,The Jungle Book,10.714235
+'Fantasy' 'Horror' 'Thriller',"'14,27,53'",1710,Harry Connick Jr.,"The Wonderful, Horrible Life of Leni Riefenstahl",0.568884
+'Action' 'Thriller',"'28,53'",1710,J.E. Freeman,"The Wonderful, Horrible Life of Leni Riefenstahl",0.568884
+'Action','28',1710,Dermot Mulroney,"The Wonderful, Horrible Life of Leni Riefenstahl",0.568884
+'Drama','18',1710,John Rothman,"The Wonderful, Horrible Life of Leni Riefenstahl",0.568884
+'Drama' 'History',"'18,36'",1710,Shannon O'Hurley,The Lion King,21.605761
+'Drama','18',1710,Bob Greene,Little Buddha,5.681522
+'Drama' 'Action' 'Comedy' 'Thriller',"'18,28,35,53'",1710,Tony Haney,Little Buddha,5.681522
+'Fantasy' 'Adventure' 'Action' 'Family' 'Romance',"'14,12,28,10751,10749'",1710,Danny Kovacs,Little Buddha,5.681522
+'Comedy','35',1710,Tahmus Rounds,Little Buddha,5.681522
+'Comedy','35',1710,Scott Devenney,New Nightmare,9.860522
+'Music' 'Drama' 'Romance',"'10402,18,10749'",1710,David Michael Silverman,The Mask,14.13488
+'Documentary','99',9691,Sylvester Stallone,Maverick,15.050326
+'Drama' 'Crime' 'Thriller',"'18,80,53'",9691,Antonio Banderas,Mrs. Parker and the Vicious Circle,4.739054
+'Action' 'Drama',"'28,18'",9691,Julianne Moore,The Naked Gun 33⅓: The Final Insult,10.587232
+'','',9691,Anatoli Davydov,The Paper,4.006063
+'Comedy' 'Romance',"'35,10749'",9691,Muse Watson,Reality Bites,6.514592
+'Horror' 'Thriller',"'27,53'",9691,Steve Kahan,Red Rock West,5.137903
+'Comedy' 'Romance',"'35,10749'",9691,Kelly Rowan,Ri¢hie Ri¢h,6.595255
+'Thriller' 'Crime' 'Drama',"'53,80,18'",9691,Reed Diamond,Safe Passage,4.931565
+'Comedy','35',9691,Kai Wulff,The River Wild,10.511241
+'Action','28',9691,Kerry Skalsky,Speed,10.859292
+'Comedy','35',9691,James Douglas Haskins,Speechless,2.334226
+'Drama' 'Thriller' 'Romance',"'18,53,10749'",9691,Stephen Liska,Timecop,8.907074
+'Drama' 'Fantasy' 'Thriller',"'18,14,53'",9691,John Harms,Timecop,8.907074
+'Action' 'Crime' 'Drama',"'28,80,18'",9691,Edward J. Rosen,True Lies,11.396099
+'Thriller' 'Drama' 'Crime' 'Romance',"'53,18,80,10749'",9691,Christina Orchid,When a Man Loves a Woman,4.322544
+'Horror' 'Thriller',"'27,53'",9691,Choco Orta,Wolf,14.063845
+'Documentary','99',9691,Germán Legarreta,Wyatt Earp,9.277147
+'Documentary','99',12665,Mary Steenburgen,Bad Company,0.912415
+'Horror' 'Thriller',"'27,53'",12665,Sean Patrick Flanery,A Man of No Importance,0.406113
+'Documentary' 'Music' 'Comedy',"'99,10402,35'",12665,Lance Henriksen,A Man of No Importance,0.406113
+'Documentary' 'Music',"'99,10402'",12665,Jeff Goldblum,S.F.W.,2.504529
+'Horror' 'Thriller',"'27,53'",12665,Brandon Smith,A Low Down Dirty Shame,3.021526
+'Comedy','35',451,Nicolas Cage,"Boys Life: Three Stories of Love, Lust, and Liberation",0.054148
+'Comedy','35',451,Elisabeth Shue,Colonel Chabert,0.934312
+'Fantasy' 'Horror' 'Thriller',"'14,27,53'",451,Julian Sands,"Faster, Pussycat! Kill! Kill!",4.220541
+'','',451,Richard Lewis,Jason's Lyric,0.912909
+'Documentary','99',451,Steven Weber,The Secret Adventures of Tom Thumb,0.381704
+'Drama','18',451,Kim Adams,Street Fighter,13.58449
+'Drama' 'Foreign',"'18,10769'",451,Emily Procter,Street Fighter,13.58449
+'Drama' 'Comedy' 'Thriller' 'Documentary',"'18,35,53,99'",451,Stuart Reynolds ,Coldblooded,2.342756
+'Romance' 'Documentary' 'Comedy',"'10749,99,35'",451,Valeria Golino,Desert Winds,0.251223
+'Crime' 'Drama' 'Comedy',"'80,18,35'",451,Graham Beckel,Fall Time,1.108494
+'Drama','18',451,Mariska Hargitay,The Fear,0.268043
+'Documentary','99',451,Laurie Metcalf,Frank and Ollie,0.142357
+'Drama','18',451,Shawnee Smith,Girl in the Cadillac,0.405392
+'Romance' 'Comedy' 'Drama' 'Horror',"'10749,35,18,27'",451,David Kriegel,Homage,0.014925
+'Science Fiction' 'Action' 'Adventure',"'878,28,12'",16420,Laurence Fishburne,Mirage,0.302957
+'','',16420,Irène Jacob,Open Season,0.012456
+'Family' 'Foreign',"'10751,10769'",16420,Kenneth Branagh,Dos Crímenes,0.233376
+'Drama','18',16420,Nathaniel Parker,Brother Minister: The Assassination of Malcolm X,0.0368
+'Horror' 'Thriller',"'27,53'",16420,Indra Ové,Highlander: The Final Dimension,6.866634
+'Romance' 'Comedy' 'Drama',"'10749,35,18'",16420,Michael Maloney,Highlander: The Final Dimension,6.866634
+'TV Movie' 'Drama' 'Crime',"'10770,18,80'",16420,Anna Patrick,Highlander: The Final Dimension,6.866634
+'Drama','18',16420,Nicholas Farrell,Federal Hill,0.100685
+'Crime' 'Documentary',"'80,99'",16420,Michael Sheen,In the Mouth of Madness,8.497643
+'Action' 'Drama',"'28,18'",9263,Christina Ricci,8 Seconds,1.888534
+'Horror' 'Thriller',"'27,53'",9263,Rosie O'Donnell,Above the Rim,4.38154
+'','',9263,Thora Birch,Addams Family Values,17.555909
+'Action' 'Comedy' 'Western',"'28,35,37'",9263,Melanie Griffith,Martin Lawrence: You So Crazy,0.394194
+'Western' 'Comedy',"'37,35'",9263,Gaby Hoffmann,The Age of Innocence,8.013617
+'Drama','18',9263,Demi Moore,Airheads,7.09232
+'Action' 'Drama',"'28,18'",9263,Ashleigh Aston Moore,The Air Up There,1.896273
+'Comedy' 'Romance',"'35,10749'",9263,Rita Wilson,Another Stakeout,12.967239
+'Crime' 'Drama' 'Horror' 'Mystery' 'Thriller',"'80,18,27,9648,53'",9263,Walter Sparrow,Bad Girls,14.644772
+'Crime' 'Drama',"'80,18'",9263,Devon Sawa,Barcelona,1.632711
+'Drama','18',9263,Cloris Leachman,Being Human,2.783872
+'Family','10751',9263,Janeane Garofalo,Being Human,2.783872
+'Action' 'Adventure' 'Comedy' 'Romance',"'28,12,35,10749'",9263,Hank Azaria,The Beverly Hillbillies,5.673735
+'Adventure' 'Horror' 'Action' 'Science Fiction',"'12,27,28,878'",9263,Bonnie Hunt,Beverly Hills Cop III,11.787784
+'Foreign','10769',9263,Lolita Davidovich,Black Beauty,8.398845
+'Drama' 'Crime' 'Mystery',"'18,80,9648'",9263,Brendan Fraser,Black Beauty,8.398845
+'Horror' 'Thriller',"'27,53'",17015,Amanda Root,Blink,3.00282
+'Comedy' 'Romance' 'Foreign',"'35,10749,10769'",17015,Ciarán Hinds,Blown Away,13.155071
+'Thriller','53',17015,Susan Fleetwood,Blue Chips,6.131056
+'Horror','27',17015,Fiona Shaw,Blue Sky,4.993829
+'Drama' 'Crime' 'Foreign',"'18,80,10769'",17015,John Woodvine,Body Snatchers,6.559693
+'Drama','18',17015,Phoebe Nicholls,Boxing Helena,4.304224
+'','',17015,Samuel West,A Bronx Tale,6.115628
+'Drama','18',17015,Sophie Thompson,Cabin Boy,1.679042
+'Drama','18',17015,Judy Cornwell,Calendar Girl,1.316741
+'Thriller' 'Drama',"'53,18'",17015,Simon Russell Beale,Carlito's Way,8.698509
+'War' 'Western',"'10752,37'",17015,Felicity Dean,City Slickers II: The Legend of Curly's Gold,8.605703
+'Comedy' 'Drama',"'35,18'",17015,Roger Hammond,Clean Slate,2.724621
+'Comedy','35',17015,Victoria Hamilton,Cliffhanger,9.830853
+'Comedy' 'War',"'35,10752'",17015,Corin Redgrave,Cliffhanger,9.830853
+'Comedy' 'Romance',"'35,10749'",17015,Emma Roberts,Cliffhanger,9.830853
+'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'",17015,Robert Glenister,Coneheads,10.722729
+'Drama','18',17015,Richard McCabe,Color of Night,14.228963
+'Documentary','99',17015,Helen Schlesinger,Cops & Robbersons,7.042878
+'Comedy' 'Documentary',"'35,99'",17015,Jane Wood,The Cowboy Way,4.286279
+'Western','37',17015,David Collings,Dangerous Game,2.70097
+'Action' 'Western',"'28,37'",17015,Darlene Johnson,Dave,13.696394
+'Comedy' 'Drama',"'35,18'",17015,Cinnamon Faye,Dazed and Confused,6.8652
+'Fantasy' 'Animation',"'14,16'",17015,Isaac Maxwell-Hunt,Demolition Man,11.626116
+'','',17015,Roger Llewellyn,The Endless Summer 2,0.408159
+'Drama','18',17015,Sally George,Even Cowgirls Get the Blues,2.970724
+'Animation' 'Documentary',"'16,99'",17015,Lonnie James,Fatal Instinct,3.555139
+'Documentary','99',902,Ron Perlman,Farewell My Concubine,4.875827
+'Drama','18',902,Dominique Pinon,Farewell My Concubine,4.875827
+'Drama' 'Romance',"'18,10749'",902,Judith Vittet,The Favor,1.344876
+'Drama' 'Horror' 'Thriller',"'18,27,53'",902,Daniel Emilfork,Fearless,9.284624
+'Action' 'Thriller',"'28,53'",902,Jean-Claude Dreyfus,Fear of a Black Hat,0.985441
+'War' 'Drama',"'10752,18'",902,Geneviève Brunet,Fear of a Black Hat,0.985441
+'Drama','18',902,Odile Mallet,With Honors,2.969003
+'Action' 'Thriller' 'Crime',"'28,53,80'",902,Mireille Mossé,Flesh and Bone,1.896869
+'Thriller' 'Foreign',"'53,10769'",902,Serge Merlin,Widows' Peak,0.409427
+'Documentary' 'Foreign',"'99,10769'",902,Rufus,Widows' Peak,0.409427
+'','',902,Ticky Holgado,For Love or Money,8.468869
+'','',902,Cris Huerta,The Firm,9.678367
+'Comedy' 'Drama',"'35,18'",902,Jean-Louis Trintignant,Free Willy,5.990572
+'Adventure' 'Fantasy' 'Family',"'12,14,10751'",902,Joseph Lucien,Free Willy,5.990572
+'Action','28',902,Mapi Galán,Fresh,3.970215
+'Comedy' 'Romance',"'35,10749'",902,Briac Barthélémy,Fresh,3.970215
+'Comedy' 'Romance',"'35,10749'",902,Pierre-Quentin Faesch,The Fugitive,10.08937
+'Adventure' 'Fantasy' 'Drama' 'Science Fiction' 'Romance',"'12,14,18,878,10749'",902,Alexis Pivot,Geronimo: An American Legend,4.653462
+'TV Movie' 'Comedy',"'10770,35'",902,François Hadji-Lazaro,The Getaway,14.214403
+'Animation' 'Action',"'16,28'",902,Dominique Bettenfeld,The Getaway,14.214403
+'Comedy','35',902,Lotfi Yahya Jedidi,Getting Even with Dad,2.410545
+'Comedy' 'Drama' 'Science Fiction',"'35,18,878'",902,Thierry Gibault,Go Fish,0.775898
+'Action' 'Adventure' 'Drama' 'Mystery' 'Science Fiction' 'Thriller',"'28,12,18,9648,878,53'",902,Marc Caro,A Good Man in Africa,5.22583
+'Drama' 'Action' 'Thriller' 'Crime' 'Mystery',"'18,28,53,80,9648'",902,Ham-Chau Luong,A Good Man in Africa,5.22583
+'Comedy','35',902,Frankie Pain,Guilty as Sin,5.385108
+'Comedy','35',902,Enrique Villanueva,Hard Target,7.834351
+'Comedy','35',902,Dominique Chevalier,Heaven & Earth,4.190541
+'Horror','27',902,Lorella Cravotta,Heaven & Earth,4.190541
+'Drama' 'Fantasy',"'18,14'",902,Éric Houzelot,Hot Shots! Part Deux,13.482371
+'Drama' 'Romance',"'18,10749'",902,Philippe Beautier,Live Nude Girls,2.138959
+'Comedy' 'Romance' 'Fantasy' 'Drama',"'35,10749,14,18'",902,Marc Amyot,The Englishman Who Went Up a Hill But Came Down a Mountain,5.331753
+'Comedy','35',902,Jean-Philippe Labadie,The House of the Spirits,10.687795
+'Action' 'Adventure' 'Fantasy' 'Horror' 'Science Fiction' 'Thriller',"'28,12,14,27,878,53'",902,Raphaèle Bouchard,The House of the Spirits,10.687795
+'Drama' 'Crime',"'18,80'",902,Elisabeth Etienne,The House of the Spirits,10.687795
+'Drama' 'Comedy' 'Crime',"'18,35,80'",902,Rachel Boulenger,The House of the Spirits,10.687795
+'Action' 'Adventure' 'Comedy',"'28,12,35'",902,Michel Motu,The House of the Spirits,10.687795
+'Adventure' 'Drama',"'12,18'",902,Nane Germon,House Party 3,0.996047
+'Drama' 'Crime',"'18,80'",37557,Gong Li,The Hudsucker Proxy,7.550545
+'Family' 'Animation',"'10751,16'",37557,Li Bao-Tian,The Hudsucker Proxy,7.550545
+'Thriller' 'Drama' 'Science Fiction' 'Action',"'53,18,878,28'",37557,Wang Xiaoxiao,The Hudsucker Proxy,7.550545
+'Drama','18',37557,Li Xuejian,I'll Do Anything,1.742974
+'Comedy' 'Thriller',"'35,53'",37557,Chun Sung,In the Army Now,6.071466
+'Documentary','99',37557,Fu Biao,In the Line of Fire,12.637158
+'TV Movie' 'Thriller' 'Crime' 'Drama',"'10770,53,80,18'",9909,Michelle Pfeiffer,In the Name of the Father,7.405895
+'Horror' 'Comedy' 'Crime',"'27,35,80'",9909,George Dzundza,In the Name of the Father,7.405895
+'Horror' 'Science Fiction' 'Thriller',"'27,878,53'",9909,Courtney B. Vance,The Inkwell,0.613335
+'Action' 'Comedy' 'Crime',"'28,35,80'",9909,Robin Bartlett,What's Love Got to Do with It,14.820883
+'','',9909,John Neville,Jimmy Hollywood,4.563989
+'Action' 'Crime',"'28,80'",9909,Beatrice Winde,Judgment Night,5.538671
+'Documentary' 'Music',"'99,10402'",9909,Lorraine Toussaint,Judgment Night,5.538671
+'Action' 'Thriller',"'28,53'",9909,Renoly Santiago,Jurassic Park,8.863776
+'Documentary','99',9909,Wade Dominguez,Kalifornia,8.4337
+'','',9909,Bruklin Harris,Killing Zoe,4.948569
+'Mystery' 'Horror',"'9648,27'",9909,Mercello Thedford,Killing Zoe,4.948569
+'Action' 'Science Fiction',"'28,878'",9909,Roberto Alvarez,King of the Hill,4.375347
+'Drama' 'Foreign',"'18,10769'",9909,Richard Grant,Lassie,3.645342
+'Horror','27',9909,Marisela Gonzales,Last Action Hero,9.434006
+'Drama' 'Romance',"'18,10749'",9909,Toni Nichelle Buzhardt,Life With Mikey,6.446229
+'Documentary','99',63,Bruce Willis,Lightning Jack,2.913584
+'Comedy' 'Fantasy',"'35,14'",63,Madeleine Stowe,Lightning Jack,2.913584
+'Drama' 'Foreign',"'18,10769'",63,Brad Pitt,M. Butterfly,6.516976
+'Crime' 'Drama',"'80,18'",63,Christopher Plummer,Made in America,5.43085
+'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'",63,David Morse,Made in America,5.43085
+'Drama' 'Thriller',"'18,53'",63,Jon Seda,Malice,9.861672
+'Science Fiction' 'Action' 'Drama' 'Thriller',"'878,28,18,53'",63,Frank Gorshin,The Man without a Face,5.997712
+'Horror' 'Science Fiction' 'Foreign',"'27,878,10769'",63,Joseph Melito,Manhattan Murder Mystery,8.939404
+'Comedy','35',63,Aaron Michael Lacey,Menace II Society,5.260924
+'Drama','18',63,Christopher Meloni,Executive Decision,13.106291
+'Drama','18',63,Joey Perillo,In the Realm of the Senses,8.932494
+'Drama' 'History',"'18,36'",63,LisaGay Hamilton,What Happened Was...,0.534606
+'Action' 'Comedy',"'28,35'",63,Matt Ross,Much Ado About Nothing,8.62724
+'Drama' 'Horror',"'18,27'",63,Annie Golden,Much Ado About Nothing,8.62724
+'Comedy' 'Crime' 'Family',"'35,80,10751'",63,Michael Chance,Mr. Jones,6.579753
+'Comedy' 'Drama',"'35,18'",63,Vernon Campbell,Mr. Wonderful,13.011091
+'Drama' 'Romance',"'18,10749'",63,H. Michael Walls,Mrs. Doubtfire,11.16553
+'Horror','27',63,Bob Adrian,Naked,8.665198
+'Crime' 'Drama' 'Thriller',"'80,18,53'",63,Simon Jones,The Next Karate Kid,9.9697
+'TV Movie' 'Thriller' 'Drama' 'Mystery',"'10770,53,18,9648'",63,Carol Florence,The New Age,0.596207
+'War' 'Comedy' 'Drama',"'10752,35,18'",63,Bill Raymond,No Escape,9.715187
+'Drama' 'Action' 'Romance',"'18,28,10749'",63,Ernest Abuba,North,15.534707
+'Drama','18',63,Irma St. Paule,Orlando,3.800785
+'Action' 'Science Fiction',"'28,878'",63,Rozwill Young,Orlando,3.800785
+'Drama','18',63,Nell Johnson,Orlando,3.800785
+'Documentary','99',63,Frederick Strother,Orlando,3.800785
+'Drama' 'History',"'18,36'",63,Charles Techman,Orlando,3.800785
+'TV Movie' 'Action' 'Adventure',"'10770,28,12'",63,Rick Warner,A Perfect World,8.040589
+'Adventure' 'Comedy',"'12,35'",63,Anthony 'Chip' Brienza,Philadelphia,13.373006
+'Comedy' 'Drama' 'War',"'35,18,10752'",63,Bruce Kirkpatrick,The Piano,7.436758
+'Drama','18',63,Wilfred Williams,The Piano,7.436758
+'Drama' 'Music' 'Documentary',"'18,10402,99'",63,Joilet Harris,The Piano,7.436758
+'Drama','18',63,Drucie McDaniel,Poetic Justice,6.972599
+'Horror','27',63,John Blaisse,The Program,3.199976
+'Drama','18',63,Louis Lippa,The Puppet Masters,7.272296
+'','',63,Stan Kang,Radioland Murders,8.506727
+'Drama','18',63,Pat Dias,The Ref,5.868677
+'Comedy','35',63,Felix Pire,The Remains of the Day,12.222576
+'Family' 'Fantasy' 'Comedy',"'10751,14,35'",63,Karl Warren,The Remains of the Day,12.222576
+'Documentary','99',63,Joseph McKenna,Renaissance Man,4.985157
+'Drama','18',63,Stephen Bridgewater,Renaissance Man,4.985157
+'Adventure','12',63,Ray Huffman,Rising Sun,6.279082
+'Drama' 'Music',"'18,10402'",63,Charley Scalies,The Road to Wellville,3.416181
+'Drama','18',63,Robert O'Neill,RoboCop 3,8.685798
+'Documentary','99',63,Paul Meshejian,Robin Hood: Men in Tights,17.136672
+'Documentary','99',63,Kevin Thigpen,Robin Hood: Men in Tights,17.136672
+'Drama' 'Romance',"'18,10749'",63,Harry O'Toole,Romeo Is Bleeding,9.796318
+'Drama' 'War' 'History',"'18,10752,36'",63,Jann Ellis,Romeo Is Bleeding,9.796318
+'Documentary','99',63,Michael Ryan Segal,Romper Stomper,5.157926
+'Drama' 'Comedy',"'18,35'",63,Korchenko,Ruby in Paradise,0.941994
+'Action' 'Thriller',"'28,53'",63,Chuck Jeffreys,Rudy,5.914833
+'Drama','18',63,Barry Price,The Saint of Fort Washington,1.065843
+'','',63,John Panzarella,Savage Nights,1.031556
+'Drama','18',63,Janet Zappala,Savage Nights,1.031556
+'Drama' 'Comedy',"'18,35'",63,Lisa Talerico,Schindler's List,41.725123
+'Fantasy','14',63,Tiffany Baldwin,The Scout,5.715608
+'Comedy' 'Drama',"'35,18'",63,C.J. Byrnes,Searching for Bobby Fischer,12.048587
+'Animation' 'Comedy',"'16,35'",63,Tom Detrik,Second Best,0.882596
+'Drama','18',63,Joe Gerety,Second Best,0.882596
+'Comedy' 'Fantasy' 'Family',"'35,14,10751'",63,Renee Spei,The Secret Garden,6.499523
+'','',63,Bonnie Loev,Serial Mom,5.305311
+'Adventure' 'Animation' 'Family',"'12,16,10751'",63,Raymond Mamrak,The Shadow,7.881107
+'Drama' 'Action' 'Comedy',"'18,28,35'",63,Sal Mazzotta,Shadowlands,2.96586
+'Horror' 'Thriller',"'27,53'",63,Allelon Ruggiero,Short Cuts,8.829337
+'Horror' 'Science Fiction' 'Thriller',"'27,878,53'",63,Thang,A Simple Twist of Fate,4.13516
+'Comedy' 'Drama',"'35,18'",78802,Craig Sheffer,Sirens,2.86213
+'Drama','18',78802,Elizabeth McGovern,Sirens,2.86213
+'Comedy' 'Documentary',"'35,99'",78802,Tom Hulce,Six Degrees of Separation,8.730025
+'Adventure' 'Animation' 'Family' 'Fantasy' 'Science Fiction',"'12,16,10751,14,878'",78802,Ken Pogue,Sleepless in Seattle,10.234919
+'Drama' 'History',"'18,36'",78802,Ron Sauvé,Sliver,11.23297
+'Thriller','53',78802,Val Kilmer,Blade Runner,96.272374
+'Action' 'Crime' 'Drama' 'Mystery' 'Thriller',"'28,80,18,9648,53'",78802,Freddy Andreiuci,Blade Runner,96.272374
+'Horror','27',9598,Christine Cavanaugh,Blade Runner,96.272374
+'Foreign','10769',9598,Miriam Margolyes,Son in Law,9.122718
+'Drama' 'Foreign',"'18,10769'",9598,Danny Mann,So I Married an Axe Murderer,8.051914
+'Drama' 'Romance',"'18,10749'",9598,Hugo Weaving,Striking Distance,13.390917
+'Romance' 'Drama',"'10749,18'",9598,Miriam Flynn,Harem,1.825468
+'Drama' 'Horror' 'Thriller' 'Crime',"'18,27,53,80'",9598,James Cromwell,Super Mario Bros.,7.198455
+'Comedy','35',9598,Russi Taylor,Super Mario Bros.,7.198455
+'Comedy' 'Romance',"'35,10749'",9598,Evelyn Krape,Surviving the Game,3.644641
+'Romance' 'Drama' 'Action' 'War',"'10749,18,28,10752'",9598,Michael Edward-Stevens,Terminal Velocity,8.012225
+'Action' 'Drama' 'Thriller',"'28,18,53'",9598,Charles Bartlett,Thirty Two Short Films About Glenn Gould,0.873068
+'Drama' 'History' 'War',"'18,36,10752'",9598,Paul Livingston,Thirty Two Short Films About Glenn Gould,0.873068
+'Comedy','35',9598,Roscoe Lee Browne,Thirty Two Short Films About Glenn Gould,0.873068
+'Fantasy','14',9598,Magda Szubanski,Thirty Two Short Films About Glenn Gould,0.873068
+'Science Fiction' 'Drama' 'Romance',"'878,18,10749'",9598,Zoe Burton,Threesome,10.82236
+'Action' 'Adventure' 'Crime' 'Romance' 'Thriller',"'28,12,80,10749,53'",9598,Paul Goddard,The Nightmare Before Christmas,17.730913
+'Drama' 'Action',"'18,28'",9598,Wade Hayward,The Three Musketeers,6.34785
+'Drama','18',9598,Brittany Byrnes,The Three Musketeers,6.34785
+'Comedy' 'Horror',"'35,27'",9598,Mary Acres,Tombstone,11.338194
+'','',47018,Emma Thompson,Trial by Jury,0.85586
+'Drama' 'Foreign',"'18,10769'",47018,Jonathan Pryce,True Romance,17.189328
+'Crime' 'Drama' 'Mystery' 'Thriller',"'80,18,9648,53'",47018,Steven Waddington,The War Room,1.273617
+'Drama' 'Romance',"'18,10749'",47018,Samuel West,The Pagemaster,7.436001
+'Action' 'Drama' 'Thriller',"'28,18,53'",47018,Rufus Sewell,"Paris, France",0.741522
+'Drama','18',47018,Penelope Wilton,"The Beans of Egypt, Maine",0.38247
+'Drama','18',47018,Janet McTeer,Killer,0.422224
+'Drama' 'Comedy' 'Romance',"'18,35,10749'",47018,Jeremy Northam,Killer,0.422224
+'Comedy','35',47018,Alex Kingston,Killer,0.422224
+'Comedy' 'Drama',"'35,18'",47018,Richard Clifford,Welcome to the Dollhouse,5.14056
+'Drama','18',47018,David Ryall,Germinal,2.759302
+'TV Movie' 'Action' 'Drama',"'10770,28,18'",47018,Stephen Boxer,Germinal,2.759302
+'Drama','18',687,Susan Sarandon,Germinal,2.759302
+'Fantasy' 'Science Fiction',"'14,878'",687,Sean Penn,Chasers,9.85327
+'Comedy' 'Family',"'35,10751'",687,Robert Prosky,Cronos,5.513024
+'Drama','18',687,Raymond J. Barry,Naked in New York,0.449733
+'Drama','18',687,R. Lee Ermey,Kika,3.647321
+'Comedy' 'Romance',"'35,10749'",687,Celia Weston,Kika,3.647321
+'Comedy','35',687,Lois Smith,Bhaji on the Beach,0.441585
+'Drama' 'Foreign',"'18,10769'",687,Scott Wilson,Little Big League,1.960563
+'Drama','18',687,Roberta Maxwell,The Slingshot,1.764582
+'Drama','18',687,Margo Martindale,The Slingshot,1.764582
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",687,Jack Black,Wide Eyed and Legless,0.00015
+'Crime' 'History',"'80,36'",687,Ray Aranha,Foreign Student,0.002789
+'Drama' 'Comedy',"'18,35'",687,Peter Sarsgaard,"Ciao, Professore!",3.456868
+'','',687,Barton Heyman,Spanking the Monkey,2.799575
+'Horror','27',687,Steve Boles,The Little Rascals,6.707109
+'Comedy','35',687,Nesbitt Blaisdell,À la mode,8.2e-05
+'Action' 'Drama' 'Thriller',"'28,18,53'",687,Larry Pine,Andre,3.139316
+'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'",687,Kevin Cooney,The Escort,0.046196
+'Comedy' 'Family',"'35,10751'",687,Clancy Brown,Princess Caraboo,1.943323
+'Comedy','35',687,Michael Cullen,The Celluloid Closet,6.784687
+'TV Movie' 'Drama',"'10770,18'",687,Missy Yager,Café au Lait,1.040873
+'Documentary','99',687,Jenny Krochmal,Café au Lait,1.040873
+'Comedy' 'Drama' 'Romance' 'Science Fiction',"'35,18,10749,878'",687,Jon Abrahams,Dear Diary,2.904734
+'Comedy' 'Drama' 'Family',"'35,18,10751'",687,Arthur Bridgers,Dear Diary,2.904734
+'','',687,Steve Carlisle,I Don't Want to Talk About It,1.213481
+'Thriller' 'Drama',"'53,18'",687,Eva Amurri Martino,I Don't Want to Talk About It,1.213481
+'Science Fiction' 'Action' 'Thriller',"'878,28,53'",687,Jack Henry Robbins,The Brady Bunch Movie,4.233092
+'Music' 'Drama',"'10402,18'",687,Dennis Neal,Home Alone,0.702543
+'Crime' 'Drama',"'80,18'",687,Molly Bryant,Ghost,11.945397
+'','',687,Adele Robbins,Aladdin,16.357419
+'Drama','18',687,Pete Burris,Terminator 2: Judgment Day,22.661695
+'Romance' 'Fantasy',"'10749,14'",687,Joan Glover,Terminator 2: Judgment Day,22.661695
+'Drama' 'History' 'Romance' 'War',"'18,36,10749,10752'",687,Lenore Banks,Dances with Wolves,11.654349
+'Drama' 'Comedy' 'Romance',"'18,35,10749'",687,Scott Sowers,Dances with Wolves,11.654349
+'Drama','18',687,Cortez Nance Jr.,Tough and Deadly,0.426887
+'Horror' 'Comedy' 'Romance',"'27,35,10749'",687,Adam Nelson,Batman,19.10673
+'Action' 'Adventure',"'28,12'",687,Jeremy Knaster,Batman,19.10673
+'Mystery' 'Drama',"'9648,18'",687,Marcus Lyle Brown,The Silence of the Lambs,4.307222
+'Crime' 'Drama' 'Mystery',"'80,18,9648'",687,Anthony Michael Frederick,Snow White and the Seven Dwarfs,16.263878
+'Drama' 'Foreign',"'18,10769'",687,Thomas McGowan,Beauty and the Beast,23.433511
+'Drama','18',687,Codie Scott,Pinocchio,14.202284
+'Mystery' 'Crime' 'Drama',"'9648,80,18'",687,Helen Prejean,Pretty Woman,13.348451
+'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'",139405,Peter Reznick,Window to Paris,0.345748
+'Documentary' 'Drama' 'History',"'99,18,36'",139405,John McDonough,Window to Paris,0.345748
+'Fantasy' 'Drama',"'14,18'",139405,Avi Hoffman,The Wild Bunch,11.722424
+'Action' 'Thriller' 'Crime',"'28,53,80'",139405,Matt Malloy,Love and a .45,3.40523
+'Comedy','35',139405,Abby Lewis,The Wooden Man's Bride,0.088451
+'Crime' 'Drama' 'Thriller',"'80,18,53'",33689,Kirstie Alley,A Great Day in Harlem,0.076352
+'Action' 'Drama' 'Crime',"'28,18,80'",33689,Steve Guttenberg,Bye Bye Love,2.47308
+'Animation' 'Horror' 'Mystery',"'16,27,9648'",33689,Ashley Olsen,One Fine Day,7.009946
+'Comedy' 'Drama',"'35,18'",33689,Mary-Kate Olsen,Candyman: Farewell to the Flesh,4.983552
+'Action' 'Crime' 'Thriller' 'Drama',"'28,80,53,18'",33689,Jane Sibbett,Century,1.461029
+'Drama' 'Fantasy',"'18,14'",33689,Philip Bosco,Fargo,12.61469
+'Action' 'Thriller',"'28,53'",33689,Michelle Grisom,Homeward Bound II: Lost in San Francisco,14.657754
+'Western' 'Comedy' 'Drama' 'Family',"'37,35,18,10751'",33689,Desmond Robertson,Homeward Bound II: Lost in San Francisco,14.657754
+'Drama' 'Romance',"'18,10749'",33689,Tiny Mills,Heavy Metal,7.640073
+'Drama','18',33689,Shanelle Henry,Hellraiser: Bloodline,5.263187
+'Horror' 'Thriller',"'27,53'",33689,Michèle Lonsdale Smith,The Pallbearer,8.174116
+'Action' 'Thriller' 'Crime',"'28,53,80'",33689,Sean Orr,Jane Eyre,2.420301
+'Mystery','9648',33689,Elizabeth Walsh,Loaded,0.618066
+'Fantasy' 'Horror',"'14,27'",9603,Alicia Silverstone,Bread and Chocolate,1.306628
+'Comedy' 'Horror',"'35,27'",9603,Stacey Dash,The Aristocats,9.834047
+'Drama' 'Foreign',"'18,10769'",9603,Brittany Murphy,The Flower of My Secret,2.286788
+'Action' 'Thriller' 'Mystery',"'28,53,9648'",9603,Paul Rudd,Two Much,1.620174
+'Comedy' 'Crime' 'Romance' 'Drama',"'35,80,10749,18'",9603,Donald Faison,Two Much,1.620174
+'Action','28',9603,Elisa Donovan,Ed,5.174212
+'Drama' 'Fantasy' 'Horror' 'Mystery',"'18,14,27,9648'",9603,Breckin Meyer,Scream of Stone,0.736081
+'Drama' 'Fantasy' 'Science Fiction',"'18,14,878'",9603,Jeremy Sisto,My Favorite Season,0.516924
+'Drama','18',9603,Dan Hedaya,A Modern Affair,0.173207
+'Drama','18',9603,Wallace Shawn,Condition Red,0.793932
+'Drama','18',9603,Twink Caplan,Halfaouine: Boy of the Terraces,1.983301
+'Drama' 'Romance',"'18,10749'",9603,Justin Walker,Halfaouine: Boy of the Terraces,1.983301
+'Thriller' 'Horror',"'53,27'",9603,Julie Brown,Halfaouine: Boy of the Terraces,1.983301
+'Comedy','35',9603,Nicole Bilderback,A Thin Line Between Love and Hate,2.256747
+'Comedy' 'Family' 'Fantasy' 'Drama',"'35,10751,14,18'",34615,James Earl Jones,The Last Supper,4.619915
+'Drama','18',34615,Charles S. Dutton,Primal Fear,10.326213
+'Drama','18',34615,Jack Robinson,Rude,0.065827
+'','',34615,Tsholofelo Wechoemang,Carried Away,1.67218
+'Family' 'Comedy',"'10751,35'",34615,Ramalao Makhene,All Dogs Go to Heaven 2,5.028897
+'Comedy' 'Family' 'Fantasy',"'35,10751,14'",34615,Richard Harris,Land and Freedom,6.144235
+'Drama','18',34615,Dolly Rathebe,Land and Freedom,6.144235
+'Drama','18',34615,Jennifer Steyn,Land and Freedom,6.144235
+'','',34615,Ian Roberts,Land and Freedom,6.144235
+'Animation','16',34615,David Clatworthy,Land and Freedom,6.144235
+'Comedy' 'Mystery',"'35,9648'",31174,Ian McKellen,Denise Calls Up,0.466476
+'Comedy','35',31174,Annette Bening,Theodore Rex,2.583686
+'Comedy' 'Crime' 'Romance',"'35,80,10749'",31174,Jim Broadbent,A Family Thing,6.207993
+'Comedy','35',31174,Kristin Scott Thomas,Frisk,0.319215
+'Drama','18',31174,Adrian Dunbar,Sgt. Bilko,5.70904
+'Drama' 'War',"'18,10752'",31174,Maggie Smith,Jack & Sarah,1.523446
+'Drama' 'Foreign',"'18,10769'",31174,Tim McInnerny,Jack & Sarah,1.523446
+'Drama' 'History' 'Romance',"'18,36,10749'",31174,Robert Downey Jr.,Girl 6,4.405169
+'Comedy' 'Drama',"'35,18'",31174,Edward Hardwicke,Diabolique,4.530079
+'Adventure' 'Crime' 'Romance',"'12,80,10749'",31174,Nigel Hawthorne,"Little Indian, Big City",4.728163
+'Comedy' 'Romance',"'35,10749'",31174,Jim Carter,Roula,0.149157
+'Drama' 'Romance',"'18,10749'",31174,Dominic West,Peanuts – Die Bank zahlt alles,0.066123
+'Documentary','99',31174,John Wood,Happy Weekend,0.002229
+'Comedy' 'Horror',"'35,27'",31174,Roger Hammond,Nelly and Monsieur Arnaud,1.784647
+'','',31174,Bill Paterson,Nelly and Monsieur Arnaud,1.784647
+'','',31174,Donald Sumpter,Nelly and Monsieur Arnaud,1.784647
+'Horror','27',31174,James Dreyfus,Courage Under Fire,11.595316
+'Action' 'Drama' 'Science Fiction' 'Thriller',"'28,18,878,53'",31174,Derek Lyons,Mission: Impossible,15.793477
+'Horror','27',11443,Larenz Tate,Cold Fever,0.494977
+'Action' 'War' 'Drama' 'History',"'28,10752,18,36'",11443,Keith David,Cold Fever,0.494977
+'','',11443,Chris Tucker,Cold Fever,0.494977
+'Fantasy','14',11443,Freddy Rodríguez,Cold Fever,0.494977
+'','',11443,Rose Jackson,Cold Fever,0.494977
+'Adventure','12',11443,N'Bushe Wright,Moll Flanders,2.337263
+'','',11443,Clifton Powell,The Superwife,0.821299
+'Drama' 'Adventure',"'18,12'",11443,Terrence Howard,"301, 302",0.396626
+'Drama' 'Romance',"'18,10749'",11443,Bokeem Woodbine,DragonHeart,23.63659
+'Thriller' 'Comedy',"'53,35'",11443,Sticky Fingaz,Und keiner weint mir nach,0.439989
+'Drama' 'Comedy' 'Romance' 'Foreign',"'18,35,10749,10769'",11443,Clifton Collins Jr,My Mother's Courage,0.622885
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",11443,Elizabeth Rodriguez,My Mother's Courage,0.622885
+'','',11443,Michael Imperioli,My Mother's Courage,0.622885
+'Comedy' 'Drama',"'35,18'",35196,Robert Downey Jr.,My Mother's Courage,0.622885
+'Drama' 'History',"'18,36'",35196,Meg Ryan,Eddie,3.09233
+'Animation' 'Drama',"'16,18'",35196,Sam Neill,Yankee Zulu,1.558066
+'Drama' 'Fantasy' 'Horror',"'18,14,27'",35196,David Thewlis,Billy's Holiday,0.002444
+'Horror','27',35196,Hugh Grant,Purple Noon,3.804493
+'Horror' 'Foreign',"'27,10769'",35196,Polly Walker,Purple Noon,3.804493
+'Drama' 'Music',"'18,10402'",35196,Ian McKellen,August,0.987434
+'Comedy','35',35196,Ian McDiarmid,August,0.987434
+'','',35196,Mary MacLeod,James and the Giant Peach,13.217623
+'Action' 'Thriller' 'Crime',"'28,53,80'",35196,Willie Ross,Fear,6.954926
+'Comedy','35',9312,Christopher Lambert,Kids in the Hall: Brain Candy,2.299851
+'Comedy' 'Action',"'35,28'",9312,Robin Shou,Kids in the Hall: Brain Candy,2.299851
+'Drama','18',9312,Linden Ashby,Faithful,1.296862
+'Action' 'Drama' 'Thriller' 'Crime',"'28,18,53,80'",9312,Cary-Hiroyuki Tagawa,Underground,14.587894
+'Comedy','35',9312,Bridgette Wilson,Underground,14.587894
+'Drama','18',9312,Talisa Soto,Underground,14.587894
+'Western' 'Comedy',"'37,35'",9312,Trevor Goddard,Underground,14.587894
+'Comedy' 'Drama' 'Family' 'Romance',"'35,18,10751,10749'",9312,Chris Casamassa,Underground,14.587894
+'Horror','27',9312,François Petit,All Things Fair,3.582047
+'Drama' 'Romance',"'18,10749'",9312,Keith Cooke,All Things Fair,3.582047
+'Comedy' 'Romance',"'35,10749'",9312,Ed Boon,Bloodsport II,3.085207
+'Comedy' 'Romance',"'35,10749'",577,Nicole Kidman,Pather Panchali,3.900709
+'Drama','18',577,Matt Dillon,The World of Apu,2.381806
+'Comedy' 'Drama',"'35,18'",577,Joaquin Phoenix,Mystery Science Theater 3000: The Movie,2.985163
+'Comedy' 'Mystery' 'Thriller',"'35,9648,53'",577,Casey Affleck,Tarantella,0.001662
+'Documentary','99',577,Illeana Douglas,Space Jam,11.054251
+'Fantasy','14',577,Alison Folland,Barbarella,14.304205
+'Comedy' 'Fantasy',"'35,14'",577,Dan Hedaya,Hostile Intentions,0.062388
+'Animation' 'Comedy',"'16,35'",577,Wayne Knight,They Bite,0.466991
+'Fantasy','14',577,David Cronenberg,Some Folks Call It a Sling Blade,0.459376
+'Fantasy','14',577,Kurtwood Smith,The Run of the Country,0.117662
+'Horror' 'Comedy' 'Fantasy',"'27,35,14'",577,Holland Taylor,The Run of the Country,0.117662
+'Thriller','53',577,Susan Traylor,Alphaville,4.658149
+'Comedy','35',577,Maria Tucci,Alphaville,4.658149
+'Documentary','99',577,Tim Hopper,Coup de Torchon,2.272213
+'Adventure','12',11861,Winona Ryder,Tigrero: A Film That Was Never Made,0.18343
+'Documentary','99',11861,Anne Bancroft,The Eye of Vichy,0.004117
+'Comedy' 'Drama' 'Family' 'Romance',"'35,18,10751,10749'",11861,Ellen Burstyn,Windows,0.400023
+'Drama','18',11861,Kate Nelligan,It's My Party,2.791667
+'Horror' 'Comedy' 'Romance',"'27,35,10749'",11861,Jean Simmons,Country Life,0.487357
+'Action' 'Adventure' 'Comedy' 'Fantasy',"'28,12,35,14'",11861,Maya Angelou,Operation Dumbo Drop,4.357971
+'Documentary','99',11861,Alfre Woodard,The Promise,0.122178
+'Documentary' 'Foreign',"'99,10769'",11861,Dermot Mulroney,Mrs. Winterbourne,9.1861
+'Drama' 'Crime',"'18,80'",11861,Lois Smith,Solo,1.899069
+'Drama' 'Comedy',"'18,35'",11861,Kate Capshaw,Solo,1.899069
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",11861,Rip Torn,Under The Domim Tree,0.71066
+'Horror' 'Thriller',"'27,53'",11861,Johnathon Schaech,The Substitute,10.68537
+'Drama','18',11861,Samantha Mathis,True Crime,1.217249
+'Action','28',11861,Joanna Going,Butterfly Kiss,0.877853
+'Drama','18',11861,Esther Rolle,Feeling Minnesota,10.298582
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",11861,Jared Leto,Delta of Venus,1.099187
+'Action' 'Adventure' 'Drama' 'History' 'War',"'28,12,18,36,10752'",11861,Claire Danes,To Cross the Rubicon,0.006854
+'Comedy' 'Crime' 'Thriller',"'35,80,53'",11861,Lecy Goranson,Angus,2.25008
+'Comedy' 'Family',"'35,10751'",11861,Holland Taylor,Priest Daens,0.755047
+'Drama' 'Romance',"'18,10749'",11861,Tim Guinee,Faces,7.918418
+'Comedy','35',11861,Derrick O'Connor,Boys,1.579153
+'Action' 'Thriller' 'Science Fiction',"'28,53,878'",11861,Loren Dean,The Quest,7.941972
+'Comedy','35',11861,Melinda Dillon,The Quest,7.941972
+'Documentary','99',11861,Richard Jenkins,Cosi,0.947007
+'Comedy' 'Family' 'Fantasy',"'35,10751,14'",11861,Denis Arndt,Sunset Park,1.231692
+'Documentary','99',11861,Adam Baldwin,Mulholland Falls,5.79463
+'Documentary','99',11861,Michael McElroy,The Truth About Cats & Dogs,5.121203
+'Comedy','35',11861,Ari Meyers,Oliver & Company,10.813579
+'Comedy' 'Family' 'Romance',"'35,10751,10749'",11861,Jane Alden,Celtic Pride,1.940747
+'','',11861,Tamala Jones,Flipper,4.557006
+'Romance' 'Horror' 'Thriller',"'10749,27,53'",11861,Rae'Ven Larrymore Kelly,Captives,1.926109
+'','',11861,Alicia Goranson,Captives,1.926109
+'Drama','18',11861,Will Estes,Of Love and Shadows,0.709209
+'Adventure' 'Comedy' 'Family' 'Fantasy',"'12,35,10751,14'",11861,Mykelti Williamson,Of Love and Shadows,0.709209
+'Documentary','99',807,Brad Pitt,Dead Man,6.505272
+'Horror' 'Thriller',"'27,53'",807,Morgan Freeman,Dead Man,6.505272
+'Drama' 'Family',"'18,10751'",807,Gwyneth Paltrow,Dead Man,6.505272
+'Drama' 'Thriller' 'Mystery' 'Romance',"'18,53,9648,10749'",807,John C. McGinley,The Horseman on the Roof,1.690768
+'Comedy','35',807,Kevin Spacey,Switchblade Sisters,6.035166
+'Mystery' 'Drama' 'Thriller' 'Romance' 'War',"'9648,18,53,10749,10752'",807,R. Lee Ermey,Mouth to Mouth,1.133409
+'Horror' 'Foreign',"'27,10769'",807,Richard Roundtree,The Visitors,7.326169
+'Horror','27',807,Richard Schiff,Multiplicity,8.768806
+'Crime' 'Thriller' 'Horror' 'Drama',"'80,53,27,18'",807,Julie Araskog,"The Haunted World of Edward D. Wood, Jr.",0.037443
+'Documentary','99',807,Mark Boone Junior,Two Friends,0.003949
+'Thriller','53',807,John Cassini,The Craft,12.860385
+'Animation' 'Thriller',"'16,53'",807,Reg E. Cathey,The Great White Hype,3.321765
+'Thriller' 'Science Fiction',"'53,878'",807,Peter Crombie,Last Dance,1.196686
+'Family' 'Adventure',"'10751,12'",807,Hawthorne James,Cold Comfort Farm,1.92386
+'Drama','18',807,Michael Massee,"Institute Benjamenta, or This Dream People Call Human Life",0.543042
+'Horror' 'Thriller',"'27,53'",807,Leland Orser,"Institute Benjamenta, or This Dream People Call Human Life",0.543042
+'Drama','18',807,Richard Portnow,"Institute Benjamenta, or This Dream People Call Human Life",0.543042
+'Thriller' 'Drama' 'Romance',"'53,18,10749'",807,Daniel Zacapa,Heaven's Prisoners,9.264679
+'Drama' 'Horror',"'18,27'",807,Alfonso Freeman,Heaven's Prisoners,9.264679
+'Action','28',807,Harris Savides,Original Gangstas,0.343579
+'Crime' 'Drama' 'Thriller',"'80,18,53'",807,Andrew Kevin Walker,The Rock,13.249824
+'Documentary','99',807,Richmond Arquette,Getting Away with Murder,0.746662
+'Drama' 'Foreign',"'18,10769'",807,Pamala Tyson,Getting Away with Murder,0.746662
+'Thriller' 'Foreign',"'53,10769'",807,Emily Wagner,Cemetery Man,6.247819
+'Adventure' 'Comedy' 'Science Fiction' 'Family',"'12,35,878,10751'",807,Shannon Wilcox,Cemetery Man,6.247819
+'Comedy' 'Drama' 'Foreign',"'35,18,10769'",807,George Christy,Cemetery Man,6.247819
+'Drama','18',807,Endre Hules,Twister,8.739144
+'Adventure' 'History' 'Action' 'Science Fiction' 'Comedy' 'Fantasy',"'12,36,28,878,35,14'",807,William Davidson,Barb Wire,5.877599
+'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'",807,Bob Collins,Le Garçu,0.125882
+'Drama','18',807,Dominique Jennings,Honeymoon,0.652621
+'','',807,Allan Kolman,Ghost in the Shell,10.686166
+'Drama' 'Comedy',"'18,35'",807,Gene Borkan,Thinner,4.856229
+'Action' 'Crime',"'28,80'",807,Mario Di Donato,Spy Hard,8.202057
+'Drama' 'Romance' 'Drama' 'Romance',"'18,10749,18,10749'",807,Harrison White,Brothers in Trouble,0.594716
+'Mystery' 'Thriller',"'9648,53'",807,Bob Stephenson,A Close Shave,6.796858
+'Western','37',807,Michael Reid MacKay,Force of Evil,4.386329
+'Comedy' 'Music' 'Romance',"'35,10402,10749'",807,Lennie Loftin,The Stupids,1.751457
+'Mystery','9648',807,Martin Serene,The Stupids,1.751457
+'Science Fiction' 'Action' 'Adventure' 'Drama',"'878,28,12,18'",807,David Correia,The Arrival,6.497591
+'Thriller' 'Mystery',"'53,9648'",807,Lexie Bigham,The Arrival,6.497591
+'Drama' 'Thriller',"'18,53'",807,Evan Mirand,The Man from Down Under,0.068254
+'Horror' 'Thriller',"'27,53'",807,Paul Eckstein,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,9.80398
+'Horror' 'Thriller',"'27,53'",807,Rachel Flanagan,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,9.80398
+'Crime' 'Horror' 'Thriller',"'80,27,53'",807,Heidi Schanz,Careful,0.160571
+'Drama','18',807,Brian Evers,A Month by the Lake,0.851078
+'Mystery' 'Horror',"'9648,27'",807,James Deeth,A Month by the Lake,0.851078
+'Drama' 'Mystery' 'Horror',"'18,9648,27'",807,Charles A. Tamburro,Gold Diggers: The Secret of Bear Mountain,5.508101
+'Action' 'Crime' 'Thriller',"'28,80,53'",807,Charles S. Dutton,Gold Diggers: The Secret of Bear Mountain,5.508101
+'Fantasy' 'Drama' 'Family',"'14,18,10751'",807,Arthur Max,Kim,1.048075
+'Drama' 'Romance',"'18,10749'",10530,Irene Bedard,Carmen Miranda: Bananas Is My Business,0.146287
+'Crime' 'Drama' 'Horror' 'Mystery' 'Romance' 'Thriller',"'80,18,27,9648,10749,53'",10530,Mel Gibson,Carmen Miranda: Bananas Is My Business,0.146287
+'','',10530,David Ogden Stiers,Ashes of Time,5.215992
+'Documentary','99',10530,John Kassir,Ashes of Time,5.215992
+'Science Fiction' 'Horror',"'878,27'",10530,Russell Means,The Jar,0.401531
+'Crime' 'Comedy' 'Action',"'80,35,28'",10530,Christian Bale,Maya Lin: A Strong Clear Vision,0.001608
+'','',10530,Judy Kuhn,Stalingrad,7.667284
+'','',10530,Linda Hunt,The Phantom,8.079541
+'Science Fiction' 'Thriller',"'878,53'",10530,Danny Mann,The Phantom,8.079541
+'Thriller','53',10530,Billy Connolly,Striptease,11.341502
+'','',10530,Joe Baker,The Last of the High Kings,1.427756
+'Adventure' 'Fantasy' 'Animation' 'Action' 'Family' 'Romance',"'12,14,16,28,10751,10749'",10530,Frank Welker,Heavy,0.889498
+'','',10530,Michelle St. John,Jack,6.287245
+'Mystery' 'Drama' 'Horror',"'9648,18,27'",10530,James Apaumut Fall,I Shot Andy Warhol,2.771201
+'','',10530,Gordon Tootoosis,I Shot Andy Warhol,2.771201
+'Documentary','99',10530,Jim Cummings,The Grass Harp,0.365418
+'Comedy' 'Science Fiction',"'35,878'",8391,Pascale Bussières,Someone Else's America,0.099602
+'Family' 'Fantasy',"'10751,14'",8391,Rachael Crawford,Someone Else's America,0.099602
+'Thriller','53',8391,Henry Czerny,Someone Else's America,0.099602
+'Horror','27',8391,Don McKellar,Someone Else's America,0.099602
+'Drama' 'Mystery' 'Thriller',"'18,9648,53'",629,Stephen Baldwin,Someone Else's America,0.099602
+'Comedy','35',629,Gabriel Byrne,Life is Rosy,0.514363
+'Comedy','35',629,Chazz Palminteri,Life is Rosy,0.514363
+'Drama' 'Comedy' 'Science Fiction',"'18,35,878'",629,Kevin Pollak,Life is Rosy,0.514363
+'Drama' 'History',"'18,36'",629,Pete Postlethwaite,Quartier Mozart,0.011938
+'Animation' 'Action',"'16,28'",629,Kevin Spacey,Touki Bouki,0.043903
+'','',629,Suzy Amis,God's Gift,0.049573
+'Thriller','53',629,Giancarlo Esposito,Spirits of the Dead,1.794298
+'Comedy','35',629,Benicio del Toro,Spirits of the Dead,1.794298
+'Comedy' 'Drama' 'Romance',"'35,18,10749'",629,Dan Hedaya,Babyfever,0.001687
+'Drama','18',629,Paul Bartel,Pharaoh's  Army,0.837911
+'Family' 'Animation',"'10751,16'",629,Carl Bressler,Trainspotting,19.348466
+'Action' 'Adventure' 'Crime' 'Mystery',"'28,12,80,9648'",629,Christine Estabrook,Til There Was You,2.700061
+'Music' 'Documentary',"'10402,99'",629,Clark Gregg,Independence Day,17.634197
+'Fantasy' 'Action' 'Science Fiction',"'14,28,878'",629,Morgan Hunter,Stealing Beauty,6.418805
+'Comedy','35',629,Louis Lombardi,Stealing Beauty,6.418805
+'Adventure' 'Animation' 'Drama' 'Family',"'12,16,18,10751'",629,Frank Medrano,Stealing Beauty,6.418805
+'Documentary' 'Family',"'99,10751'",629,Ron Gilbert,The Fan,12.202063
+'Drama' 'Thriller' 'Mystery',"'18,53,9648'",117164,Cynthia Rothrock,The Hunchback of Notre Dame,13.553999
+'Animation' 'Comedy',"'16,35'",117164,Marshall R. Teague,The Cable Guy,7.586577
+'Drama' 'History' 'Romance',"'18,36,10749'",117164,Daniel McVicar,Kingpin,11.633347
+'Action' 'Drama',"'28,18'",117164,Lydie Denier,Eraser,6.919314
+'Comedy' 'Foreign' 'Adventure',"'35,10769,12'",117164,John O'Leary,Eraser,6.919314
