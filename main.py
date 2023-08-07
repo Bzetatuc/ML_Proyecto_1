@@ -249,9 +249,14 @@ def Pelis_recom(pelicula):
 
 movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
+lista_nombres_actores = [
+    "Tom Hanks",
+    "Annie Potts",
+    "Robin Williams",
+]
 
-@app.get("/movie_recommendation_artista/{Artista}")
-def movie_recommendation_artista(Artista):
+@app.get("/movie_recommendation_artista/")
+def movie_recommendation_artista(Artista: List[str]):
     # películas que tengan al actor/actriz especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 
