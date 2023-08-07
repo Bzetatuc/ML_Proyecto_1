@@ -7,25 +7,24 @@ import zipfile
 
 app = FastAPI(title='Proyecto Individual',
             description='Benjamin Zelaya',
-            version='1.0.1')
+            version='0.101.0')
 
 
 ### IDIOMA 
 
-# Cargar los datasets
+# Cargamos el datasets
 # ----------------------------------------------------
-# Leer el archivo CSV
+# 
 df_lenguage = pd.read_csv('df_Languages_Def.csv',encoding='utf-8')
 
-# Definir la ruta de FastAPI
+# ruta FastAPI
 @app.get("/idioma/{idioma}")
 def cantidad_peliculas_idioma(idioma: str):
     idioma = idioma.lower()
 
-    # Filtrar el DataFrame para obtener las filas correspondientes al idioma consultado
     peliculas_idioma = df_lenguage[df_lenguage['original_language'].str.lower() == idioma]
 
-    # Obtener la cantidad de películas producidas en el idioma consultado
+    #cantidad de películas producidas en el idioma consultado
     cantidad_peliculas = len(peliculas_idioma)
 
     mensaje = f"La cantidad de peliculas producidas en el idioma {idioma.capitalize()} es: {cantidad_peliculas}"
@@ -35,9 +34,9 @@ def cantidad_peliculas_idioma(idioma: str):
 
 # DURACION 
 
-# Cargar los datasets
+# Cargamos el datasets
 # ----------------------------------------------------
-# Leer el archivo CSV
+# 
 df_duracion = pd.read_csv('df_duracion_Def.csv',encoding='utf-8')
 
 @app.get("/peliculas_times/{pelicula}")
@@ -61,9 +60,9 @@ def peliculas_times(pelicula: str):
 
 ### FRANQUICIA 
 
-# Cargar los datasets
+# Cargamos el datasets
 # ----------------------------------------------------
-# Leer el archivo CSV
+# 
 df_franquicia = pd.read_csv('df_franquicia_Def.csv',encoding='utf-8')
 
 @app.get("/franquicia/{franquicia}")
@@ -91,9 +90,9 @@ def franquicia(Franquicia: str):
 
 ### PAISES  
 
-# Cargar los datasets
+# Cargamos el datasets
 # ----------------------------------------------------
-# Leer el archivo CSV
+# 
 df_paises = pd.read_csv('df_paises_Def.csv',encoding='utf-8')
 
 @app.get("/peliculas_por_paises/{Pais}")
@@ -116,9 +115,9 @@ def peliculas_por_paises(Pais: str):
 
 ### PRODUCTORAS EXITOSAS  
 
-# Cargar los datasets
+# Cargamos el datasets
 # ----------------------------------------------------
-# Leer el archivo CSV
+# 
 df_Prod_exitosas = pd.read_csv('df_prod_exitosas_Def.csv',encoding='utf-8')
 
 @app.get("/productoras_exitosas/{Productora}")
@@ -147,9 +146,9 @@ def productoras_exitosas(Productora: str):
 
 ### DIRECTOR
 
-# Cargar los datasets
+# Cargamos el datasets
 # ----------------------------------------------------
-# Leer el archivo CSV
+# 
 df_directores_final = pd.read_csv('df_directores_Def.csv',encoding='utf-8')
 
 @app.get("/get_director/{nombre_director}")
@@ -178,9 +177,10 @@ def get_director(nombre_director):
 
 
 
+
         
 
-    # Crear un diccionario con la información del director y las películas
+    # Crearremos un dicc con la información del director y las películas
     resultado = [
          nombre_director,
        retorno_director,
@@ -190,9 +190,48 @@ def get_director(nombre_director):
     return resultado
 
 
+### SISTEMAS DE RECOMENDACION MACHINE LEARNING
+
+# Cargamos el datasets
+# ----------------------------------------------------
+# 
+
+ML_DF1 = pd.read_csv('ML_SistemaRecomendacion1.csv')
 
 
+@app.get("/Pelis_recom/{pelicula}")
+def Pelis_recom(pelicula):
+    movie = ML_DF1[ML_DF1['title'] == pelicula]
 
+    if len(movie) == 0:
+        return "La película no se encuentra en la base de datos."
+
+    # Obtener el género y la popularidad de la película
+    movie_genero = movie['genero'].values[0]
+    movie_popularity = movie['popularity'].values[0]
+
+    # matriz de características para el modelo de vecinos más cercanos
+    features = ML_DF1[['popularity']]
+    genres = ML_DF1['genero'].str.get_dummies(sep=' ')
+    features = pd.concat([features, genres], axis=1)
+
+    # Manejar valores faltantes (NaN) reemplazándolos por ceros
+    features = features.fillna(0)
+
+    # modelo de vecinos más cercanos
+    nn_model = NearestNeighbors(n_neighbors=6, metric='euclidean')
+    nn_model.fit(features)
+
+    # Encontrar las películas más similares (excluyendo la película de consulta indicada por usuario)
+    _, indices = nn_model.kneighbors([[movie_popularity] + [0] * len(genres.columns)], n_neighbors=6)
+    similar_movies_indices = indices[0][1:]  # Excluyendo la primera película que es la misma consulta
+    Pelis_recom = ML_DF1.iloc[similar_movies_indices]['title']
+
+    # Si la película de consulta está en la lista de recomendaciones, la eliminamos
+    if pelicula in Pelis_recom.tolist():
+        Pelis_recom = Pelis_recom[Pelis_recom != pelicula]
+
+    return Pelis_recom
 
 
 
