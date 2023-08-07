@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse
 from sklearn.neighbors import NearestNeighbors
+from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 import numpy as np
 import zipfile
@@ -190,7 +191,8 @@ def get_director(nombre_director):
     return resultado
 
 
-### SISTEMAS DE RECOMENDACION MACHINE LEARNING
+### SISTEMAS DE RECOMENDACION MACHINE LEARNING POR PELICULA
+# SISTEMA 1
 
 # Cargamos el datasets
 # ----------------------------------------------------
@@ -232,6 +234,52 @@ def Pelis_recom(pelicula):
         Pelis_recom = Pelis_recom[Pelis_recom != pelicula]
 
     return Pelis_recom
+
+
+
+
+
+
+### SISTEMAS DE RECOMENDACION MACHINE LEARNING POR ACTOR/ACTRIZ
+# SISTEMA 2
+
+# Cargamos el datasets
+# ----------------------------------------------------
+# 
+
+movie_df = pd.read_csv('df_ML_SistRecomendacion.csv')
+
+
+@app.get("/movie_recommendation_artista/{Artista}")
+def movie_recommendation_artista(Artista):
+    movie_df = pd.read_csv('df_ML_SistRecomendacion.csv')
+
+    # películas que tengan al actor/actriz especificado en la columna 'Actor'
+    movies_with_artista = movie_df[movie_df['Actor'] == Artista]
+
+    if len(movies_with_artista) == 0:
+        return "La película no se encuentra en la base de datos."
+
+    #  matriz de características para el modelo de vecinos más cercanos
+    features = movie_df['genero'].str.get_dummies(sep=' ')
+
+    # modelo de vecinos más cercanos solo con las características de género
+    nn_model = NearestNeighbors(n_neighbors=6, metric='euclidean')
+    nn_model.fit(features)
+
+    # películas más similares (excluyendo las películas del actor indicado por usuario)
+    indices = nn_model.kneighbors(features.iloc[movies_with_artista.index, :])
+
+    # Recomendar películas similares
+    movie_recommendation_artista = movie_df.iloc[indices[1][0][1:]]['title']
+
+    return movie_recommendation_artista
+
+
+
+
+
+
 
 
 
