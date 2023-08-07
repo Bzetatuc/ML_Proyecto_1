@@ -256,7 +256,7 @@ def movie_recommendation_artista(Artista):
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 
     if len(movies_with_artista) == 0:
-        return "La película no se encuentra en la base de datos."
+        return "El o la Artista no se encuentra en la base de datos."
 
     #  matriz de características para el modelo de vecinos más cercanos
     features = movie_df['genero'].str.get_dummies(sep=' ')
@@ -273,9 +273,6 @@ def movie_recommendation_artista(Artista):
 
     return  movie_recommendation_artista(Artista)
   
-
-
-
 
 
 
