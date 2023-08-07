@@ -257,6 +257,17 @@ movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
 @app.get("/movie_recommendation_artista/{Artista}")
 def movie_recommendation_artista(Artista):
+    """
+    Devuelve una lista de las 5 películas recomendadas basadas en el nombre indicado de un actor o de una actriz indicada.
+
+    Args:
+        movie_recommendation_artista: nombre indicado de un actor o de una actriz indicada.
+
+    Returns:
+         películas recomendadas.
+    """
+
+   
     # películas que tengan al actor/actriz especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 
