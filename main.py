@@ -256,7 +256,7 @@ lista_nombres_actores = [
 ]
 
 @app.get("/movie_recommendation_artista/")
-def movie_recommendation_artista(Artista: List[str]):
+def movie_recommendation_artista(Artista: lista_nombres_actores[str]):
     # películas que tengan al actor/actriz especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 
