@@ -4,7 +4,7 @@ from sklearn.neighbors import NearestNeighbors
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 import numpy as np
-from typing import List
+import zipfile
 
 app = FastAPI(title='Proyecto Individual',
             description='Benjamin Zelaya',
@@ -249,43 +249,33 @@ def Pelis_recom(pelicula):
 
 movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
-lista_nombres_actores = [
-    "Tom Hanks",
-    "Annie Potts",
-    "Robin Williams",
-]
 
-@app.get("/movie_recommendation_artista/")
-def movie_recommendation_artista(Artista: List[str]):
-    # Verificar si se proporcionó algún nombre de actor o actriz en la lista
-    if not Artista:
-        return "Debes proporcionar al menos un nombre de actor o actriz en la lista."
 
-    # Verificar si todos los nombres proporcionados están en la lista de nombres válidos
-    for nombre in Artista:
-        if nombre not in lista_nombres_actores:
-            return f"El nombre '{nombre}' no es válido. Debes seleccionar un nombre de la lista de actores y actrices."
-
-    # Películas que tengan al actor/actriz especificado en la columna 'Actor'
-    movies_with_artista = movie_df[movie_df['Actor'].isin(Artista)]
+@app.get("/movie_recommendation_artista/{Artista}")
+def movie_recommendation_artista(Artista):
+    # películas que tengan al actor/actriz especificado en la columna 'Actor'
+    movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 
     if len(movies_with_artista) == 0:
         return "El o la Artista no se encuentra en la base de datos."
 
-    # Matriz de características para el modelo de vecinos más cercanos
+    #  matriz de características para el modelo de vecinos más cercanos
     features = movie_df['genero'].str.get_dummies(sep=' ')
 
-    # Modelo de vecinos más cercanos solo con las características de género
+    # modelo de vecinos más cercanos solo con las características de género
     nn_model = NearestNeighbors(n_neighbors=6, metric='euclidean')
     nn_model.fit(features)
 
-    # Películas más similares (excluyendo las películas del actor indicado por el usuario)
+    # películas más similares (excluyendo las películas del actor indicado por usuario)
     indices = nn_model.kneighbors(features.iloc[movies_with_artista.index, :])
 
     # Recomendar películas similares
-    movie_recommendation_artista = movie_df.iloc[indices[1][0][1:]]['title'].tolist()
+    movie_recommendation_artista = movie_df.iloc[indices[1][0][1:]]['title']
 
-    return movie_recommendation_artista
+    return  movie_recommendation_artista
+  
+
+
 
 
 
