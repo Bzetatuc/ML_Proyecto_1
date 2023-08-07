@@ -4,11 +4,16 @@ from sklearn.neighbors import NearestNeighbors
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 import numpy as np
-import zipfile
 
 app = FastAPI(title='Proyecto Individual',
             description='Benjamin Zelaya',
             version='0.101.0')
+
+
+### Ruta raíz
+@app.get("/", response_class=HTMLResponse)
+def root():
+    return "<h1>{Mi primer API}</h1>"
 
 
 ### IDIOMA 
@@ -234,7 +239,6 @@ def Pelis_recom(pelicula):
         Pelis_recom = Pelis_recom[Pelis_recom != pelicula]
 
     return Pelis_recom
-
 
 
 
