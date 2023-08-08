@@ -16,6 +16,9 @@ def root():
     return "<h1>{ Mi primer API - Primer Proyecto individual Data Science}</h1>"
 
 
+# Encabezado: Funciones
+
+
 ### IDIOMA 
 
 # Cargamos el datasets
@@ -26,7 +29,6 @@ df_lenguage = pd.read_csv('df_Languages_Def.csv',encoding='utf-8')
 # ruta FastAPI
 @app.get("/idioma/{idioma}")
 def cantidad_peliculas_idioma(idioma: str):
-
     idioma = idioma.lower()
 
     peliculas_idioma = df_lenguage[df_lenguage['original_language'].str.lower() == idioma]
@@ -258,17 +260,7 @@ movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
 @app.get("/movie_recommendation_artista/{Artista}")
 def movie_recommendation_artista(Artista):
-    """
-    Devuelve una lista de las 5 películas recomendadas basadas en el nombre indicado de un actor o de una actriz indicada.
-
-
-   Parameters: nombre indicado de un actor o de una actriz indicada.
-
-   Responses:
-         películas recomendadas.
-    """
-
-   
+  
     # películas que tengan al actor/actriz especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 

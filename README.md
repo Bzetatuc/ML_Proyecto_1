@@ -27,8 +27,9 @@ El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tra
 
 # **`Carpetas y archivos en repositorio`**
 
+*    "DEF API" : "Contiene los archivos y datasets utilizados para realizar las funciones desarrolladas en la API".
 
-*    "Datasets Sin Modificar": "En esta carpeta se guardan los archivos comprimidos del archivo PI MLOps-20230726T191455Z-001.zip",
+*    "Datasets Sin Modificar": "En esta carpeta se guardan los archivos comprimidos del archivo PI MLOps-20230726T191455Z-001.zip".
 
 *    "ETL - EDA": "Esta carpeta contiene un archivo en formato .ipynb que se utilizó para realizar Transformacion y contiene el archivo con el que se realizó el análisis exploratorio de los datos."
         * Analisis Exploratorio Datos: Contiene archivo .ipynb donde se pueden visualizar graficos y conclusiones.
@@ -174,8 +175,30 @@ video tutorial de la API, Funciones y Resultados.
 <a href="https:  " target="_blank">Video</a>
 
 
+## **Recursos y links utilizados**
+
+VISUAL STUDIO CODE
+
++ https://code.visualstudio.com/docs
 
 
+GITHUB
+
++ https://docs.github.com/es
+ 
+
+FAST API Documentation:
+
++ https://fastapi.tiangolo.com/tutorial/
+
+DRIVE DATASETS HENRY
+
++ https://drive.google.com/drive/folders/1mfUVyP3jS-UMdKHERknkQ4gaCRCO2e1v
+
+
+RENDER
+
++ https://render.com/docs
 
 
 
