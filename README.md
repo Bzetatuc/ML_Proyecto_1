@@ -28,13 +28,15 @@ El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tra
 # **`Carpetas y archivos en repositorio`**
 
 
-*    "Datasets Sin Modificar": "En esta carpeta se guardan los archivos descomprimidos del archivo data_1.0.2",
+*    "Datasets Sin Modificar": "En esta carpeta se guardan los archivos comprimidos del archivo PI MLOps-20230726T191455Z-001.zip",
 
 *    "ETL - EDA": "Esta carpeta contiene un archivo en formato .ipynb que se utilizó para realizar Transformacion y contiene el archivo con el que se realizó el análisis exploratorio de los datos."
-        * Analisis Exploratorio Datos:
-        * Transformaciones ETL Movies_dataset:
-        * Transformaciones ETL credits:
-        * datasets  princpio ETL:
+        * Analisis Exploratorio Datos: Contiene archivo .ipynb donde se pueden visualizar graficos y conclusiones.
+        * Transformaciones ETL Movies_dataset: Contiene archivos para ETL del archivo movies_datasets, obtenido de PI MLOps-20230726T191455Z-001.zip.
+        * Transformaciones ETL credits:Contiene archivos utilizados para hacer ETL del archivo csv credits.csv.
+        * datasets princpio ETL: contiene archivos de los datasets utilizados en el proyecto, que fueron modificados y tambien algunos reestructurados.
+
+
 
 *   "Images": "Contiene archivos con imganes utilizadas en el Readme."
 
@@ -48,11 +50,13 @@ El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tra
 *   "requirements.txt": "Archivo útil para realizar el despliegue en Render."
 
 
+
 **`Este proyecto se dividió en varios pasos:`**
 
 + ETL: Los datos se recopilaron desde un archivo CSV que tiene un Conjunto de datos, estos  conjuntos de datos se subieron a un marco de datos y se exploraron. campos, como **`belongs_to_collection`**, **`production_companies`**,**`production_countries`** y **`spoken_lenguages`** fueron desanidados y unirlos a nuevos datasets que se usaron por ejemplo para las consultas de la API creada. Los valores nulos de los campos **`revenue`**, **`budget`** fueron rellenados por el número **`0`**. Los valores nulos del campo **`release date`** fueron eliminados y las fechas fueron modificadas en formato **`AAAA-mm-dd`**, para posteriormente lograr  crear la columna **`release_year`** donde se pudieron extraer el año de la fecha de estreno de cada una de las peliculas. Se creó la columna con el retorno de inversión, llamada **`return`** con los campos **`revenue`** y **`budget`**, donde se dividieron **`revenue / budget`**, poniendo la condicion que cuando no habia datos disponibles para calcularlo, tomara el valor **`0`**. Por ultimo, se eliminaron las columnas **`video`**,**`imdb_id`**,**`adult`**,**`original_title`**,**`poster_path`** y **`homepage`**.
 
-A continuación se muestra un diccionario que describe cada columna en el conjunto de datos del archivo datasets_final.csv:
+
+### diccionario que describe cada columna en el conjunto de datos del archivo movies_data_final.csv despues de ETL:
 
 ```python
 column_description = {
@@ -85,6 +89,8 @@ column_description = {
 
 ```
 
+### ----- EDA -----
+
 + EDA **`Análisis exploratorio de los datos`**: _(Exploratory Data Analysis-EDA)_: Se utilizó una amplia visualización de datos y estadísticas resumidas para extraer conocimientos y patrones de los diversos conjuntos de datos. Se analizo la relacion entre diferentes variables, como ser la correlacion entre los diferentes **`generos`** de las peliculas de nuestro dataset, con **`Ingresos`**, **`presupuesto`**, **`tiempo de cada pelicula`**, cuales fueron los **`paises`** con mayor cantidad de peliculas producidas o cual es el **`lenguage`** que mayor cantidad de peliculas tiene producidas.
 
 ![image3](./Images/eda%202.png)
@@ -102,7 +108,16 @@ column_description = {
 ![image6](./Images/eda%205.png)
 
 
+
+### ----- MACHINE LEARNING SISTEMAS DE RECOMENDACION -----
+
+
 + **`Sistemas de recomendación`**`: Se construyeron dos sistemas de recomendación diferentes utilizando varias ideas y algoritmos, utilizando modelos de K-Nearest Neighbors o K-NN, vecinos mas cercanos, donde en el contexto de este sistema de recomendación de películas, el modelo de vecinos más cercanos busca películas similares a una película de consulta en términos de dos características: género y popularidad. Para ello, utiliza la métrica de distancia euclidiana para calcular la similitud entre las películas y el segundo sistema de Recomendacion tambien basado en K-Nearest Neighbors o K-NN para recomendar películas basadas en los actores o actrices. El modelo busca similitudes entre las películas basándose en los actores o actrices que participaron en ellas. 
+
+
+
+### ----- FUNCIONES API -----
+
 
 + **`Desarrollo API`**: utilizando ***FastAPI*** utilizamos funciones para que el usuario realice diferentes consultas:
 
@@ -129,14 +144,14 @@ column_description = {
     Se ingresa el nombre de un director que se encuentre dentro de un dataset debiendo devolver el éxito del mismo medido a través del retorno. Además, deberá devolver el nombre de cada película con la fecha de lanzamiento, retorno individual, costo y ganancia de la misma, en formato lista.
 
 
------ MACHINE LEARNING SISTEMAS DE RECOMENDACION -----
+### ----- MACHINE LEARNING SISTEMAS DE RECOMENDACION -----
 
 + def **Pelis_recom( *`titulo`* )**:
     Se ingresa el nombre de una película y te recomienda las similares en una lista de 5 valores.
 
 
 + def **movie_recommendation_artista( *`Artista`* )**:
-    Se ingresa el nombre de un o una artista y te recomienda las similares en una lista de 5 valores.
+    Se ingresa el nombre de un o una artista y te recomienda peliculas en una lista de 5 valores.
 
 <br/>
 
