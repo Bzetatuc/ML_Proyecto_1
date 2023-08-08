@@ -260,8 +260,8 @@ def movie_recommendation_artista(Artista):
     """
     Devuelve una lista de las 5 películas recomendadas basadas en el nombre indicado de un actor o de una actriz indicada.
 
-    Args:
-        movie_recommendation_artista: nombre indicado de un actor o de una actriz indicada.
+
+    movie_recommendation_artista: nombre indicado de un actor o de una actriz indicada.
 
     Returns:
          películas recomendadas.
