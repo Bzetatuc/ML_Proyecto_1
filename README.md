@@ -1,3 +1,10 @@
+<style>
+  body {
+    background-color: #000000; 
+    padding: 20px;
+  }
+</style>
+
 
 ![image](./Images/readme1.jpg)
 
