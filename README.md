@@ -25,26 +25,27 @@ El ciclo de vida de un proyecto de Machine Learning debe contemplar desde el tra
 
 
 
-# Carpetas y archivos en repositorio
+# **`Carpetas y archivos en repositorio`**
 
 
-*    "data": "En esta carpeta se guardan los archivos descomprimidos del archivo data_1.0.2",
+*    "Datasets Sin Modificar": "En esta carpeta se guardan los archivos descomprimidos del archivo data_1.0.2",
 
-*    "EDA": "Esta carpeta contiene un archivo en formato .ipynb que se utilizó para realizar el análisis
-	exploratorio de los datos."
+*    "ETL - EDA": "Esta carpeta contiene un archivo en formato .ipynb que se utilizó para realizar Transformacion y contiene el archivo con el que se realizó el análisis exploratorio de los datos."
+        * Analisis Exploratorio Datos:
+        * Transformaciones ETL Movies_dataset:
+        * Transformaciones ETL credits:
+        * datasets  princpio ETL:
 
-*   "EDA/data_a_explorar": "Contiene el archivo con el que se realizó el análisis exploratorio de los datos."
+*   "Images": "Contiene archivos con imganes utilizadas en el Readme."
 
-    "ETL": "Contiene 9 carpetas que incluyen procesos de transformación y limpieza de datos, tratamiento de	columnas anidadas, sustitución de valores nulos, revisión de tipos de datos y códigos para eliminar
-	valores repetidos o con formatos distintos a los que corresponden en su columna."
+*   "FASTAPI": "Contiene los archivos utilizados con **`FastAPI`**, entre ellos un zip de datasets comprimidos"
 
+*    "Sist. Recomendacion de Peliculas - Machine Learning": "Contiene un archivo en formato .ipynb en el que se desarrollaron las funciónes
+	para crear dos modelos de aprendizaje utilizando el método 'vecinos más cercanos'.
 
-    "Machine_Learning/Pruebas": "Contiene un archivo en formato .ipynb en el que se desarrolló la función
-	para crear un modelo de aprendizaje utilizando el método 'vecinos más cercanos'.
+*    "main.py": "Contiene todo el código de la API desarrollada con **`FastAPI`**."
 
-    "main.py": "Archivo que contiene todo el código de la API desarrollada con FastAPI."
-
-*    "requirements.txt": "Archivo útil para realizar el despliegue en Render."
+*   "requirements.txt": "Archivo útil para realizar el despliegue en Render."
 
 
 **`Este proyecto se dividió en varios pasos:`**
