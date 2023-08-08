@@ -26,6 +26,7 @@ df_lenguage = pd.read_csv('df_Languages_Def.csv',encoding='utf-8')
 # ruta FastAPI
 @app.get("/idioma/{idioma}")
 def cantidad_peliculas_idioma(idioma: str):
+
     idioma = idioma.lower()
 
     peliculas_idioma = df_lenguage[df_lenguage['original_language'].str.lower() == idioma]
@@ -261,9 +262,9 @@ def movie_recommendation_artista(Artista):
     Devuelve una lista de las 5 películas recomendadas basadas en el nombre indicado de un actor o de una actriz indicada.
 
 
-    movie_recommendation_artista: nombre indicado de un actor o de una actriz indicada.
+   Parameters: nombre indicado de un actor o de una actriz indicada.
 
-    Returns:
+   Responses:
          películas recomendadas.
     """
 
