@@ -212,7 +212,7 @@ ML_DF1 = pd.read_csv('ML_SistemaRecomendacion_1.csv')
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
-    pelicula = pelicula.lower() 
+
     movie = ML_DF1[ML_DF1['title'] == pelicula]
     
     if len(movie) == 0:
