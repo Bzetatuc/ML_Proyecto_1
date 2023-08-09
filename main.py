@@ -206,7 +206,7 @@ def get_director(nombre_director):
 # ----------------------------------------------------
 # 
 
-ML_DF1 = pd.read_csv('ML_SistemaRecomendacion1.csv')
+ML_DF1 = pd.read_csv('ML_SistemaRecomendacion_1.csv')
 
 
 @app.get("/Pelis_recom/{pelicula}")
