@@ -252,13 +252,17 @@ movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
 
 @app.get("/movie_recommendation_artista/{Artista}")
+
+
 def movie_recommendation_artista(Artista):
+    movie_df = pd.read_csv('/Users/benjaminzelaya/Desktop/ML_Proyecto_Individual_Henry/df_sistema_recomendacion_artistas.csv')
     Artista = Artista.lower() 
-# películas que tengan al actor/actriz especificado en la columna 'Actor'
+
+    # películas que tengan al actor especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 
     if len(movies_with_artista) == 0:
-        return "El o la Artista no se encuentra en la base de datos."
+        return "La película no se encuentra en la base de datos."
 
     #  matriz de características para el modelo de vecinos más cercanos
     features = movie_df['genero'].str.get_dummies(sep=' ')
@@ -273,9 +277,7 @@ def movie_recommendation_artista(Artista):
     # Recomendar películas similares
     movie_recommendation_artista = movie_df.iloc[indices[1][0][1:]]['title']
 
-    return  movie_recommendation_artista
-  
-
+    return movie_recommendation_artista
 
 
 
