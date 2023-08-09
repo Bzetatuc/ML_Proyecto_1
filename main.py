@@ -162,7 +162,9 @@ df_directores_final = pd.read_csv('df_directores_Def.csv',encoding='utf-8')
 
 @app.get("/get_director/{nombre_director}")
 def get_director(nombre_director:str):
+
     nombre_director = nombre_director.lower() 
+    
     #  DataFrame para obtener las filas correspondientes al director consultado
     peliculas_director = df_directores_final[df_directores_final['Nombre Director'] == nombre_director]
 
@@ -183,20 +185,10 @@ def get_director(nombre_director:str):
             'costo': pelicula['budget'],
             'ganancia': pelicula['revenue']
         }
-        peliculas_info.append(info_pelicula)
-
-
-
-
-        
+        peliculas_info.append(info_pelicula)     
 
     # Crearremos un dicc con la información del director y las películas
-    resultado = [
-         nombre_director,
-       retorno_director,
-         peliculas_info
-    ]
-
+    resultado = [nombre_director,retorno_director,peliculas_info]
     return resultado
 
 
@@ -212,7 +204,6 @@ ML_DF1 = pd.read_csv('ML_SistemaRecomendacion_1.csv')
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
-
     movie = ML_DF1[ML_DF1['title'] == pelicula]
     
     if len(movie) == 0:
@@ -263,8 +254,7 @@ movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 @app.get("/movie_recommendation_artista/{Artista}")
 def movie_recommendation_artista(Artista):
     Artista = Artista.lower() 
-  
-    # películas que tengan al actor/actriz especificado en la columna 'Actor'
+# películas que tengan al actor/actriz especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
 
     if len(movies_with_artista) == 0:
@@ -285,10 +275,6 @@ def movie_recommendation_artista(Artista):
 
     return  movie_recommendation_artista
   
-
-
-
-
 
 
 
