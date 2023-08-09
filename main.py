@@ -161,7 +161,8 @@ def productoras_exitosas(Productora: str):
 df_directores_final = pd.read_csv('df_directores_Def.csv',encoding='utf-8')
 
 @app.get("/get_director/{nombre_director}")
-def get_director(nombre_director):
+def get_director(nombre_director:str):
+    nombre_director = nombre_director.lower() 
     #  DataFrame para obtener las filas correspondientes al director consultado
     peliculas_director = df_directores_final[df_directores_final['Nombre Director'] == nombre_director]
 
@@ -211,8 +212,9 @@ ML_DF1 = pd.read_csv('ML_SistemaRecomendacion_1.csv')
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
+    pelicula = pelicula.lower() 
     movie = ML_DF1[ML_DF1['title'] == pelicula]
-
+    
     if len(movie) == 0:
         return "La película no se encuentra en la base de datos."
 
@@ -260,6 +262,7 @@ movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
 @app.get("/movie_recommendation_artista/{Artista}")
 def movie_recommendation_artista(Artista):
+    Artista = Artista.lower() 
   
     # películas que tengan al actor/actriz especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
