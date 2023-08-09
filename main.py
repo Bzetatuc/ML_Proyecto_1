@@ -160,13 +160,10 @@ def productoras_exitosas(Productora: str):
 # 
 df_directores_final = pd.read_csv('df_directores_Def.csv',encoding='utf-8')
 
-@app.get("/get_director/{nombre_director}")
-def get_director(nombre_director:str):
-
-    nombre_director = nombre_director.lower() 
-    
+@app.get("/get_director/{director}")
+def get_director(director):
     #  DataFrame para obtener las filas correspondientes al director consultado
-    peliculas_director = df_directores_final[df_directores_final['Nombre Director'] == nombre_director]
+    peliculas_director = df_directores_final[df_directores_final['Nombre Director'] == director]
 
     # Calcular el éxito del director medido a través del retorno (ganancia total / costo total)
     costo_total = peliculas_director['budget'].sum()
@@ -187,8 +184,11 @@ def get_director(nombre_director:str):
         }
         peliculas_info.append(info_pelicula)     
 
-    # Crearremos un dicc con la información del director y las películas
-    resultado = [nombre_director,retorno_director,peliculas_info]
+    resultado = [
+         director,
+       retorno_director,
+         peliculas_info
+    ]
     return resultado
 
 
