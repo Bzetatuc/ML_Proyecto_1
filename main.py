@@ -2,6 +2,9 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse
 from sklearn.neighbors import NearestNeighbors
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import linear_kernel
+from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import numpy as np
 
@@ -200,40 +203,40 @@ def get_director(director):
 # ----------------------------------------------------
 # 
 
-ML_DF1 = pd.read_csv('ML_SistemaRecomendacion_1.csv')
+ML_DF1 = pd.read_csv('SistRecomVect.csv')
 
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
-    movie = ML_DF1[ML_DF1['title'] == pelicula]
     
-    if len(movie) == 0:
-        return "La película no se encuentra en la base de datos."
+    # instancia textos en vectores numéricos 
+    count = CountVectorizer(stop_words='english') 
+    count_matrix = count.fit_transform(ML_DF1['overview']) # utilizamos la columna overviwe de nuestro dataframe ML_DF1., y matriziamos el conteo de cada palabra
+    
+    # # similitud del coseno entre los vectores
+    cosine_sim = cosine_similarity(count_matrix, count_matrix)
+    
+    title = title.replace(' ', '').lower() 
+    
+    # índice de la película en el ML_DF1
+    if title not in ML_DF1['title'].str.replace(' ', '').str.lower().values: 
+        return {'Mensaje': 'La Película no se encuentra en la base de datos'} 
+    
+    idx = ML_DF1[ML_DF1['title'].str.replace(' ', '').str.lower() == title].index[0] #  busca el índice correspondiente de la película en el DataFrame ML_DF1
+    
+    # scores de similitud y los ordena.
+    sim_scores = list(enumerate(cosine_sim[idx])) #  scores de similitud
+    sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True) 
 
-    # Obtener el género y la popularidad de la película
-    movie_genero = movie['genero'].values[0]
-    movie_popularity = movie['popularity'].values[0]
 
-    # matriz de características para el modelo de vecinos más cercanos
-    features = ML_DF1[['popularity']]
-    genres = ML_DF1['genero'].str.get_dummies(sep=' ')
-    features = pd.concat([features, genres], axis=1)
-
-    # Manejar valores faltantes (NaN) reemplazándolos por ceros
-    features = features.fillna(0)
-
-    # modelo de vecinos más cercanos
-    nn_model = NearestNeighbors(n_neighbors=6, metric='euclidean')
-    nn_model.fit(features)
-
-    # Encontrar las películas más similares (excluyendo la película de consulta indicada por usuario)
-    _, indices = nn_model.kneighbors([[movie_popularity] + [0] * len(genres.columns)], n_neighbors=6)
-    similar_movies_indices = indices[0][1:]  # Excluyendo la primera película que es la misma consulta
-    Pelis_recom = ML_DF1.iloc[similar_movies_indices]['title']
-
-    # Si la película de consulta está en la lista de recomendaciones, la eliminamos
-    if pelicula in Pelis_recom.tolist():
-        Pelis_recom = Pelis_recom[Pelis_recom != pelicula]
+    sim_scores = sim_scores[1:6] # para que devuelva solamente 5
+    
+    # índices de las películas similares (excluyendo la película consultada)
+    similar_movie_indices = [i[0] for i in sim_scores if i[0] != idx]
+    
+    # ista de títulos de películas similares
+    Pelis_recom = ML_DF1['title'].iloc[similar_movie_indices].tolist()
+    
 
     return Pelis_recom
 
