@@ -203,7 +203,7 @@ def get_director(director):
 # ----------------------------------------------------
 # 
 
-ML_DF1 = pd.read_csv('./ML_Proyecto_Individual_Henry/SistRecomVect.csv',encoding='utf-8')
+ML_DF1 = pd.read_csv('SistRecomVect.csv',encoding='utf-8')
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
