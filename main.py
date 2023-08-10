@@ -204,11 +204,11 @@ def get_director(director):
 # 
 
 ML_DF1 = pd.read_csv('SistRecomVect.csv')
+indices=pd.Series(ML_DF1.index, index=ML_DF1['title'])
 
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
-    
     # instancia textos en vectores numéricos 
     count = CountVectorizer(stop_words='english') 
     count_matrix = count.fit_transform(ML_DF1['overview']) # utilizamos la columna overviwe de nuestro dataframe ML_DF1., y matriziamos el conteo de cada palabra
