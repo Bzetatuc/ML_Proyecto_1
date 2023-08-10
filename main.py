@@ -203,11 +203,11 @@ def get_director(director):
 # ----------------------------------------------------
 # 
 
-
-ML_DF1 = pd.read_csv('SistRecomVect.csv')
+ML_DF1 = pd.read_csv('./ML_Proyecto_Individual_Henry/SistRecomVect.csv',encoding='utf-8')
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
+
     # instancia textos en vectores numéricos 
     count = CountVectorizer(stop_words='english') 
     count_matrix = count.fit_transform(ML_DF1['overview']) 
@@ -215,7 +215,7 @@ def Pelis_recom(pelicula):
     # similitud del coseno entre los vectores
     cosine_sim = cosine_similarity(count_matrix, count_matrix)
     
-    pelicula = pelicula.replace(' ', '').lower()  # Corrección aquí
+    pelicula = pelicula.replace(' ', '').lower()
     
     # índice de la película en el ML_DF1
     if pelicula not in ML_DF1['title'].str.replace(' ', '').str.lower().values: 
