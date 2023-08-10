@@ -203,42 +203,40 @@ def get_director(director):
 # ----------------------------------------------------
 # 
 
-ML_DF1 = pd.read_csv('SistRecomVect.csv')
-indices=pd.Series(ML_DF1.index, index=ML_DF1['title'])
 
+ML_DF1 = pd.read_csv('SistRecomVect.csv')
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
     # instancia textos en vectores numéricos 
     count = CountVectorizer(stop_words='english') 
-    count_matrix = count.fit_transform(ML_DF1['overview']) # utilizamos la columna overviwe de nuestro dataframe ML_DF1., y matriziamos el conteo de cada palabra
+    count_matrix = count.fit_transform(ML_DF1['overview']) 
     
-    # # similitud del coseno entre los vectores
+    # similitud del coseno entre los vectores
     cosine_sim = cosine_similarity(count_matrix, count_matrix)
     
-    title = title.replace(' ', '').lower() 
+    pelicula = pelicula.replace(' ', '').lower()  # Corrección aquí
     
     # índice de la película en el ML_DF1
-    if title not in ML_DF1['title'].str.replace(' ', '').str.lower().values: 
+    if pelicula not in ML_DF1['title'].str.replace(' ', '').str.lower().values: 
         return {'Mensaje': 'La Película no se encuentra en la base de datos'} 
     
-    idx = ML_DF1[ML_DF1['title'].str.replace(' ', '').str.lower() == title].index[0] #  busca el índice correspondiente de la película en el DataFrame ML_DF1
+    idx = ML_DF1[ML_DF1['title'].str.replace(' ', '').str.lower() == pelicula].index[0]
     
     # scores de similitud y los ordena.
-    sim_scores = list(enumerate(cosine_sim[idx])) #  scores de similitud
+    sim_scores = list(enumerate(cosine_sim[idx]))
     sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True) 
 
-
-    sim_scores = sim_scores[1:6] # para que devuelva solamente 5
+    sim_scores = sim_scores[1:6]
     
     # índices de las películas similares (excluyendo la película consultada)
     similar_movie_indices = [i[0] for i in sim_scores if i[0] != idx]
     
-    # ista de títulos de películas similares
+    # lista de títulos de películas similares
     Pelis_recom = ML_DF1['title'].iloc[similar_movie_indices].tolist()
     
-
     return Pelis_recom
+
 
 
 
