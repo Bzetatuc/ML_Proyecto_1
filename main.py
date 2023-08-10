@@ -167,8 +167,9 @@ def get_director(director):
     peliculas opciones:
         Martin Scorsese , John Lasseter, Beth David, Joe Johnston
     """
+    director_lower = director.lower() 
     #  DataFrame para obtener las filas correspondientes al director consultado
-    peliculas_director = df_directores_final[df_directores_final['Nombre Director'] == director]
+    peliculas_director = df_directores_final[df_directores_final['Nombre Director'].str.lower() == director_lower]
 
     # Calcular el éxito del director medido a través del retorno (ganancia total / costo total)
     costo_total = peliculas_director['budget'].sum()
@@ -213,7 +214,9 @@ def Pelis_recom(pelicula):
     peliculas opciones:
         Titanic , Jumanji, The Lego Batman Movie, Toy Story, The Incredibles
     """
-    movie = ML_DF1[ML_DF1['title'] == pelicula]
+    pelicula_lower = pelicula.lower()  # Convertir el nombre de la película a minúsculas
+
+    movie = ML_DF1[ML_DF1['title'].str.lower() == pelicula_lower]
     
     if len(movie) == 0:
         return "La película no se encuentra en la base de datos."
@@ -262,10 +265,12 @@ movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
 @app.get("/movie_recommendation_artista/{Artista}")
 def movie_recommendation_artista(Artista):
+    artista_lower = Artista.lower()  # Convertir el nombre del artista a minúsculas
+
     movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
     # películas que tengan al actor especificado en la columna 'Actor'
-    movies_with_artista = movie_df[movie_df['Actor'] == Artista]
+    movies_with_artista = movie_df[movie_df['Actor'].str.lower() == artista_lower]
 
     if len(movies_with_artista) == 0:
         return "El O la Artista no se encuentra en la base de datos."
