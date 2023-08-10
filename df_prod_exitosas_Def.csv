@@ -457,7 +457,6 @@ id,title,name_companies,revenue
 3083,Mr. Smith Goes to Washington,Enigma Productions,9600000
 900,Bringing Up Baby,BSB,0
 43795,Penny Serenade,NatWest Ventures,0
-85638,The Scarlet Letter,Fujisankei,0
 22688,Angel on My Shoulder,Eddie Murphy Productions,0
 43488,A Walk in the Sun,Orion Pictures Corporation,0
 22613,The Outlaw,Heathrow Productions,0
@@ -794,7 +793,6 @@ id,title,name_companies,revenue
 56164,Cavalcade,Toho Company,7630000
 27367,Mrs. Miniver,Australian Film Finance Corporation (AFFC),13500000
 28580,The Lost Weekend,Meridian Films,11000000
-23383,Hamlet,Sandcastle 5 Productions,0
 11426,From Here to Eternity,Roger Birnbaum Productions,30500000
 1725,West Side Story,Albatros Produktion,43656822
 5769,Tom Jones,Ixtlan Productions,37600000
@@ -859,7 +857,6 @@ id,title,name_companies,revenue
 2907,The Addams Family,Kuchenreuther Filmproduktion GmbH,191502426
 23954,Atlantic City,Neo Productions,12729678
 11814,Weird Science,Metropolitan Filmexport,38934048
-18331,The Nutty Professor,Circle Films,0
 15171,Charlotte's Web,DuArt,0
 4978,An American Tail,Redemption Productions,84542002
 10380,An American Tail: Fievel Goes West,Tinderbox Films,40766041
@@ -938,7 +935,6 @@ id,title,name_companies,revenue
 692,Pink Flamingos,Weiny Bro Prods.,6000000
 1680,King Kong vs. Godzilla,Jewel Productions,0
 244,King Kong,Pimlico Films,10000000
-10730,King Kong,Incorporated Television Company (ITC),90614445
 14628,Fletch Lives,AVCO Embassy Pictures,35150960
 9626,Red Sonja,EDI,6948633
 13698,Gung Ho,Debra Hill Productions,36611610
@@ -952,7 +948,6 @@ id,title,name_companies,revenue
 9837,The Prince of Egypt,Catalina Cinema,218613188
 11545,Rushmore,Arauco Films,17096053
 110643,Mass Appeal,Python (Monty) Pictures Limited,0
-11881,Miracle on 34th Street,Michael White Productions,0
 13764,Santa Claus: The Movie,National Film Trustee Company,23717291
 24951,Prancer,Twickenham Film Studios,0
 8879,Pale Rider,Jürgen Brüning Filmproduktion,41410568
@@ -970,7 +965,6 @@ id,title,name_companies,revenue
 9489,You've Got Mail,Pandora Cinema,250821495
 76857,The Theory of Flight,Athanor,0
 9822,Mighty Joe Young,Heart of Europe Prague K Productions,0
-39314,Mighty Joe Young,Kominsk,0
 10312,Patch Adams,Bryan Foy Productions,202292902
 9441,Stepmom,Eagle-Lion Films,0
 9422,A Civil Action,Edward Small Productions,56702901
@@ -1038,7 +1032,6 @@ id,title,name_companies,revenue
 47288,The King and I,Herald Ace,12000000
 10212,Ravenous,Film Workshop,0
 11526,Bandits,Golden Princess Film Production Limited,0
-16520,The King and I,Shamley Productions,21300000
 16379,The Mod Squad,The Coppola Company,13260050
 603,The Matrix,Natant,463517383
 27455,Foolish,Mosfilm,6033999
@@ -1599,7 +1592,6 @@ id,title,name_companies,revenue
 31863,True Believer,Blue Guitar Films,0
 11035,Roma,Famous Players Limited,0
 18691,Frankie and Johnny,Selta Films,0
-3784,Frankie and Johnny,International Cinema Corporation (ICC),22773535
 78133,A Home of Our Own,Cine-Neighbor,1703282
 22829,Paris When It Sizzles,Personafilm,0
 11936,City of Women,Filmédis,0
@@ -1619,7 +1611,6 @@ id,title,name_companies,revenue
 31527,The Scarlet Empress,Decade,0
 25538,Yi Yi,CAT Films,0
 17971,Midnight Madness,Mimosa Films,0
-6498,Nightwatch,Weintraub Entertainment Group,0
 5923,The Sand Pebbles,Elrina Investment,20000000
 56934,Bride of the Wind,Maljack Productions,0
 49922,Whatever Happened to Harold Smith?,William Castle Productions,0
@@ -1638,7 +1629,6 @@ id,title,name_companies,revenue
 10992,Cats & Dogs,Revere Entertainment,93375151
 2140,Kiss of the Dragon,Jagtoria Films,64437847
 4248,Scary Movie 2,Transatlantic Pictures,141220678
-10728,Faust,FilmColony,0
 11697,The Man Who Shot Liberty Valance,Dollface,8000000
 6106,Salvador,Bill Plympton Studios,0
 16211,The Sons of Katie Elder,Fidélité Productions,0
@@ -1850,7 +1840,6 @@ id,title,name_companies,revenue
 29475,The Five Heartbeats,SKA Films,0
 4031,Going Places,Scout Productions,0
 47871,Honky Tonk Freeway,Prosperity Electric,939423
-11594,The Hunchback of Notre Dame,Artémis Productions,0
 9884,Collateral Damage,Bel Age Distribution,78382433
 28345,Heidi,Red Bank Films,0
 69928,The Man Who Loved Women,"Carousel Picture Company, The",11000000
@@ -1975,12 +1964,10 @@ id,title,name_companies,revenue
 13153,Rapid Fire,SBS Independent,14356479
 811,Silent Running,Screen Partners Ltd.,0
 163907,The Villain,TPS Cinéma,0
-3132,Bad Company,EFVE,65977295
 9637,Scooby-Doo,Tangled Web Productions,275650703
 52258,The Emperor's New Clothes,Comedy Central,0
 27451,Harvard Man,Comedy Central Films,0
 15813,Dark Blue World,Comedy Partners,0
-31591,Bad Company,"Todman, Simon, LeMasters Productions",0
 4993,5 Card Stud,Sonnenfeld Josephson Worldwide Entertainment,0
 17898,Silver Bullet,Les Films Christian Fechner,0
 103299,Traces of Red,Zide-Perry Productions,3206713
@@ -2132,11 +2119,9 @@ id,title,name_companies,revenue
 36669,Die Another Day,Société Nouvelle Pathé Cinéma,431971116
 204372,Smokers Only,Seasonal Film Corporation,0
 13376,Eight Crazy Nights,Mars Films,23833131
-2103,Solaris,Maran Film,30002758
 16028,They,Cineguild,0
 5261,What to Do in Case of Fire?,Barclays Mercantile Industrial Finance,0
 15514,I Love You Too,JRS Productions,0
-20992,Brother,Ljubavny Film,0
 66091,A Cruel Romance,Kinema Sarajevo,0
 6007,Elling,Televizija Sarajevo,0
 42453,The Island at the Top of the World,Nouvelles Éditions de Films (NEF),0
@@ -2342,7 +2327,6 @@ id,title,name_companies,revenue
 24073,Opportunity Knocks,Angel Productions,11359129
 2071,Shattered,John Woolf Productions,11511031
 32489,Thoroughly Modern Millie,Billy Jack Enterprises,0
-48864,Where the Heart Is,Crystal Jukebox Film Corp.,0
 39088,Tycoon,Lobell/Bergman Productions,0
 94996,On_Line,Palm Pictures,0
 42995,Experiment in Terror,Coffee Stain Productions,0
@@ -2508,7 +2492,6 @@ id,title,name_companies,revenue
 8222,High Heels,CIP Filmproduktion GmbH,1710057
 20067,Things You Can Tell Just by Looking at Her,Northstar International,0
 10166,The Witches,Muse Productions,15360553
-11676,Nothing to Lose,Triple Threat Talent,0
 31798,Roberta,Pacifica Film,0
 17687,The Public Enemy,Assassin Films,0
 17641,National Velvet,Nitrate Film,0
@@ -2526,7 +2509,6 @@ id,title,name_companies,revenue
 18857,Crime Story,Trigger Street Productions,194720
 38953,Ryan's Daughter,Zentropa Entertainments,0
 74544,Accident,DR TV,0
-827,Diabolique,New Horizon Picture Corp.,0
 11811,Leprechaun,New Horizons Picture,8556940
 16814,Crazy People,Boom Pictures Inc.,0
 25431,Adam's Rib,Heron Communications,0
@@ -2550,13 +2532,11 @@ id,title,name_companies,revenue
 47952,Two Men Went To War,Südwestfunk (SWF),0
 504,Monster,Pannónia Filmstúdió,60378584
 11007,Cheaper by the Dozen,Société Suisse de Radiodiffusion et Télévision (SSR),190212113
-10601,Peter Pan,JTP Films,121975011
 42418,Young Black Stallion,Battlefield Productions,0
 37088,Aileen: Life and Death of a Serial Killer,Hi-Rez Films,0
 5966,Along Came Polly,double A Films,171963386
 14757,Osama,Walt Disney Production,0
 11034,The Great Gatsby,Walt Disney Home Video,26533200
-25095,Wuthering Heights,Walt Disney Company,0
 52867,Lord Love a Duck,Fanfare Films,0
 26712,The Enforcer,Paradine Co-Productions,0
 33642,Hells Angels on Wheels,The Montecito Picture Company,0
@@ -2588,12 +2568,10 @@ id,title,name_companies,revenue
 18446,Swing Shift,Dorkay Productions,0
 1824,50 First Dates,Full Moon Pictures,196482882
 16784,Welcome to Mooseport,Kings Road Entertainment,14000000
-44674,After Life,Zealcorp Productions Limited,0
 54045,The Code,BHE Films,0
 337,Monsieur Ibrahim,Verona Produzione,11576431
 2576,The Diary of Anne Frank,Lester Cowan Productions,0
 12775,Flesh + Blood,Embark Production,0
-2099,Raw Deal,American Film Institute (AFI),16209459
 42852,"Goodbye, Mr. Chips",Libra Films,0
 40454,"Follow Me, Boys!",Magidson Films,0
 6470,Fire Birds,Carlyle Production,0
@@ -2605,7 +2583,6 @@ id,title,name_companies,revenue
 70113,Tokyo Joe,Astral Bellevue Pathé,0
 56188,Fire Down Below,Simon Reeves Landsburg Productions,0
 62190,American Gun,Unity Productions,0
-43323,Richard III,Troma Entertainment,0
 66660,How to Draw a Bunny,Braveworld Productions,0
 10433,Mad Dog and Glory,Industrial Light & Magic (ILM),11081586
 40752,Walk Like a Man,Mad Max Films,0
@@ -2615,7 +2592,6 @@ id,title,name_companies,revenue
 11024,Scooby-Doo 2: Monsters Unleashed,Union,181466833
 1487,Hellboy,Galactic Films,99318987
 13700,Home on the Range,Triple Ajaxxx,103951461
-10733,The Alamo,Ion Pictures,25819961
 28026,Prey for Rock & Roll,MTM Enterprises,0
 26176,"Mother, Jugs & Speed",Nelvana,0
 42245,The Food of the Gods,Pathé Pictures International,0
@@ -2740,7 +2716,6 @@ id,title,name_companies,revenue
 10652,Hamburger Hill,Associated British-Pathé,13839404
 33632,Sweet Bird of Youth,St. Michael Finance Limited,0
 25853,Dahmer,Artistry Limited,144008
-68430,Paradise,Investors In Industry PLC,18634643
 43001,Sundays and Cybele,Robert Fleming Leasing Limited,0
 250,In China They Eat Dogs,Aviva Entertainment,0
 15392,Crossroads,Black Hawk Entertainment,5738952
@@ -2911,7 +2886,6 @@ id,title,name_companies,revenue
 42600,Watermelon Man,Les Films A4,0
 1492,1492: Conquest of Paradise,Disney Toon Studio,7191399
 11045,Taxi,Twitching Image Studio,36609966
-4380,Shall We Dance?,Cinémaginaire Inc.,170128460
 3989,Team America: World Police,Epithete films,50907422
 29445,Epidemic,Pistolero Productions LLC,0
 21241,Cannonball,Spot Pictures,1500000
@@ -2951,7 +2925,6 @@ id,title,name_companies,revenue
 42401,Since You Went Away,Shochiku-Fuji Company,0
 30996,Splatter University,Reversal Films Inc.,0
 18889,Control Room,Mersham Productions,2586511
-71065,The Last of the Mohicans,Zacharias-Buhai Productions,0
 41348,Why Worry?,Island,0
 42359,The Freshman,C.H.U.D. Productions,0
 964,The Phantom of the Opera,Swanford Films,0
@@ -2982,7 +2955,6 @@ id,title,name_companies,revenue
 55207,Gaslight,Helkon Media AG,0
 31868,Intermezzo: A Love Story,Avalanche Films,0
 37698,The Roaring Twenties,Compass Productions,0
-3084,Wuthering Heights,Diamant Cohen Productions,0
 46069,The Story of the Last Chrysanthemum,Pariah Entertainment Group,0
 43806,Abe Lincoln in Illinois,Mushroom Pictures,0
 26635,Brother Orchid,Jafar Panahi Film Productions,0
@@ -3005,7 +2977,6 @@ id,title,name_companies,revenue
 41020,The Beast with Five Fingers,Filmboard Berlin-Brandenburg (FBB),0
 16090,The Blue Dahlia,Borough Films,0
 44041,The Dark Mirror,Filmförderungsanstalt (FFA),0
-14320,Great Expectations,Euro Space Inc.,0
 43469,Shoeshine,MCL Films S.A.,0
 20246,The Stranger,Walwa Films S.A.,0
 27448,The Two Mrs. Carrolls,First National Bank of Chicago (London Branch),0
@@ -3058,7 +3029,6 @@ id,title,name_companies,revenue
 9929,Asterix and Cleopatra,Eidos Interactive,0
 42634,Petulia,Ardustry Entertainment,0
 118872,The Subject Was Roses,Mediastream Film GmbH & Co. Productions KG,0
-42607,"Goodbye, Mr. Chips",Ufland,0
 21323,More,Les Films Pelléas,0
 29748,Taste the Blood of Dracula,La Sofica Gimages 2,0
 31672,Violent City,Screen Artists,0
@@ -3147,7 +3117,6 @@ id,title,name_companies,revenue
 9041,One Deadly Summer,GG Studio,0
 31939,Another Country,Villealfa Filmproduction Oy,0
 63418,Boy Meets Girl,Finnish Film Foundation,0
-13189,A Christmas Carol,No Frills Film Production,0
 19621,The Hit,Brightstar Films,0
 25425,Drunken Tai Chi,Palisades California Inc.,0
 10372,Ewoks: The Battle for Endor,3B Productions,0
@@ -3230,7 +3199,6 @@ id,title,name_companies,revenue
 12619,Cherry Falls,Bayerischer Rundfunk (BR),0
 39927,Freeway II: Confessions of a Trickbaby,Pelemele Film,0
 24272,Joseph and the Amazing Technicolor Dreamcoat,Aaron Russo Productions,0
-11944,Joan of Arc,Productora Filmica Real,0
 54003,Pups,Universal Pictures Corporation,0
 19362,Meeting People Is Easy,Beco Films,0
 32306,The Underground Comedy Movie,The Oxford Film Company,0
@@ -3325,7 +3293,6 @@ id,title,name_companies,revenue
 13371,Sex Lives of the Potato Men,Academy Pictures,0
 1913,The Sea Inside,Harbor Productions,38535221
 2539,Spanglish,Sandy Howard Productions,55041367
-15177,Buddy,Norlan Productions,0
 14770,Festival Express,Ira Steiner Productions,0
 38398,Just Bea,Europa Film,0
 1114,The Weeping Camel,Viking Film,0
@@ -3410,7 +3377,6 @@ id,title,name_companies,revenue
 2517,Nobody Knows,IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG,0
 17978,The Great White Hope,A Happy Place,0
 43801,The Devil and Miss Jones,13 Ghosts Productions Canada Inc.,0
-30923,Alice in Wonderland,Better Than,0
 41851,Everyday People,France Télévision Distribution,0
 58918,Backflash,Meercat Films,0
 11343,Salem's Lot,New Vision Films,0
@@ -3448,7 +3414,6 @@ id,title,name_companies,revenue
 2026,Hostage,In-Cine Compania Industrial Cinematografica,77944725
 82432,Kiss The Bride,Turbine Films Inc.,0
 6593,Godzilla vs. Mechagodzilla II,Cinema 77 Films,0
-63115,Crush,Arkoff International,0
 76403,DNA,Earthling Associates,0
 34093,Rendez-vous,Interstar,0
 54380,Captains of April,The Bryna Company,0
@@ -3510,7 +3475,6 @@ id,title,name_companies,revenue
 54156,First Desires,Film Roman,0
 30204,"Move Over, Darling",Cine Camera,0
 42260,Mother Küsters Goes to Heaven,Clifton Productions,0
-9636,Control,Ecosse Films,0
 36984,Trespassing,Pod Films,0
 36843,Life Is Sweet,Barwood Films,0
 18871,Ride the Pink Horse,Ladbroke,0
@@ -3651,7 +3615,6 @@ id,title,name_companies,revenue
 30230,International House,El Pico S.A.,0
 11636,New Police Story,Transcinema,0
 43529,Golden Boy,Blue Sky Studios,0
-22575,Go West,Twentieth Century Fox Animation,0
 1676,Will Penny,New Legacy,0
 9923,Domino,Overbrook Entertainment,22944502
 2125,Wedlock,Sirena Film,0
@@ -3684,7 +3647,6 @@ id,title,name_companies,revenue
 43110,The Mating Game,Jetfilm,0
 9910,Two for the Money,Triumfilm,30526509
 12920,Dreamer: Inspired By a True Story,Indelible Productions,0
-16608,The Proposition,98 MPH Productions,5048693
 19965,Loggerheads,Bavaria Film International,0
 18428,Confess,Media Programme of the European Community,0
 1656,The Legend of Zorro,Centre Européen Cinématographique Rhône-Alpes,142400065
@@ -3720,7 +3682,6 @@ id,title,name_companies,revenue
 2153,The Driver,Odeon Film,0
 19215,After Innocence,Crystal Lake Entertainment,0
 64972,The Kid & I,Monarchy Enterprises S.a.r.l.,0
-254,King Kong,Agi Orsi Productions,550000000
 1904,Memoirs of a Geisha,Vans Off the Wall,162242962
 917,Mother India,ECM Records,0
 19058,Down,Humble Journey Films,163169
@@ -3789,7 +3750,6 @@ id,title,name_companies,revenue
 19287,Leprechaun 4: In Space,Wagons East N.V.,0
 1379,Lights in the Dusk,Josephson Entertainment,1615018
 62719,Kummeli Stories,NBA Entertainment,0
-9792,The Hills Have Eyes,Like Mike Productions,69623713
 52885,The Red and the White,Cartoon Network Studios,0
 42120,City on Fire,Momentum Pictures,0
 37939,Youth of the Beast,Animal Planet,0
@@ -3832,7 +3792,6 @@ id,title,name_companies,revenue
 101908,Shanghai Dreams,Roy Andersson Filmproduktion AB,0
 26116,The Mechanik,Ciné B,0
 53905,Marilyn Hotchkiss' Ballroom Dancing & Charm School,Cab Producciones,0
-806,The Omen,Antenne-2 (A2),119188334
 20945,The Seventh Victim,Dorica Film,0
 122271,Bleak Moments,Algonquin,0
 2295,Clerks II,Mikona Productions GmbH & Co. KG,26888376
@@ -3873,7 +3832,6 @@ id,title,name_companies,revenue
 1986,Live and Become,Castle Hill Productions,0
 31152,On Dangerous Ground,VTC,0
 1402,The Pursuit of Happyness,Blood Relations Co.,307077295
-55587,Michael,Zopix Company,0
 42479,Ciao! Manhattan,Murnau-Flaherty Productions,0
 43542,The Rainmaker,Warner Bros. Home Entertainment Group,0
 9782,The Night Listener,Society Productions Inc.,0
@@ -3881,7 +3839,6 @@ id,title,name_companies,revenue
 35921,Compulsion,JEMPSA,0
 15696,A Canterbury Tale,Pol-Ka Producciones,0
 42756,Angels Over Broadway,Fanes Film,0
-37929,Fortress,Seven Pictures,0
 9762,Step Up,Typhoon,114194847
 86604,Tom Dick and Harry,Dante Entertainment,0
 15414,Land of the Blind,SuperMega,0
@@ -3902,7 +3859,6 @@ id,title,name_companies,revenue
 29589,Green for Danger,Destiny,0
 43841,Block-Heads,Big Idea Productions,0
 24055,The Puffy Chair,MediaTrade,0
-14597,Lassie,Equinox Entertainment,0
 40769,Mutual Appreciation,Capri Films,0
 22471,Yrrol,Shoreline Entertainment,0
 41508,Fateless,Pfilmco,0
@@ -3930,13 +3886,11 @@ id,title,name_companies,revenue
 14812,"Hawaii, Oslo",Codi S.p.a.,0
 28115,Dillinger,Film Council,0
 1975,The Grudge 2,Focus Films,39143839
-9895,Man of the Year,Momentum Films,41237648
 15005,One Night with the King,Artists Production Group (APG),13391174
 39183,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,Fifty First Films,0
 13209,Offside,The Goatsingers,0
 1440,Little Children,Tag Entertainment,14821658
 13364,Deliver Us from Evil,Broomstick Entertainment,201275
-43847,Marie Antoinette,Majestic Film Partners,0
 18925,Facing the Giants,Qatsi Productions,10178331
 1378,Shortbus,Ministry of Culture of the Russian Federation,5179037
 49481,3 Blind Mice,"Hermitage Bridge Studio, The",0
@@ -3947,7 +3901,6 @@ id,title,name_companies,revenue
 59500,Jade Warrior,Shinchosha Company,0
 5890,Azumi 2: Death or Love,Chartoff-Winkler Productions,0
 6077,13 Tzameti,Carlino Productions,767311
-43884,The Charge of the Light Brigade,Triple T Productions,2736000
 11619,Flushed Away,Butterfly Valley N.Y.,64459316
 23030,Arabesque,First Artists,0
 24553,All the Invisible Children,International Cinema,0
@@ -3968,10 +3921,8 @@ id,title,name_companies,revenue
 76211,Sitting Pretty,F.O.D. Productions,0
 2447,The Nativity Story,K-Network,0
 15077,Election 2,Time-Life Television Productions,0
-9986,Charlotte's Web,Geria Productions,144000000
 2486,Eragon,Florin,249288105
 40574,Girl Shy,R & R Films,0
-95797,Waterloo Bridge,Pork Pie Productions,0
 77966,Red-Headed Woman,New Zealand United,0
 55819,Daniel,New Zealand Railways,0
 46948,Power,New Zealand Motor Corporation,0
@@ -4027,7 +3978,6 @@ id,title,name_companies,revenue
 13393,My Father and My Son,Pearl Pictures,0
 12271,Factory Girl,Still Productions,0
 13185,Kidulthood,Independent Producers,165000
-28261,Mad Love,Carousel Picture Company,0
 83980,The Trial of Billy Jack,The Noel Gay Motion Picture Company,0
 94393,The Savage Innocents,Kismet Entertainment Group,0
 9695,Karla,The Victor Film Company,0
@@ -4055,7 +4005,6 @@ id,title,name_companies,revenue
 11494,Wilderness,S & L Films,0
 19936,Hipnos,23 Giugno,0
 9793,The Hills Have Eyes 2,Mann/Caan Productions,0
-43974,The Silence,Serene Skylight,0
 83346,It's Impossible to Learn to Plow by Reading Books,Ezeiza Films,0
 42066,Ladies in Retirement,Antena 3 Televisión,0
 5177,Dark Horse,Meatball Animation,0
@@ -4151,7 +4100,6 @@ id,title,name_companies,revenue
 3542,Lady Chatterley,China Film Group Corporation (CFGC),0
 43750,Under the Yum-Yum Tree,O2 Filmes,0
 10760,Sydney White,Wild Bunch,13620075
-4349,The Kingdom,Globo filmes,86658558
 14223,Wind Chill,Lumiere,0
 13068,Rocket Science,Hank Levine Film,0
 9561,TerrorStorm: A History of Government-Sponsored Terrorism,Lereby Productions,0
@@ -4175,7 +4123,6 @@ id,title,name_companies,revenue
 5915,Into the Wild,Ghiznoz Productions,56255142
 2274,The Seeker: The Dark Is Rising,Birnbaum / Barber Productions,0
 4566,Michael Clayton,R&C Produzioni,92991835
-4520,Sleuth,MP Productions,342835
 6615,Lars and the Real Girl,Agav Hafakot,11293663
 4513,30 Days of Night,Quixote Films,75505973
 5125,Rendition,Low Key Productions,24748670
@@ -4198,7 +4145,6 @@ id,title,name_companies,revenue
 20646,Graveyard of Honor,Cable and Wireless Finance,0
 14753,Silk,Mercury Pictures,0
 13066,I Want Someone to Eat Cheese With,Shakey Pictures,0
-3603,Black Sheep,Shelter Films,4947717
 95560,The Monster Walks,Prodekta AB,0
 48301,Return to the 36th Chamber,Boardwalk Productions,0
 12646,Valhalla,Topcraft,0
@@ -4247,12 +4193,10 @@ id,title,name_companies,revenue
 14047,The Great Debaters,Y & M Productions,30226144
 54318,The Water Horse,Fildebroc,103071443
 69315,Battlestar Galactica: Razor,Mega Film,0
-45871,The Mission,Paramount-Orion Filmproduktion,0
 6023,P.S. I Love You,Universal Productions France S.A.,156835339
 6557,27 Dresses,Chaplin Film Productions Ltd.,160259319
 47841,In Between Days,IM Filmproduktion,0
 8329,[REC],Cosmic Pictures,30448000
-13195,Flawless,Antietam Filmworks,6819587
 71068,The Iron Horse,Metropolitan Films,0
 41845,Heaven and Earth,Catherine Bailey Ltd.,0
 25078,Cat Soup,Artists Independent Network,0
@@ -4281,7 +4225,6 @@ id,title,name_companies,revenue
 12184,The Other Boleyn Girl,Telmar Film International,0
 13260,Semi-Pro,"Studio Filmowe ""Perspektywa",33472850
 13362,Taxi to the Dark Side,Cooga Mooga,274661
-10844,Out of the Blue,Joseph M. Schenck Enterprises,0
 90387,Gran Paradiso,Kadokawa Shoten Publishing Co. Ltd.,0
 8848,The Bank Job,Forum Films,64822796
 13460,Doomsday,Doordarshan,22211426
@@ -4379,14 +4322,12 @@ id,title,name_companies,revenue
 13353,"It's the Great Pumpkin, Charlie Brown",Raoul Walsh Enterprises,0
 11260,Meet Dave,United Productions of America (UPA),50650079
 13964,The Machine Girl,Cinecittà,0
-13692,August,RAI - Radiotelevisione Italiana,0
 13910,Death Defying Acts,Aljosha Production Company,8380329
 10818,Water Lilies,Fernlyn,0
 14456,Shrooms,Coleytown,4910682
 16007,Death Note,Joseph S. Vecchio Entertainment,27793200
 11802,Space Chimps,Sanen Productions,63800345
 78527,Jimmy Carter Man from Plains,Bewlay Bros.,108282
-13255,Conspiracy,VUFKU,0
 8836,The X Files: I Want to Believe,Spitfire Productions,68369434
 14048,Man on Wire,Animatógrafo,2957978
 12192,Pathology,Linebrook,0
@@ -4415,7 +4356,6 @@ id,title,name_companies,revenue
 43040,Sergeant Rutledge,Geoffrey-Kate Productions,0
 18539,Tobacco Road,Transcontinental Films,0
 85574,The Seventh Cross,Michael Deeley-Peter Yates Films,0
-13184,Bangkok Dangerous,D.W. Griffith Productions,42487390
 35854,Flash Point,Premium Movie Partnership,0
 22554,The Subtenant,British Film Council,0
 26431,Pu-239,Wonderland Sound and Vision,0
@@ -4423,12 +4363,10 @@ id,title,name_companies,revenue
 39368,Flu Bird Horror,Galliano Iuso per Digital Film,0
 13484,The Foot Fist Way,Milky Way Image Company,245000
 14458,Altered,Team Work Motion Pictures,0
-25795,Thieves,Miss Q,0
 13389,Righteous Kill,Isn't It Romantic,73174566
 15822,Accused,Mindel-Shaw Productions,0
 4998,Import/Export,Inspirational Films,0
 14643,Boot Camp,Finnegan/Pinchuk Productions,0
-30944,On the Beach,Waterhorse Productions,0
 38361,"Home Among Strangers, a Stranger Among His Own",MelinaFilm,0
 73920,Dead Man's Letters,Lopert Pictures Corporation,0
 50011,Look Back in Anger,Shôchiku Eiga,0
@@ -4467,7 +4405,6 @@ id,title,name_companies,revenue
 36572,The Dirty Dozen: The Deadly Mission,Benedict Pictures Corp.,0
 16509,Confessions of a Superhero,Loumolo & Co.,0
 6972,Australia,Casey Silver Productions,49554002
-8966,Twilight,Scottish Screen,392616625
 14574,The Boy in the Striped Pyjamas,Gunn Films,20416563
 10900,Surveillance,Casual Friday Productions,1115493
 12224,Dinotopia,Camelot Pictures,0
@@ -4479,7 +4416,6 @@ id,title,name_companies,revenue
 2574,The Lovers,Brookwood Entertainment,0
 114390,Hospital,Palisades Partners,0
 14447,A Matter of Loaf and Death,Kanin Productions,0
-17912,Gypsy,River One Films,0
 28148,Ninja III: The Domination,Lux Compagnie Cinématographique de France,0
 93260,Body of War,Roxanne Company,0
 116973,Four Men and a Prayer,Amato Film,0
@@ -4626,7 +4562,6 @@ id,title,name_companies,revenue
 24220,California Dreamin',Dewe Hellthaler,0
 21946,Counter Investigation,Département Fédéral de l'Intérieur,0
 30155,Naked Fear,Anglia Television,0
-39914,Chaos,National Broadcasting Company,0
 36392,Kogel-mogel,DEFA,0
 62437,Land of Silence and Darkness,DEFA-Studio für Spielfilme,0
 6968,The Baader Meinhof Complex,"Gruppe ""Johannisthal""",0
@@ -4683,7 +4618,6 @@ id,title,name_companies,revenue
 42513,Two English Girls,Kalkaska Productions,0
 15588,OSS 117: Lost in Rio,Amuse Pictures,0
 61109,The Flame of New Orleans,Shirogumi,0
-77822,The Winslow Boy,Pathe Productions,0
 14330,Trojan War,Red Turtle,0
 15712,Welcome,Networxx - Film Management,0
 18869,Jimmy and Judy,Fearmakers Studios,0
@@ -4730,7 +4664,6 @@ id,title,name_companies,revenue
 16911,The Inhabited Island,Société Radio-Canada,21834845
 14758,Good Dick,Triptych Pictures,0
 14687,Eichmann,Doom Buggy Productions,0
-68572,Possessed,Aligator Producciones,0
 84278,The Group,Tchin Tchin Productions,0
 60008,Rosso,Fugitive Features,0
 8054,The Imaginarium of Doctor Parnassus,Les Films du Loup,64352607
@@ -4765,7 +4698,6 @@ id,title,name_companies,revenue
 99600,"Good Men, Good Women",New Century Productions,0
 30319,Feel The Noise,Cargo Films,0
 18820,I Really Hate My Job,Pathé Consortium Cinéma,0
-85097,The Matador,Les Films de la Pléiade,0
 12839,The Curiosity of Chance,Samuel Goldwyn,0
 33314,Nora Roberts' Midnight Bayou,The Vitaphone Corporation,0
 21236,Lonely Street,Norma Productions,0
@@ -4802,7 +4734,6 @@ id,title,name_companies,revenue
 18724,Attack of the 50 Foot Woman,Collector Company,480000
 22536,Thirst,Rizzoli Films,0
 22326,Forbidden Fruit,Véra Films,0
-25549,Split Second,Gainax,0
 26009,Scandal Sheet,Intuitive TV,0
 12699,Hellraiser: Hellworld,Film Trustees Ltd.,0
 25532,Chronicle of an Escape,Naked Lunch Productions,0
@@ -4875,7 +4806,6 @@ id,title,name_companies,revenue
 52048,Last Stop for Paul,Manchester Productions,0
 75804,The Toll of the Sea,Orinward Ltd.,0
 176273,The Chechahcos,Omega Micott Inc.,0
-19851,Grey Gardens,Excell Film Agentur,0
 24293,Goemon,LQ/JAF,16000000
 18239,The Twilight Saga: New Moon,Triangle Film Corporation,709827462
 17774,Derailed,Wark Producing Corp.,0
@@ -5094,7 +5024,6 @@ id,title,name_companies,revenue
 31869,The Ascent of Money,Renfield Productions,0
 26186,Hot Millions,TigerTiger Productions,0
 55236,Desperate Journey,Chinarunn Entertainment Inc.,0
-47808,Sahara,Gérard Mital Productions,0
 90634,Hum Tumhare Hain Sanam,Christian Bourgois Productions,0
 26380,Out of the Fog,ISSA,0
 36443,The Union: The Business Behind Getting High,Sacem,0
@@ -5122,7 +5051,6 @@ id,title,name_companies,revenue
 121351,Aces and Eights,True Stories Venture,0
 37178,Virtuality,Fur Boat Films,0
 5178,The Good Heart,John Boorman Productions,0
-34069,Cargo,Associated British Picture Corporation (ABPC),0
 23437,A Nightmare on Elm Street,Guardsman Films,115664037
 76822,Tales of Terror from Tokyo and All Over Japan: The Movie,Wadleigh-Maurice,0
 21245,Lovers & Leavers,French Productions,0
@@ -5230,7 +5158,6 @@ id,title,name_companies,revenue
 24487,Passing Strange,Sofracima,0
 53232,Five and Ten,Warwick Productions,0
 31011,Mr. Nobody,Hugo Films,3547209
-1863,Sunflower,Fujisankei Communication Group,0
 65212,The Silver Chalice,Benchmark,3200000
 35262,George Washington Slept Here,Rem,0
 104744,Diary of a Shinjuku Thief,Bert E. Friedlob Productions,0
@@ -5255,7 +5182,6 @@ id,title,name_companies,revenue
 19874,What Goes Up,Tokyo FM Broadcasting Company,0
 132883,Wonder Bar,One Race Films,0
 26035,According to Greta,Access Films,0
-25474,Accident,Napoleon Pictures Limited,0
 115109,The Rains Came,Mumbo Jumbo Productions,0
 31900,Gainsbourg: A Heroic Life,7 Pictures,0
 122671,Who Saw Him Die?,Palomar Pictures International,0
@@ -5302,7 +5228,6 @@ id,title,name_companies,revenue
 72913,Amigo,Two Brothers Productions,0
 43923,It's Kind of a Funny Story,parallax projekt (innocence) ltd.,6491240
 201695,Remote Control,Director's Cut,0
-25694,Alice in Wonderland,HR. Boe & Co.,0
 42318,Hardcore,Will Vinton Studios,0
 36569,The Crimson Wing: Mystery of the Flamingos,CBS Television Studios,0
 27023,Saint John of Las Vegas,Les Films des Tournelles,111731
@@ -5340,7 +5265,6 @@ id,title,name_companies,revenue
 174792,The Girl Said No,Producciones Gustavo Alatriste,0
 45739,Tube Tales,Enos' Rose Productions,0
 45649,Rubber,Alternative Investments of Michigan,98017
-41505,Shelter,Fellowship Adventure Group,851517
 42941,30 Days of Night: Dark Days,Autumn Pictures,0
 74896,The Fox,IAC Film,0
 213864,Fat Guy Goes Nutzoid,Erre Cinematograsica S.r.l.,0
@@ -5421,7 +5345,6 @@ id,title,name_companies,revenue
 43973,Stray Dogs,Large's Ark Productions,0
 37514,Pray the Devil Back to Hell,Century 21 Television,0
 49322,1944 The Final Defence,Associated Television (Overseas) Limited,0
-46660,I Love You Too,Associated Television International,0
 44264,True Grit,Northcroft Films,252276927
 20526,TRON: Legacy,Exterminating Angel Productions,400062763
 104720,Forever Amber,Four Horsemen Films,0
@@ -5438,7 +5361,6 @@ id,title,name_companies,revenue
 52587,We Are the Night,Revolution Sun Studios,0
 25908,The Valley of the Bees,Shueisha,0
 15740,"Sarah, Plain and Tall",Konami Digital Entertainment,0
-173288,Black Sheep,Studio Gallop,0
 35958,New York Confidential,Konami,0
 41283,Faster,Nihon Ad Systems (NAS),23081726
 27072,On the Silver Globe,Front Street Productions,0
@@ -5553,7 +5475,6 @@ id,title,name_companies,revenue
 42171,The Infidel,Jerry Lewis Productions,0
 37380,Thunder Bay,York Pictures Corporation,0
 52555,Chronicle of the Years of Fire,Patti Enterprises,0
-55238,Edge of Darkness,Seven Hills Pictures,0
 33228,The Magus,Cinealpha KG,0
 34944,Background to Danger,Turner Entertainment,0
 106406,Adam Had Four Sons,Nord Ouest Production,0
@@ -5570,7 +5491,6 @@ id,title,name_companies,revenue
 53237,The Last Lovecraft: Relic of Cthulhu,Gloria Swanson Pictures,0
 59248,The Wildest Dream,Luis Buñuel,0
 70591,For Love of Ivy,Vicomte de Noailles,0
-33025,Mannequin,Les Établissements Jacques Haïk,0
 59490,Cave of Forgotten Dreams,Ramón Acín,6467348
 38684,Jane Eyre,RKO Pathé Pictures,34710627
 23629,Sucker Punch,Larry Darmour Productions,89792502
@@ -5578,7 +5498,6 @@ id,title,name_companies,revenue
 48243,Essential Killing,Jean-Louis Nounez,0
 2010,The Mourning Forest,Lone Star Production,0
 19611,Connected,Edward Halperin Productions,0
-16179,Breathing Room,Victor Halperin Productions,0
 49018,Insidious,British National Films,97009150
 51290,Artois the Goat,Ernst Lubitsch Productions,0
 38502,The Necessities of Life,War activities committee of the motion pictures industry,0
@@ -5590,7 +5509,6 @@ id,title,name_companies,revenue
 89756,Captive,Loew-Hakim,0
 36871,Late Chrysanthemums,International Pictures (I),0
 47435,St. George Shoots the Dragon,Societa Cooperativa Alfa Cinematografica,0
-49012,Arthur,Roy Del Ruth Productions,45735397
 49876,The Mouse on the Moon,Rampart Productions,0
 99920,Confessions of a Nazi Spy,Films du Palais Royal,0
 76714,The Journey,Andre Paulve Film,0
@@ -5598,7 +5516,6 @@ id,title,name_companies,revenue
 27045,The Crimson Kimono,Wald/Krasna Productions,0
 152861,Outsider,Shintoho Film Distribution Committee,0
 53741,Crazy Love,Koi Productions,119919
-36821,The Perils of Pauline,Michael Balcon Productions,0
 9511,Rabbit Without Ears 2,Franco London Films,48720000
 51520,Blind Mountain,"Intl Union of Mine, Mill & Smelter Workers",0
 141241,15,Independent Production Company (IPC),28
@@ -5634,7 +5551,6 @@ id,title,name_companies,revenue
 188505,Persona non grata,British Lion-Columbia Distributors,0
 40699,"Rock, Paper, Scissors: The Way of the Tosser",Arcola Pictures,0
 55721,Bridesmaids,Fair Film,288383523
-38321,Priest,Incei Film,78309131
 61420,The 19th Wife,Sancro Film,0
 49853,Same Same But Different,Cinerama Productions Corp.,0
 50780,The Beaver,Interopa Film,970816
@@ -5714,7 +5630,6 @@ id,title,name_companies,revenue
 18125,"Rita, Sue and Bob Too",Weston Productions,0
 42368,For Heaven's Sake,Jobete Productions,0
 42150,Three Brothers,Sidney J. Furie Productions,0
-147846,The Letter,Talent Associates,0
 27358,Monsturd,Norton Simon Inc.,0
 59065,Route Irish,Les Films Gibé,0
 41593,"Quo vadis, baby?",Les Films Pomereu,0
@@ -5752,7 +5667,6 @@ id,title,name_companies,revenue
 63297,200 MPH,Jerry Bick,0
 68200,Hot Coffee,George Litto Productions,0
 288153,Killing Auntie,Comedian Intl Enterprise Productions (C.I.E.),0
-42516,Love,Les Productions René Goscinny,0
 32691,Nouvelle Vague,Studios Idéfix,0
 177697,Hangtime,E.K.,0
 38645,And Then Came Lola,Layton Productions,0
@@ -5770,7 +5684,6 @@ id,title,name_companies,revenue
 54540,Beverly Hills Chihuahua 2,Action Films,12000000
 8888,A Year Ago in Winter,Film Properties International N.V.,0
 230680,Nachbarinnen,Gates of Heaven,0
-44117,Without Warning,Clonus Associates,0
 94716,A Cottage on Dartmoor,Off Production,0
 41513,The Smurfs,Rush Production,563749323
 12446,Angel of Mine,Ragewar Productions,0
@@ -5799,7 +5712,6 @@ id,title,name_companies,revenue
 61791,Rise of the Planet of the Apes,Michael Arthur Films,482860185
 51993,Terri,La Cécilia,144633
 35257,Christmas Carol: The Movie,Central,0
-185197,The Merry Widow,UCLA School of Film and Television,0
 104602,High Time,black sand productions,0
 80771,There Goes My Heart,pacific arts,0
 46584,The Trotsky,Kaktus Producciones Cinematográficas,0
@@ -5813,7 +5725,6 @@ id,title,name_companies,revenue
 77922,Laila,M Company,0
 105287,Super 8 Stories,Teamfilm AS,0
 98635,What Did the Lady Forget?,Semic,0
-111960,Miranda,Farago Film,834332
 42692,Elvira Madigan,Cinepro,0
 64964,Forest,Mr. Yellowbeard Productions Limited & Company,0
 46261,Don't Be Afraid of the Dark,AAR Films,36993168
@@ -5821,10 +5732,8 @@ id,title,name_companies,revenue
 60375,Rocky VI,Arctic-Filmi,0
 52015,Stake Land,Gutenberghus,33245
 55244,Bill Cunningham New York,Springvale Productions,1339650
-121530,Boys,Cinema City Company Limited,0
 55845,Phil Ochs: There But for Fortune,Kanoon,0
 37430,Conan the Barbarian,Kulturtuben,48795021
-50023,Dead Awake,Laurenfilm,0
 57211,Magic Trip,Filmkameratene A/S,0
 69292,The Creation of the Humanoids,Cinema City,0
 63579,Project Nim,Qartuli Pilmi,0
@@ -5854,7 +5763,6 @@ id,title,name_companies,revenue
 47760,Restless,Mirage Films,163265
 55847,Four Nights of a Dreamer,Parkfield Entertainment,0
 103475,The Soul of a Man,Imperial Filmproduktion,0
-36236,The Witches,Studio DEEN,0
 166798,Pathetic Fallacy,Sofimage,0
 27881,Zombie Island Massacre,Téléma,0
 75865,Loser Takes All,Italfrance Films,0
@@ -5898,7 +5806,6 @@ id,title,name_companies,revenue
 50837,Martha Marcy May Marlene,General Media Entertainment,3538446
 71859,We Need to Talk About Kevin,Anchor Bay Films,6038942
 43688,The Old Fashioned Way,Tommy,0
-52451,The Three Musketeers,Generation Films (I),132274484
 49530,In Time,Lewin Films,173930596
 18916,A Pain in the Ass,Studio Nue,0
 62728,Brighton Rock,Triangle Staff,0
@@ -5930,7 +5837,6 @@ id,title,name_companies,revenue
 49411,WUSA,New Crime Productions,0
 17578,The Adventures of Tintin,Child's Will Productions,371940071
 74536,The Son of No One,Bill Bennett Productions,0
-52799,Undertow,Ognon Pictures,0
 40658,Starsuckers,MISR International Films,0
 47189,Capricious Summer,Mirador Films,0
 52472,Bandwagon,Occidental Media Corp.,0
@@ -5943,10 +5849,8 @@ id,title,name_companies,revenue
 17495,Whatever Lola wants,Original Voices Inc.,0
 61985,Westward Ho,Trimark,0
 238616,The Big Hangover,SF Norge Produksjon,0
-9364,Wuthering Heights,NBC Studios,100915
 48014,From Beyond the Grave,RHI Entertainment,0
 93560,Batman and Robin,Motion International,0
-4195,Bluebeard,Goodbros. Pictures Entertainment,0
 4809,Good Morning Miss Dove,Becker & Häberle Filmproduktion GmbH,0
 181537,The Late George Apley,Traumwerk Filmproduktion GmbH,0
 64328,The Muppets,CML Films,165184237
@@ -5985,17 +5889,14 @@ id,title,name_companies,revenue
 174593,Blind Justice,Kinokompaniya CTB,0
 59457,Womb,Nikola Film,0
 75345,I Melt with You,Columbia TriStar Television,0
-56801,Judex,Pictanovo Nord-Pas-de-Calais,0
 25653,Wild Animals,C.R.R.A.V,0
 22075,Angelus,King Records,0
 118204,The Student,Crest Animation Productions,0
 56292,Mission: Impossible - Ghost Protocol,Shanghai Film Group Corporation,694713380
 262475,G.I. Joe: The Revenge of Cobra,Jet Tone Films,0
 40693,April in Paris,Barenholtz Production,0
-65754,The Girl with the Dragon Tattoo,Romero-Grunwald Productions,232617430
 71469,The Darkest Hour,Creative Entertainment Group,64626786
 45320,Picture Me,Silver Bullet Pictures,11000
-16939,Last Holiday,Imperial Fish Company,0
 378477,Metrobranding,Third Costa,0
 82203,The Girl in the Red Velvet Swing,G.O. Films,0
 25915,Shockproof,Glaski Productions,0
@@ -6023,7 +5924,6 @@ id,title,name_companies,revenue
 49527,Man on a Ledge,Magyar Mozgókép Alapítvány,46221189
 55741,Sacrifice,Fondazione Montecinemaverita,0
 68861,Veijarit,Goëss Film,0
-37038,All Night Long,La Petite Reine,0
 8368,The Garden of Eden,Chez Wam,0
 260064,My Man and I,61* Productions Inc.,0
 105548,Secrets,Sat.1,0
@@ -6033,7 +5933,6 @@ id,title,name_companies,revenue
 34179,14 Blades,Dakota Pictures,0
 32831,"Buona Sera, Mrs. Campbell",Dakota North Entertainment,0
 102809,Disorder,Baby Films,0
-77560,Faust,Dramatiska Institutet,0
 56815,Post Mortem,TV1000 AB,0
 25774,Fados,Globo Filmes,0
 40939,Alexandria… Why?,Centre National de la Cinématographie (CNC) / France 3 Cinéma,0
@@ -6069,7 +5968,6 @@ id,title,name_companies,revenue
 75170,Third Star,Imagica,0
 26118,Dylan Moran: What It Is,Carol Baum Productions,0
 79133,"Dylan Moran: Yeah, Yeah",Bregman-IAC Productions,0
-59961,Safe House,Living Pictures,208076205
 72570,The Vow,The Pitt Group,196114570
 63749,Swamp Shark,Carolina Torn Asunder Inc.,0
 49354,Moon of the Wolf,Millbrook Farm Productions,0
@@ -6094,7 +5992,6 @@ id,title,name_companies,revenue
 84259,Hearts of the West,Odessa Filmworks,0
 75469,Oka!,Estúdios Mega,0
 83732,Bombay Beach,MegaColor,0
-215478,The Little Mermaid,Quanta Centro de Produções Cinematográficas,0
 75948,The Sorcerer and the White Snake,Sonet Film,0
 29564,Smokin' Aces 2: Assassins' Ball,Film Väst,0
 71771,Knuckle,Sofica Valor 6,0
@@ -6129,12 +6026,10 @@ id,title,name_companies,revenue
 85883,The Woman Who Drinks,Media 8 Entertainment,0
 116231,Another Woman's Life,Suplex,0
 52264,A Cat in Paris,napalm FiLMS,309973
-25228,Darling,Studio Légende,0
 73937,The Big Year,Epica Ltd.,7448385
 46813,Don Quixote,Nordisk Film/TV,0
 82620,Undefeated,Skinworxxx,0
 53418,One A.M.,AMV Production,0
-53420,The Cure,Fukasaku-gumi,0
 123320,Canned Dreams,Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 2 KG,0
 53419,Behind the Screen,2003 Productions,0
 64288,Forks Over Knives,Région Ile-de-France,664747
@@ -6173,7 +6068,6 @@ id,title,name_companies,revenue
 33569,White Night Wedding,Egg Films,0
 81025,Salmon Fishing in the Yemen,Show East,34564651
 35435,Eden of the East Movie I: The King of Eden,France3 Cinéma,0
-89191,Saving Face,All American Pictures,0
 94204,Meeting Evil,49 Film,525
 57165,Wrath of the Titans,Mainichi Shinbunsha,301000000
 362758,Seven Brothers,Culture Publishers (CP),0
@@ -6187,7 +6081,6 @@ id,title,name_companies,revenue
 74306,God Bless America,Rising Star,122550
 2929,Frankenstein,Mission Pictures,0
 178535,The Dupes,Buffalo Gal Pictures,0
-251797,The Unknown Woman,Startroop Pictures Inc.,0
 28136,Popatopolis,Tippett Studio,0
 28912,"Wild, Wild Planet",Casa de Cinema de Porto Alegre,0
 36228,Genesis,Xanadeux Company,0
@@ -6207,7 +6100,6 @@ id,title,name_companies,revenue
 91292,Black Pond,Filmlance International AB,0
 73211,King of Devil's Island,Maipo Film AS,0
 84404,Bully,Motion Picture JOTA Produktions,0
-74447,The Hammer,Plunge Pictures LLC,0
 84660,The Flower in Hell,One Hundred Years of Film Company,0
 39509,Cold Storage,MMG Film & TV Production,0
 88609,Listen to Britain,PVPictures,0
@@ -6231,11 +6123,9 @@ id,title,name_companies,revenue
 242621,Nob Hill,Sixteen Films,0
 17347,Bride Flight,Cinéart,2556911
 43373,Chained for Life,Bianca Film,0
-284694,The Scarlet Letter,Glasgow Film Office,0
 73563,The Greening of Whitney Brown,Pygmalion Production,0
 72387,Safe,GF Studios AB,40346186
 106373,"That Day, on the Beach",Lefwander Kapitalförvaltning AB,0
-28238,Hamlet,Sonet Film AB,0
 91352,The Swell Season,IFMD Ltd.,0
 61361,L'outremangeur,Showbox Entertainment,0
 88478,Any Questions for Ben?,Chum City,0
@@ -6322,7 +6212,6 @@ id,title,name_companies,revenue
 44251,Dragon Ball Z: Broly - Second Coming,Adolfo Aristarain,0
 50388,King of Thorn,Tornasol Films S.A.,0
 148807,"Lost, Lost, Lost",Estudios Picasso,0
-86593,Wild Bill,Euskal Irrati Telebisa (EITB),0
 72843,Pete Smalls Is Dead,Mama Films,0
 101325,The Forger,DAL Productions,0
 52906,Goodbye Charlie,Les Films 21,0
@@ -6400,7 +6289,6 @@ id,title,name_companies,revenue
 128280,Blood Money,Bonfire,0
 77016,End of Watch,Neshane,48126384
 84348,V/H/S,Interlight,100345
-103663,The Hunt,Produzione Salvo D'Angelo,16800000
 103328,Holy Motors,Tevere Film,641100
 111174,Knuckleball!,Plata Films S.A.,0
 115712,Either Way,Interfilme,0
@@ -6448,7 +6336,6 @@ id,title,name_companies,revenue
 116463,Arachnoquake,Oriental International Films,0
 18112,Boogie Man: The Lee Atwater Story,IsFilm,0
 105210,Thermae Romae,Hope & Glory Film Productions GmbH,0
-78604,Michael,Hope & Glory Pictures International,0
 57722,Kings of Pastry,Hope & Glory Pictures,0
 89723,The Gorilla,Artear,0
 57089,Hoodwinked Too! Hood VS. Evil,Mandala Films,13521829
@@ -6456,7 +6343,6 @@ id,title,name_companies,revenue
 32904,Tony,Tony DiDio Productions,0
 82642,Dive!,Cal-Am Productions,0
 50845,The Clink of Ice,Takarazuka Eiga Company Ltd.,0
-110525,Four Sons,Alan Young Pictures,0
 117691,Gangs of Wasseypur,Panico Films,4100000
 116167,56 Up,Set Satellite,0
 97690,We Are Legion: The Story of the Hacktivists,Emiliano Piedra,0
@@ -6570,7 +6456,6 @@ id,title,name_companies,revenue
 127916,The Fitzgerald Family Christmas,Praesens-Film AG,0
 84305,Lay the Favorite,Von Vietinghoff Filmproduktion,1576687
 106135,Crooked Arrows,Mozgókép Innovációs Társulás és Alapítvány,1832541
-18725,The Enforcer,Magyar Televízió,0
 10620,Once Upon a Time in China and America,Grasshoppa,0
 10616,Contract Killer,Aoi Promotion,0
 40004,Never Say... Never!,Kestrel Films Ltd.,0
@@ -6593,7 +6478,6 @@ id,title,name_companies,revenue
 77875,Playing for Keeps,Danny the Dog Prods Ltd.,0
 82687,The Guilt Trip,A.V.H. San Luis,41863726
 94352,Cirque du Soleil: Worlds Away,Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 1 KG,34153101
-82695,Les Misérables,Sweetwall,441809770
 85652,Mamitas,Paradise Films,0
 87440,Struck by Lightning,Dulciné Films,22930
 151870,Minecraft: The Story of Mojang,BBC Worldwide,0
@@ -6615,15 +6499,12 @@ id,title,name_companies,revenue
 86304,All Superheroes Must Die,A%26E IndieFilms,0
 57307,L'incruste,Iblis Films,0
 97605,Extracted,Citadel Entertainment,0
-132654,Les Miserables,MUVI Films,0
 98262,The Big Street,Santo Domingo Films,0
 172413,The True Meaning of Christmas Specials,Organización Santo Domingo,0
 20513,Dakota Skye,Legendary Pictures,0
 34905,Confessions of a Pop Performer,Patalex III Productions Limited,0
 134132,Excuse Me for Living,Amaze Film + Television,0
-31022,Aftermath,Running Miracles Productions,0
 132923,"Guns, Girls and Gambling",Studio Fierberg,0
-115276,Pusher,Exception Wild Bunch,0
 74549,The Shunning,Bewitched,0
 44668,She Had to Say Yes,David LaChapelle Studios,0
 135678,Leave,HSI Productions,0
@@ -6637,11 +6518,9 @@ id,title,name_companies,revenue
 147538,It's Such a Beautiful Day,Coop 99,0
 19844,Kiss the Bride,Südwestrundfunk,0
 114994,Planet of Snail,Gruppo Minerva International,0
-99877,The Waiting Room,Film Fund Luxembourg,0
 142061,"Batman: The Dark Knight Returns, Part 2",ApolloProScreen,0
 124074,Mea Maxima Culpa: Silence in the House of God,RainCity Productions,0
 135921,Everything or Nothing,SC Entertainment International,0
-106541,Cargo,City Heat Productions,0
 43263,Jesse Stone: No Remorse,Sagg Main Productions,0
 128644,Marked for Murder,Coproducción GB - USA - Francia - Alemania - Italia- Rumanía,0
 15932,The Candidate,RCD Productions Ltd.,0
@@ -6657,7 +6536,6 @@ id,title,name_companies,revenue
 59197,Battle of Los Angeles,Sequoin Films,0
 83443,Girl Model,Rabinovich Film Fund Cinema Project,0
 83588,Middle of Nowhere,Kinostudiya ''Mosfilm'',0
-62403,Madagascar,Post No Bills Films,0
 68178,Omar Killed Me,Pandemonium Productions,0
 94047,My Way,Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 3 KG,0
 128190,The Pervert's Guide to Ideology,Lunar Films,0
@@ -6732,13 +6610,11 @@ id,title,name_companies,revenue
 159412,The Thick-Walled Room,ORF Film/Fernseh-Abkommen,0
 143946,I Will Buy You,Österreichisches Filminstitut,0
 44158,This Movie Is Broken,Xaloc,0
-133183,The Child,Creativos Asociados de Radio y Televisión (CARTEL),0
 180016,First Person Plural,Bavaria Entertainment,0
 160324,"Hello, Friend",Scanbox,0
 88812,The Hucksters,The Weinstein Company,0
 4868,Genghis Khan,Reforma Films,0
 51853,Accomplices,Banner Productions,0
-80890,The Great Gatsby,Teodora Film,0
 190167,9500 Liberty,La Pasionaria S.r.l.,0
 440145,Pablo's Hippos,Cineblue Internationale Filmproduktionsgesellschaft,0
 89185,Radio Rebel,City Productions,0
@@ -6803,7 +6679,6 @@ id,title,name_companies,revenue
 43023,Konga,Extension 765,0
 63686,Thor: Tales of Asgard,Union Station Media,3100000
 78432,Before Your Eyes,Icelandic Film Corporation,0
-71508,The Taming of the Shrew,Milkshake Films,0
 29886,The Bride Came C.O.D.,Hargitay & Hargitay Pictures in Motion,0
 31664,Mexican Hayride,Charlie Guidance,0
 169934,Iron Man: Rise of Technovore,Flux Films,0
@@ -6818,7 +6693,6 @@ id,title,name_companies,revenue
 109414,This Is the End,Reverse Angle Pictures (II),126041322
 68721,Iron Man 3,EuroArts Medien AG,1215439994
 18089,Miss Austen Regrets,Network Movie Film-und Fernsehproduktion,0
-19688,Middle of Nowhere,Deuce Three Productions,0
 36229,3° kälter,Film i Skåne,0
 77234,The Numbers Station,Omega Film & Television,0
 56584,"The Late, Great Planet Earth",Anchor Bay Entertainment,0
@@ -6868,7 +6742,6 @@ id,title,name_companies,revenue
 130824,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,Manderlay,0
 39193,Firecracker,Enchantment Films Inc.,0
 86843,With Great Power: The Stan Lee Story,Cine Pantera,0
-123103,Aftershock,Lul%C3%BA,58510
 166666,3096 Days,Titan Talent & Entertainment,0
 109455,Little Girl,Comenius-Film GmbH,0
 84302,The Last Elvis,Lewis Motion Picture Enterprisee,0
@@ -6905,7 +6778,6 @@ id,title,name_companies,revenue
 167494,"Reason, Debate and a Story",Emmett Furla Oasis Films (EFO Films),0
 35862,Wedding Trough,Gun for Hire Films,0
 68556,Days of Grace,403 Productions,0
-84198,A Place at the Table,True Crime Channel,0
 103620,Maniac,Northmen Productions,31081
 68726,Pacific Rim,Patalex IV Productions Limited,407602906
 118998,Ada,Tree Line Films,0
@@ -6919,7 +6791,6 @@ id,title,name_companies,revenue
 42527,The Projectionist,O.N.C. Entertainment,0
 153420,Love Ghost,Sony Pictures Entertainment (SPE),0
 83342,Blutzbrüdaz,Time Productions,0
-119916,The Tempest,Richmond Productions,0
 31460,Life Without Dick,Radnitz/Mattel Productions,0
 151085,Hypocrites,Producciones Barbachano Ponce,0
 120892,"Ah, Wilderness!",Eve Productions,0
@@ -6950,10 +6821,8 @@ id,title,name_companies,revenue
 77663,Killing Season,MTV Produktion,39881
 100287,My Avatar and Me,Aura Films,0
 77173,The Blood Beast Terror,Naya Films SA,0
-119928,Othello,Productores Asociados SA,0
 138843,The Conjuring,Meadway-Claude Productions Company,318000141
 28698,Everything,Sancrosiap,0
-54320,Love,Divina-Film,0
 209204,The Cheshire Murders,Gaumont Columbia Tristar Films,0
 76170,The Wolverine,21 Laps Entertainment,415440673
 191231,Sol,Dozen Canada Productions,0
@@ -6971,7 +6840,6 @@ id,title,name_companies,revenue
 17275,The All Together,First Foot Films,0
 74310,Hell and Back Again,Sarah Green Film,0
 151743,Lost in Thailand,The Virginia Company LLC,208000000
-168138,The Last Days,CoMix Wave,0
 179144,The Great Beauty,General Film Distributors,8371085
 43167,Andy Hardy's Double Life,La Deantir,0
 58447,Three Giant Men,CJ Capital Investment,0
@@ -6983,7 +6851,6 @@ id,title,name_companies,revenue
 191619,Beneath,Centurion Investment,0
 50277,Two Guys Talkin' About Girls,Best Film,0
 83040,Battle for Brooklyn,Davis Entertainment Filmworks,0
-4548,The Count of Monte Cristo,A.C.E.,0
 76285,Percy Jackson: Sea of Monsters,NHK Enterprises,174578751
 77931,The Smurfs 2,TCEP Inc.,347434178
 23535,Class of 1999,Ivan Foxwell Productions,2459895
@@ -6994,7 +6861,6 @@ id,title,name_companies,revenue
 42502,The Brute,Boll KG,0
 38120,Zombies of Mora Tau,Raw Nerve,0
 21683,Batman: Mystery of the Batwoman,Hostel LLC,0
-18851,The Cat and the Canary,Kanbar Entertainment,0
 259808,Criminal Justice,Blue Yonder Films,0
 155751,A Family Affair,Seventh Picture Productions LLC,0
 149870,The Wind Rises,Niki Marvin Productions,117932401
@@ -7013,7 +6879,6 @@ id,title,name_companies,revenue
 205022,Chennai Express,Tarantula,62000000
 122088,Fill the Void,Cold Day Ltd.,1775316
 117924,Somewhere Between,Koktebel Film Company,0
-91690,The Snows of Kilimanjaro,Bernard Woolner Productions,0
 66608,Blubberella,Kramer & Sigman Films,0
 116764,Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues,K&S Films,0
 250155,The Marva Collins Story,OK Films,0
@@ -7030,7 +6895,6 @@ id,title,name_companies,revenue
 39005,The Crimson Permanent Assurance,Broth Film,0
 140708,So It Goes,Filmituotanto Spede Pasanen,0
 129432,Queen of Montreuil,OLC / Rights Entertainment,0
-138496,Crawlspace,Tanlay,0
 122372,The Ghostmaker,New Zealand Film Production Fund,0
 17886,Mutants,3 Dogs and a Pony,0
 33028,Too Hot to Handle,Park Road Post,0
@@ -7049,7 +6913,6 @@ id,title,name_companies,revenue
 49802,The Secret of the Third Planet,barbican films,0
 62648,Backlash,Sheen/Michaels Entertainment,0
 218508,Setouchi Moonlight Serenade,RTL,0
-49047,Gravity,Cougar Films Ltd.,716392705
 180810,And Now a Word from Our Sponsor,Minotaur Film Partnership No. 3,0
 138030,The Coward,Produzioni Associate Delphos,0
 212716,What If,Vertigo,7847000
@@ -7061,7 +6924,6 @@ id,title,name_companies,revenue
 11111,King Lines,Thunder Road Pictures,0
 30995,I Was a Teenage Zombie,Jon Shestack Productions,0
 38807,Badman's Territory,Wilco Co.,0
-41349,The Milky Way,Breath,0
 133701,Tears of Steel,City Lights Pictures,0
 63924,Jungleground,Silver Nitrate Films,0
 157129,Table No. 21,National Film and Television School (NFTS),0
@@ -7155,12 +7017,10 @@ id,title,name_companies,revenue
 36212,Rebirth of Mothra II,Archipel 33,0
 36247,Rebirth of Mothra III,Goldfish Pictures,0
 127374,Arthur Newman,Reveille Productions,0
-103648,Inherit the Wind,Universal Home Entertainment,0
 78235,Bad Medicine,Hallelujah-Film GmbH,2685453
 40221,The Borrower,Hoot Productions LLC,0
 82627,Man On a Mission: Richard Garriott's Road to the Stars,Doty-Dayton Production,0
 80274,Ender's Game,Silver Nitrate Pictures,125537191
-37342,Maniac,Dead Birds Films,0
 88274,Hello! How Are You?,Phenomena,0
 190847,The Last Days on Mars,Prairie Home Productions,24084
 187569,Four Days in July,Devki Chitra,0
@@ -7176,7 +7036,6 @@ id,title,name_companies,revenue
 193212,The Man Who Captured Eichmann,Film Finance,0
 162215,How I Live Now,Sahamongkol Film International,0
 72890,Girl Most Likely,Vivendi,0
-170632,Stuck,MI 3 Film,0
 42950,What if...,The Fourth Production Company Film Group,0
 52045,Libre échange,"HomeGreen Films Co., Ltd",0
 85822,Free Radicals: A History of Experimental Film,Edko Films Ltd.,0
@@ -7189,7 +7048,6 @@ id,title,name_companies,revenue
 110674,Apache Territory,Allan Zeman Productions,0
 123362,Painless,Midsummer Films,0
 67530,The Lords of Discipline,Class 5 Films,11787127
-193645,Seduced and Abandoned,Synthesis Entertainment,0
 192393,Dreamworld,Skylark Productions,0
 15725,Chasing Ghosts: Beyond the Arcade,Government of Malta,0
 261508,The Tiger from Tjampa,X3 Canada Productions,0
@@ -7231,7 +7089,6 @@ id,title,name_companies,revenue
 54236,Cousin Angelica,Reinventing the Wheel,0
 59833,Stakeout on Dope Street,Buena Onda Films,0
 54283,Zatôichi Goes to the Fire Festival,Moonstar Enterainment,0
-45697,A Christmas Carol,Aquarius Films,0
 25028,The Dead Next Door,Open Eye Productions,0
 264061,Ski Patrol,Bob Productions,0
 55547,Route 666,Number 9 Films,0
@@ -7280,10 +7137,8 @@ id,title,name_companies,revenue
 189803,Jo pour Jonathan,Les Films Action,0
 203060,Open Up to Me,Ingenious Media,0
 169881,The Physician,Kernos Filmproduktionsgesellschaft & Company,57284237
-27584,High School,Mandate Pictures,0
 25583,Wonderful and Loved by All,Motion Picture ETA Produktionsgesellschaft,0
 186929,Borgman,Foqus Arte Digital,0
-224950,Solo,Metropolis Films,0
 14499,Mio in the Land of Faraway,Teton Films,2300000
 128151,Our Little Differences,Filmalbatros,0
 100812,The Laughing Woman,Elzévir Films,0
@@ -7308,7 +7163,6 @@ id,title,name_companies,revenue
 15826,Restless Souls,Mobius International,0
 8434,Summer Things,Crawford Productions,0
 122796,Bad Karma,Offspring Entertainment,0
-111473,The Invisible Woman,Eketahuna LLC,1234254
 136735,The Snitch Cartel,Park Ex Pictures,0
 153158,Underdogs,Sortie 22,24000000
 95410,The Texican,Defender Production,0
@@ -7377,7 +7231,6 @@ id,title,name_companies,revenue
 15359,Wonder Woman,Bill Melendez Productions,0
 236399,Flowers in the Attic,United Feature Syndicate (UFS),0
 90728,Hammer,Partizan Films,0
-59744,Grotesque,Media Asia Film,0
 281556,Sink or Swim,Sil-Metropole Organisation,0
 157841,The Young and Prodigious T.S. Spivet,Avex Inc.,9494789
 271009,BBOY for LIFE,Basic Pictures,0
@@ -7385,12 +7238,10 @@ id,title,name_companies,revenue
 45266,Behind Enemy Lines,Flipped Out Productions,0
 54279,Zatôichi Challenged,SLS Video Productions,0
 26947,Gamera vs. Guiron,Cinerenta Feature Films,0
-160068,Gloria,Cinegreen,2107925
 14028,Behind Enemy Lines III: Colombia,Starz Animation,0
 137748,The Confession,IDT Entertainment,0
 99608,Rain or Shine,Amour Fou Filmproduktion,0
 91101,Crave,Eurofilm Stúdió,0
-83665,Betrayed,La Cinéfacture,0
 249397,Nymphomaniac: Vol. II,Madras Talkies,2227167
 133021,A Streetcar Named Desire,Goldstein Films,0
 45930,American Anthem,Coldstream Films,0
@@ -7409,7 +7260,6 @@ id,title,name_companies,revenue
 192345,Cavemen,Vortex/Henkel/Hooper,0
 210913,Blood Glacier,Texas Chainsaw Productions,0
 43042,The Story of Ruth,"Weinstein Company, The",0
-232731,Attila,Paradox Spillefilm A/S,0
 31445,Beyond Tomorrow,MedienKontor Movie GmbH,0
 157847,Joe,Mark Hellinger Productions,2365467
 237692,This American Journey,Jack and Henry Productions Inc.,0
@@ -7439,7 +7289,6 @@ id,title,name_companies,revenue
 160070,Apartment 1303 3D,Fu Works,0
 67657,Armageddon,A-Film Distribution,0
 145926,B.U.S.T.E.D,Film Tower,0
-77133,The Abyss,Ming Productions,0
 191515,Everybody Street,Fritz Lang-Film,0
 21580,Bill Maher: Victory Begins at Home,Belladonna Productions,0
 32930,Bill Maher: '...But I'm Not Wrong',Xingu Films,0
@@ -7470,7 +7319,6 @@ id,title,name_companies,revenue
 159464,Meth,Mockingbird Pictures,0
 203217,My Mom Is a Character,Steel Mill Pictures,0
 54597,Blood Out,LTB Films Limited,0
-184323,Daylight,Wellington Films,0
 134350,Why Don't You Play in Hell?,Rillington Production,0
 72962,George & A.J.,Les Films 7,0
 86133,The Next Man,Edison Manufacturing Company,0
@@ -7487,7 +7335,6 @@ id,title,name_companies,revenue
 47194,Blood Night: The Legend of Mary Hatchet,BoZ Productions,0
 203715,Aya of Yop City,Kerner Entertainment Company,0
 215031,Gabrielle,Mid Atlantic Films,0
-27196,Stardust,Rogue Marble,0
 4112,Blondie Johnson,Sheherazad Media International,0
 63143,Blank City,Iron Film,99303
 142159,Across to Singapore,Anthony Buckley Films,596000
@@ -7503,7 +7350,6 @@ id,title,name_companies,revenue
 208277,Wetlands,Polar Film   Medien GmbH,0
 60438,Boots and Saddles,Pusan Film Commission,0
 224040,Border Feud,Antiteater-X-Film,0
-174675,The Machine,Inland Empire Productions,0
 65170,Breaking the Silence: Truth and Lies in the War on Terror,Fundacja Kultury,0
 29854,Seizure,Camerimage Festival,0
 246007,Palestine Is Still the Issue,Absurda,0
@@ -7529,7 +7375,6 @@ id,title,name_companies,revenue
 98136,Hit Lady,Odyssey,0
 268875,All American Chump,Nitrogen Studios Canada,0
 211603,Beauty and the Beast,Severe Entertainment,0
-197796,Beauty and the Beast,Zak Productions,49100000
 127702,La Señal,Sofica Europacorp,0
 172385,Rio 2,Avalanche Productions,500188435
 202183,Ein Schnitzel für drei,Koo & Cee Film,0
@@ -7558,7 +7403,6 @@ id,title,name_companies,revenue
 44269,All That Glitters,Covers & Co.,0
 236417,A Golden Christmas 3,Hellenic Radio & Television (ERT),0
 44721,Little Fauss and Big Halsy,Attica Art Productions,0
-195589,Neighbors,Movie Reinhold Elschot,268157400
 49588,Trick,Hal Lieberman Company,0
 54919,The Gladiators,Lauren Levine Productions Inc.,0
 195841,Soleil O,Identity Films,0
@@ -7613,7 +7457,6 @@ id,title,name_companies,revenue
 118283,The Girl He Left Behind,Principato-Young Entertainment,0
 176670,Shoot-Out At Medicine Bend,High Sierra Carpeting,0
 32929,Backfire,Archer Entertainment,0
-133827,Backfire,Infinite Frameworks Pte. Ltd.,0
 258893,Scooby-Doo! WrestleMania Mystery,Zhao Wei Films,0
 188161,A Million Ways to Die in the West,Kadokawa Haruki Jimusho,0
 109133,The Cabinet of Caligari,Cactus Three,0
@@ -7630,7 +7473,6 @@ id,title,name_companies,revenue
 42886,Best Foot Forward,Indigo Film,0
 160008,The Revolutionary,Banque Populaire Images 6,0
 136786,Liv & Ingmar,Cofinova 2,0
-175339,Mad Love,mementoFilm,0
 220494,Bettie Page Reveals All,Respiro,0
 92349,Cinderella,Titti Film,0
 217948,Teresa,Alquimia Films,0
@@ -7653,14 +7495,12 @@ id,title,name_companies,revenue
 102272,The Sudden Wealth of the Poor People of Kombach,BloodWorks,0
 48573,Lope,Cinematografica Cervi,0
 84796,Play It As It Lays,Käpy-Filmi,0
-209780,Crawlspace,Synthetic Worlds,0
 177703,Broadway Idiot,Rattlesnake Productions,0
 119575,The Mind of Mr. Soames,Wild Hogs Productions,0
 86283,Snapshot,Zyzzyx LLC,0
 21974,Money as Debt,Sverdlovskaya Kinostudiya,0
 146521,Beginning of an Unknown Era,Kinokompaniya Strana,0
 28006,I See a Dark Stranger,Mundo Ficción,0
-159701,I Do,The Ultimate Gift LLC,0
 253279,The Trials of Cate McCall,Hollywood Gang Productions,0
 159137,Anita,Scamp Film and Theatre Ltd.,0
 140783,A Mother's Courage,Michael Phillips Productions,0
@@ -7680,12 +7520,10 @@ id,title,name_companies,revenue
 118887,Sunburn,DeA Planeta Home Entertainment,0
 64246,Colorful,Sunlight Productions,0
 28440,Mystery on Monster Island,Madison 23,0
-29126,Black Moon,Fortress Features,0
 114838,Brother Rat,Grosvenor Park Impact Productions,0
 48375,Brother's Justice,Imagi Animation Studios,0
 152790,The Angriest Man in Brooklyn,Mirage Studios,0
 250766,Life Itself,Imagi Production,0
-88059,Brothers,Tulos Cinema,0
 257974,Missing William,RGM Films,0
 184866,Favor,April Films,0
 104528,Dogs,Red Chair Films,0
@@ -7703,12 +7541,10 @@ id,title,name_companies,revenue
 101281,Bachelor Flat,Euroimages Fund of the Council of Europe,0
 80264,The Strange One,ContentFilm International,0
 198453,Pierre et Djemila,Clockwork Pictures,0
-168426,If I Were You,Pakhshiran,0
 259233,Ju-on: The Beginning of the End,Domino Film,0
 73250,Bloodline,M6,0
 206574,Unrated II: Scary as Hell,Vidhu Vinod Chopra Productions,0
 262267,Darkest Night,Hungarian Film Institute,0
-148243,Bluebeard,Hungarian Television,0
 64627,Operation Ganymed,CAOH Enterprises,0
 98094,Pinball Summer,Boom Boom Productions,0
 101308,Ride Beyond Vengeance,Blumhouse Productions,0
@@ -7727,7 +7563,6 @@ id,title,name_companies,revenue
 38691,Coney Island,Dean Film,0
 46853,Playing with Love,The Cat in the Hat Productions,0
 156713,C.O.G.,Gonzo,0
-34469,Julius Caesar,Gin-iro no Kami no Agito Production Committee,0
 113091,Lust for Love,Xuxa Producciones S.L.,0
 215848,Family United,Cold Spring Pictures,0
 21393,Rasmus and the Vagabond,Adult Swim,0
@@ -7764,7 +7599,6 @@ id,title,name_companies,revenue
 30195,A Lady Without Passport,New Wave Entertainment,0
 193722,R100,Colossal Entertainment,0
 254446,Who the F**K Is Arthur Fogel,Foundation Entertainment,0
-56085,Camouflage,M.E.G.A. Films,0
 243935,Rob the Mob,"Shochiku Co., Ltd.",206909
 48347,The Old Lady and the Pigeons,Temple Film,0
 137876,The Reckoning,Gigantic Pictures,0
@@ -7775,7 +7609,6 @@ id,title,name_companies,revenue
 42796,The Strangler,Paprika Film Partners,0
 124972,Generation Um...,Illuminations Films,0
 74767,The Wise Guys,TIFA,0
-69225,Switch,Anna Sanders Films,0
 55225,Six Days in June,Kick the Machine,0
 292893,Snake River Desperadoes,French Ministry of Foriegn Affairs,0
 258805,Bad Johnson,New Crowned Hope,0
@@ -7822,11 +7655,9 @@ id,title,name_companies,revenue
 13434,Noam Chomsky: Distorted Morality,Integral Film,0
 16986,The Obama Deception,CMC Entertainment,0
 358724,The Other One,Sveva Film,0
-60859,The Confession,Dena Productions,0
 276843,What We Did on Our Holiday,Millenium,1289998
 26750,Fall of the Republic: The Presidency of Barack H. Obama,Micheaux Book & Film Company,0
 279967,Dead Within,Maltese productions,0
-13914,Heavyweights,Herald Productions (II),0
 84857,My Life in Orange,Sam,0
 19996,Brother's War,Happy End Filmproductions AB,0
 237202,A Soldier's Tale,Filmpool Nord,0
@@ -7892,7 +7723,6 @@ id,title,name_companies,revenue
 35847,The Kids,Fox Filmes do Brasil,0
 256,Antoine and Colette,Total Entertainment,0
 295538,The Culture High,Teleimage,0
-228150,Fury,Espaço/Z,211817906
 266285,The Salvation,Mid-America Pictures,42070000
 215211,Grace of Monaco,Manitou Productions Ltd.,0
 16049,Amazon Jack 3: Jungo Goes Bananas,ATO Pictures,0
@@ -7908,7 +7738,6 @@ id,title,name_companies,revenue
 33394,Charlie Chan in Reno,FUL Films,0
 38463,The Chinese Cat,Scranton/Lacy Films,0
 117869,El malvado Carabel,Sonnis,0
-245844,Blind,SW7D Productions,0
 285025,Tour de Force,MDBF Zweite Filmgesellschaft,0
 265016,Extraterrestrial,Blueprint Pictures,0
 127862,Blackbird,W B I Films,0
@@ -7935,18 +7764,14 @@ id,title,name_companies,revenue
 72270,Cry Baby Lane,Apipoulaï,0
 284306,They Have Escaped,Carsey-Werner Company,0
 40081,Crippled Avengers,El Norte Productions,0
-48488,Strange Invaders,Mobius Entertainment Ltd.,0
 52996,A Fistful of Fingers,Tempesta Films,0
 253254,Before I Disappear,Good Night Productions,8251
 212846,Mission Congo,Filmayer,0
-257874,Beneath,Capital Films,0
 268272,Bronx Obama,Yuma,0
 234862,Mr Hublot,Ascot Elite Home Entertainment,0
 180305,Mercy,Documentary Channel,0
 92401,The Red Beret,Everyday Pictures,0
 89888,Wyatt Earp's Revenge,23/5 Filmproduktion GmbH,0
-17082,The Sniper,Saga Film,0
-273510,Madame Bovary,Mobra Films,0
 103081,Cambridge Spies,Mindshare Media,0
 141950,Calm at Sea,Centrul National al Cinematografiei (CNC),0
 93407,Animal,McCann-Erickson,0
@@ -7956,13 +7781,11 @@ id,title,name_companies,revenue
 14830,Doctor Strange,Samuels Media,0
 264646,LEGO Hero Factory: Savage Planet,Flicks Motion Pictures,0
 275287,LEGO Hero Factory: Rise of the Rookies,UTV Motion Pictures,0
-12450,King Solomon's Mines,I Could Never Ltd.,0
 31473,An American Tail: The Treasure of Manhattan Island,Shanghai Kid Films,0
 199575,These Final Hours,Shine Pictures,0
 178446,Generation War,Kudos Film and Television,0
 103686,Paradise: Love,Discovery Films,24267
 56481,Beyond the Border,red bone,0
-101307,Rage,April Productions,0
 138754,Good Luck. And Take Care of Each Other,Chaintron,0
 68197,Chasing Madoff,RMA Productions,0
 166560,Chasing Rainbows,Column Productions,0
@@ -7970,7 +7793,6 @@ id,title,name_companies,revenue
 297265,Northern Soul,Kiss the Cactus,0
 54625,Checking Out,Eclectic pictures,0
 25752,Children of the Corn 666: Isaac's Return,Soudaine Compagnie,0
-4956,Christine,Resident Evil Productions,0
 39213,Coach,Milestone Entertainment,0
 74974,Code Name: Emerald,Alberta Film Development Program of the Alberta Government,0
 32079,Cohen and Tate,Chuck Productions,64227
@@ -7991,7 +7813,6 @@ id,title,name_companies,revenue
 50119,Cool Dog,Verve Pictures,0
 17699,Coral Reef Adventure,Free Range Films,0
 61856,Courage of Lassie,Imaj,0
-36597,Wuthering Heights,Co Production,0
 18434,Crazy,Jesse Films Inc.,0
 59838,Critic's Choice,Metro Communications,0
 2089,Cutaway,Splendid Film,0
@@ -8032,7 +7853,6 @@ id,title,name_companies,revenue
 56154,Young Tom Edison,Universal Pictures do Brasil,0
 70512,L'inferno,Caos Produções Cinematográficas,0
 30302,Death In Love,King of California Productions,0
-45256,Do Not Disturb,Lone Star Film Group,5275000
 61233,Dark Fields,Pacific Entertainment Group,0
 30855,Dr Jekyll & Sister Hyde,Triple Play Productions,0
 20053,Dead Heat,Film Rites,0
@@ -8044,7 +7864,6 @@ id,title,name_companies,revenue
 103236,Zanjeer,Funky Buddha Productions,0
 37133,Volga - Volga,Banques Populaire Image 7,0
 62804,Death of a Scoundrel,Productora Mex. Desconcida,0
-16639,Deliver Us from Evil,North American Star System,0
 88486,Queens Of Evil,Style Jam,0
 171274,Inherent Vice,Nordisk Film- & TV-Fond,11110975
 287495,Labyrinth of Lies,WDR/Arte,794452
@@ -8149,7 +7968,6 @@ id,title,name_companies,revenue
 235679,Dr. Socrates,barefoot films,0
 21791,Drop Dead Sexy,Indigo Productions,0
 66018,Drunken Master III,RT Features,0
-120785,Easy Living,Primo Filmes,0
 43343,Easy to Love,Tristero Filmes,0
 72892,Air Crew,Branca Filmes,0
 94201,El Condor,Geração Conteúdo,0
@@ -8159,7 +7977,6 @@ id,title,name_companies,revenue
 121250,Home Before Dark,R&D TV,0
 116385,Let No Man Write My Epitaph,Universal Network Television,0
 81182,Lost Christmas,USA Cable Entertainment,0
-6110,Murder on the Orient Express,Wendy Finerman Productions,0
 76815,Barely Legal,Truenorth Productions,0
 238185,Russell Brand: Messiah Complex,Flavor Unit Entertainment,0
 78327,The Dark Horse,Dune Entertainment III,0
@@ -8190,7 +8007,6 @@ id,title,name_companies,revenue
 96846,The Swinger,Toki wo Kakeru Shôjo Seisaku Iinkai 2006,0
 240820,Christmas in Conway,Brandman Productions,0
 289416,Grace,CinemaLab,0
-170582,Great Expectations,Equity Pictures Medienfonds GmbH & Co. KG IV,0
 250798,The Green Prince,Cohen/Pearl Productions,0
 100110,Survival Quest,"Movie Network, The (TMN)",0
 210908,All Cheerleaders Die,Shaw Rocket Fund,0
@@ -8213,7 +8029,6 @@ id,title,name_companies,revenue
 55689,Baba Yaga,Ministère Libanais de la Culture,0
 74417,The Great Kidnapping,Carnaby International,0
 15261,Bring It On: In It To Win It,Hanover Films,0
-128555,The Rebel,Sony BMG Feature Films,0
 42499,The Night Evelyn Came out of the Grave,Nitrate Films,0
 56971,The New Monsters Today,Canvas Pictures,0
 106970,Stunt Squad,LMG Pictures,0
@@ -8229,7 +8044,6 @@ id,title,name_companies,revenue
 273895,Selma,3ality Digital Entertainment,66787908
 112054,Beyond Justice,Studio ABC,0
 283281,The Scapegoat,Polish Film Institute,0
-308165,Action Jackson,SPI International,0
 241574,Wild Heritage,Havenwood Media,0
 118134,The Widow From Chicago,Turkey Ranch Productions,0
 22285,Good Copy Bad Copy,Ringerike Erste Filmproduktion,0
@@ -8241,7 +8055,6 @@ id,title,name_companies,revenue
 182528,Crimi Clowns: De Movie,Road Rebel,0
 20147,Dave Chappelle: For What it's Worth,Entertainment Films,0
 34505,Bill Hicks: Relentless,Material Entertainment,0
-68750,Rapid Fire,Stardust Pictures (SDP),0
 15056,The Curse of King Tut's Tomb,Jigsaw Productions,0
 308571,Bill Burr: I'm Sorry You Feel That Way,Benedek Films,0
 214948,New York Lightboard Record,Moonlighting Films,0
@@ -8264,7 +8077,6 @@ id,title,name_companies,revenue
 122348,Lunch Break,ntc,0
 222216,Special ID,Warner Bros. Entertainment,12666
 46127,Sorority Wars,Lichthof Productions Ltd.,0
-19444,Bad Karma,Elixir Films,0
 267863,Walking on Sunshine,Barracuda Films,0
 307113,Presidentintekijät,Blueeyes Productions,0
 259018,Behaving Badly,Pink Productions,0
@@ -8301,7 +8113,6 @@ id,title,name_companies,revenue
 79376,Woman of Antwerp,QED International,0
 84193,Ethel,Visitor Pictures,0
 99946,Exit Smiling,Chesterfield Writer's Film Project,0
-201018,Fanny,GEM Global Entertainment Magyar,0
 18948,FernGully 2: The Magical Rescue,Granada,0
 129579,Arizona Colt Returns,Smokehouse Pictures,0
 121342,Giovannona Long-Thigh,Huayi Brothers Media Corporation,0
@@ -8325,11 +8136,9 @@ id,title,name_companies,revenue
 111022,Fame High,BR Films,0
 135047,Hotel Noir,Internationale Filmproduktion Prometheus,0
 300487,The Swedish Moment,Sandbar Pictures,0
-196867,Annie,Overture Films,133821816
 130064,Flesh and Blood,Sofica Sogécinéma 2,0
 64091,Flesh Wounds,Région Wallonne,0
 17806,Forever Lulu,Velocity Productions,0
-65186,Forget Me Not,HILT Productions,0
 95060,Fort Massacre,Redline Films,0
 29365,Framed,Artina Films,0
 173732,Bang Bang,Non Linear Films,0
@@ -8350,7 +8159,6 @@ id,title,name_companies,revenue
 17825,The 11 Commandments,Michaels-Goldwyn,0
 198184,Chappie,Manigolda Film,104399548
 128946,Lille Fridolf Och Jag,Premise Media Corporation,0
-42759,The Call of the Wild,Quad Productions,0
 252746,Three Men in a Boat,Bayerischer Banken-Fonds,0
 190474,The Hellions,Marvel Studios,0
 18682,Girl Happy,Agnès b. Productions,0
@@ -8432,7 +8240,6 @@ id,title,name_companies,revenue
 33932,Shortcut to Happiness,Prodigy Pictures,0
 19033,The Sasquatch Gang,Graffiti Productions,0
 14025,Lake Dead,22 Dicembre,0
-25597,Hansel & Gretel,Sicilia Cinematografica,0
 161321,The Power of Few,24 Horses,0
 194817,Take a Girl Like You,Warp X,0
 269173,The Anomaly,Madman Entertainment,0
@@ -8456,7 +8263,6 @@ id,title,name_companies,revenue
 26190,Carry On Cruising,Boy Culture LLC,0
 61411,Che!,Atom Films,0
 234567,Get a Horse!,Bandora,0
-277432,Happy New Year,Mr. Nice,0
 177566,Jack the Giant Killer,WV Films IV,0
 58231,Mardi Gras: Spring Break,Actual Films,0
 86901,The Face of Marble,Agon Arts and Entertainment,0
@@ -8500,9 +8306,7 @@ id,title,name_companies,revenue
 94720,The Dancer,Russian Federation of Cinematography,0
 142897,Mantle,Soficinéma 2,0
 185110,Onibi: The Fire Within,Princes Films,0
-237549,Long Day's Journey Into Night,Internationale Filmproduktion Richter,0
 75337,Too Tough to Die: A Tribute to Johnny Ramone,Littlestar,0
-270672,The Formula,Helsinki Filmi Oy,0
 248553,Submarine,Hirsch,0
 104485,The Four Feathers,Les Productions du Chicon,0
 87914,Lady Scarface,Centre Régional des Ressources Audiovisuelles (CRRAV),0
@@ -8514,15 +8318,12 @@ id,title,name_companies,revenue
 117004,Night Court,Emu Creek Pictures,0
 79327,The Littlest Angel,Centro de Capacitación Cinematográfica (CCC),0
 220504,Voodoo Tiger,Your Face Goes Here Entertainment,0
-28486,The Hound of the Baskervilles,Borderline Productions Corp.,0
 55045,Psych:9,Akson Studio,0
 18598,Her Best Move,TVP S.A.,0
 55872,Tarzan and the Amazons,Polski Instytut Sztuki Filmowej,0
 174343,Trust Me,Apollo Film,0
-263065,The Elephant Man,Friendly Films (II),0
 73313,No Questions Asked,Fever Dreams,0
 54940,Ground Control,Arte / Cofinova 3,0
-81972,The Hunters,Potboiler Productions Ltd.,0
 68116,Incubus,Northern Ireland Film and Television Commission,0
 135260,Top Sensation,Columbia TriStar Nordisk Film Distributors A/S,0
 129359,Lille Fridolf Blir Morfar,Multicine,0
@@ -8548,7 +8349,6 @@ id,title,name_companies,revenue
 13480,Ricky Gervais: Out of England - The Stand-Up Special,Pantry Films,0
 54164,Man of the East,Stage 6 Films,0
 7085,The Desperado Trail,Tooley Productions,0
-23122,Maniac,Gary Sanchez Productions,0
 15066,Walking Tall: The Payback,Brideshead Films,0
 42703,The Way West,Mestiere Cinema,0
 43219,La Mission,Crying Box Productions,0
@@ -8589,7 +8389,6 @@ id,title,name_companies,revenue
 44663,Moscow Chill,Sanford%2FPillsbury Productions,0
 16089,Love Nest,Internationale Filmproduktion Stella-del-Sud Second,0
 23022,Jigsaw,Gearhead Pictures,0
-136867,Oliver Twist,Jaz Films,0
 35405,S*P*Y*S,Kasbah-Film Tanger,0
 16997,The Man Who Came Back,Eddie Saeta,0
 60543,More Than a Miracle,Château-Rouge Production,0
@@ -8599,7 +8398,6 @@ id,title,name_companies,revenue
 32978,Necrosis,EFTI,0
 38132,My 5 Wives,H2S2 Filmproduktionsgesellschaft,0
 69792,Love Birds,Alta Loma Entertainment,0
-25386,The 39 Steps,ASAF,0
 37608,The New Centurions,Illuminata Pictures,0
 71204,Tempted,Capitolium,0
 30402,Intermedio,Dentsu Inc.,0
@@ -8619,10 +8417,7 @@ id,title,name_companies,revenue
 118439,The Gambler Returns: The Luck Of The Draw,Accord Productions,0
 63486,Magic Boy,Initial Entertainment Group,0
 155208,Night Unto Night,Bangkok Dangerous,0
-58757,Heidi,Asgaard Entertainment,0
-107073,The Prize,Good Times Films S.A.,0
 68351,Sankofa,Plutonium Production Limited,2691899
-74694,Heidi,Active Entertainment,0
 1163,The Miracle Worker,The Sci-Fi Channel,0
 72032,Return of Sabata,Wilfried Ackermann Filmproduktion,0
 128598,Left for Dead,Haxan Entertainment,0
@@ -8632,7 +8427,6 @@ id,title,name_companies,revenue
 75826,Hercules and the Lost Kingdom,Pronto Film,0
 14427,Winter Break,Fubu Films,0
 117120,The Facility,Ceneca Producciones,0
-21795,Voices,Penelope Productions Inc.,0
 41625,Head Office,Blue Rider Pictures,0
 31981,Jim Jefferies: I Swear to God,100 Feet Productions,0
 44862,Once Fallen,New Deal Studios,0
@@ -8649,7 +8443,6 @@ id,title,name_companies,revenue
 86193,The Incredible 2-Headed Transplant,K/O Paper Products,0
 43311,The Opposite Sex,Aramid Entertainment Fund,0
 146926,Heatseeker,Orion,0
-85870,My Way,Artomas Communications,29193330
 52788,Sisters,Cinema X,0
 42485,Cat's Play,Mauser Productions,0
 87939,Two Smart People,TCB Films,0
@@ -8663,7 +8456,6 @@ id,title,name_companies,revenue
 220746,Jewtopia,Manga Films,0
 52784,His and Hers,Viacom Productions,0
 65489,Malta Story,Beattie/Chesser,0
-231474,The Hunters,The Universal Film Mfg. Co.,0
 95866,The Poor Little Rich Girl,Abandon Entertainment,0
 70811,Hercules in the Maze of the Minotaur,Foxtor Productions,0
 14387,The Great St. Trinian's Train Robbery,Depth Entertainment,0
@@ -8701,7 +8493,6 @@ id,title,name_companies,revenue
 53571,"Parlor, Bedroom and Bath",Chockstone Pictures,0
 43151,Rosalie,Internationale Filmproduktion Stella-del-Süd,0
 64994,Martial Club,WideAwake,0
-35109,Alice in Wonderland,Stuber/Parent,0
 59527,Pleasure at Her Majesty's,Lew Seiler Productions,0
 80320,These Thousand Hills,Comme des Cinémas,0
 29799,Project Shadowchaser III,Coin Film,0
@@ -8709,7 +8500,6 @@ id,title,name_companies,revenue
 23853,Wish You Were Dead,Bosna Film,0
 27544,The Company She Keeps,Bronson Club,0
 147810,Let's Dance,Alicia Produce,0
-13621,Switch,Bankable,0
 134415,Vampire Dog,La Sofica Cofinova 4,0
 43880,Rose Marie,Cofinova 4,0
 6610,The Wonderful Country,Filmation Productions,0
@@ -8731,16 +8521,13 @@ id,title,name_companies,revenue
 15587,Safari,Pavel Lungin Studios,0
 34862,Solar Attack,Silkroad Production,0
 107874,Escape Me Never,Mansfield Productions,0
-260409,Barricade,Colonia Media,0
 41468,Last of the Comanches,Ministry of Culture and Tourism,0
 76286,Ski Party,Zeynofilm,0
 8372,Lonesome Cowboys,Conseil de l'Europe,0
 112234,Women in Revolt,Imaj Sound Post Production,0
-127445,Rain,MGM/UA Television,0
 87847,Simple Things,Regent Entertainment,0
 82309,Hansel and Gretel,ACH,0
 105536,Sitting Bull,Christopher Filmcapital,0
-57665,The Mask,Indion Entertainment Group,0
 41559,The Job,ScreenWest,0
 123770,The Last of the Finest,Imprint Entertainment,0
 5002,Lifeguard,Twilight Productions,0
@@ -8754,7 +8541,6 @@ id,title,name_companies,revenue
 74550,The Smiling Ghost,Exodus Film Group,0
 145194,Such Is Life,Exodus Productions,0
 128779,Le Joli Mai,Renegade Worldwide,0
-91715,The Taming of the Shrew,Soho Square Films,0
 118444,Onionhead,Blast! Films,0
 178341,Mandalay,Parkwood Entertainment,0
 173488,Spark: A Burning Man Story,Marvel Knights,0
@@ -8765,7 +8551,6 @@ id,title,name_companies,revenue
 86087,Hell's Highway,Leni Riefenstahl-Produktion,0
 40874,Just for Kicks,Select Productions (III),0
 38165,The Mysterious Island,Mobilus Media,0
-211930,Hostage,Phil Donahue Enterprises,0
 38964,Stolen Face,Chili Film,0
 72946,I Will Follow,Australian Broadcasting Corporation (ABC),0
 63612,Bienvenido a casa,Frontline Films,0
@@ -8791,7 +8576,6 @@ id,title,name_companies,revenue
 140509,"The Foreign Duck, the Native Duck and God in a Coin Locker",Produire à Paris,0
 212455,House Party: Tonight's the Night,Bones Studio,0
 26497,Impy's Island,Lance Entertainment,0
-59075,Snow White,Malofilm Communications Inc.,0
 102295,Underwater!,Top Rope,0
 184129,Return of the Bad Men,Jaffe/Braunstein Films,0
 77716,The Cup,Xian Motion Picture Company,0
@@ -8821,8 +8605,6 @@ id,title,name_companies,revenue
 24084,The Adventures of Barry McKenzie,Filmiteollisuus Fine,0
 75033,Winnie Mandela,TWS Productions II,0
 34945,The Conspirators,The Yomiuri Shimbun,0
-104729,Midnight,Lawson,0
-70916,The Lovers,Taikei Office,0
 56412,Skinwalkers,Asahi Soft Drinks Company,0
 38556,Tough Enough,Rolin Films,0
 63706,Mandrake,Robert Goldstein Productions,0
@@ -8832,9 +8614,7 @@ id,title,name_companies,revenue
 44989,The Paranoids,Sound Venture Productions,0
 71511,Medium Raw,Poultry Productions LLC,0
 84727,Woman Wanted,International Film Consortium,0
-56596,Trust Me,Bellwether Films,0
 173299,Hail Caesar,Berwether Inc.,0
-72984,Hansel and Gretel,Oscilloscope Laboratories,0
 52355,Hot Saturday,Field Guide Films,0
 93263,The Men's Club,Reel FX Creative Studios,0
 188507,Space Warriors,Consejería de Cultura de la Junta de Andalucía,0
@@ -8856,7 +8636,6 @@ id,title,name_companies,revenue
 38346,Bowery at Midnight,Karbo Vantas Entertainment,0
 290802,Night Will Fall,Aberration Films,0
 279979,The Court-Martial of Jackie Robinson,Deblokada,0
-92796,Black Magic,Noirfilm,0
 58655,Parade,Sketch Films,0
 85637,Always for Pleasure,UW3 Film Productions,0
 218233,The Living Magoroku,Internationale Filmproduktion Blackbird Erste,0
@@ -8909,7 +8688,6 @@ id,title,name_companies,revenue
 53543,Claymation Comedy of Horrors,Geopoly,0
 190352,Bouncing Babies,Cine Films Inc.,0
 58587,Diario de un skin,Pacific Films,0
-29286,The Black Cat,Chemin Vert,0
 16048,All About Anna,Cartel Productions,0
 52304,Archie To Riverdale and Back Again,Telecable Benelux B.V.,0
 64850,Mr. Average,Kulture Machine,0
@@ -8932,7 +8710,6 @@ id,title,name_companies,revenue
 160194,The Skateboard Kid II,British American Entertainment,0
 119353,The Terror Within II,Canadian Television (CTV),0
 310589,Beyond the Fear,Cypress Films (I),0
-290555,Wolves,Deviant Films,0
 94563,The Woodcarver,Tricky Pictures,0
 127770,Apostle Peter and the Last Supper,Red Plush Films,0
 13924,The Adventures of André and Wally B.,Drimtim Entertainment,0
@@ -8962,7 +8739,6 @@ id,title,name_companies,revenue
 214069,When Evening Falls on Bucharest or Metabolism,RealProduct,0
 54598,Septien,Les Films Marcel Pagnol,0
 139808,A Gun in Each Hand,TVA Films,0
-40417,Gangsters,Grupa Filmowa,0
 74608,Weekender,CrossCut Films,0
 217268,The Epic of Everest,Joseph Cates Productions,0
 122479,The Private Life of a Cat,Epico Productions,0
@@ -9010,7 +8786,6 @@ id,title,name_companies,revenue
 308453,The Bronze,Zootrope Films,615816
 306197,Unexpected,Okocimskie Zaklady Piwowarskie S.A.,0
 193687,Z for Zachariah,Kredyt Bank PBI S.A.,121461
-52286,The Student,Tin Pan Films,0
 226163,Il mundial dimenticato,Black Balloon Productions,0
 103758,Reality,After Dark Films,0
 128508,Pretty Butterflies,Spielmannfilm,0
@@ -9062,7 +8837,6 @@ id,title,name_companies,revenue
 43645,The Little Devil,2Plan2,0
 235093,Killing Kennedy,Pervoe Kinopartnerstvo,0
 212836,People in Places,Majestic Filmproduktion,0
-29275,Anita,Merope,0
 15926,Beer for My Horses,Cipango,666045
 24476,Beethoven's 3rd,Reunion Pictures,0
 24477,Beethoven's 5th,Dragonsteel Films,0
@@ -9070,7 +8844,6 @@ id,title,name_companies,revenue
 139459,Contest,Multimedia Est,0
 86637,Ricco,Schmidtz Katze Filmkollektiv,0
 252735,Griffin and Phoenix,Lightning Entertainment,0
-22211,Hercules,"Zespol Filmowy ""Plan""",0
 32033,Pulse,Disneynature,0
 37813,Shadow,Lone Star Productions,0
 83132,St. Louis Blues,Frank Ross Productions,0
@@ -9088,7 +8861,6 @@ id,title,name_companies,revenue
 95096,Highway Racer,Sneak Preview Films,0
 128563,The Iron Commissioner,Alma Films,0
 106139,Convoy Busters,Echo Films,0
-209840,Stray Dogs,The Halcyon Company,0
 272691,Haemoo,Museum Canada Productions,0
 244260,Little Accidents,MFA Filmdistribution,0
 260999,Processo per direttissima,Karma Films,0
@@ -9159,7 +8931,6 @@ id,title,name_companies,revenue
 95744,La montaña rusa,NFP Marketing & Distribution,0
 271164,The Song,Substanz Film,1009620
 218262,Memphis,IMAS Filmproduktion,0
-261985,Cinderella,J Filmproductions,0
 54796,Thicker than Water,CMN Investment,0
 158150,How to Fall in Love,J&H Films,0
 121822,The Time Being,Urbanchillers Films,0
@@ -9246,7 +9017,6 @@ id,title,name_companies,revenue
 42288,Guest in the House,Downstream Productions,0
 137370,Pauline détective,Django Film,0
 142528,Des fleurs pour Algernon,SODEC,0
-59346,Darling,Remstar Media Partners,0
 85025,Memory Lane,Don Carmody Productions,0
 135281,Camille Rewinds,Fireside Film,0
 260030,Nymph,Metromedia Producers Corporation (MPC),0
@@ -9255,7 +9025,6 @@ id,title,name_companies,revenue
 99909,The Angels Wash Their Faces,Family Room Entertainment,0
 43871,Beloved Enemy,Major Productions,0
 40681,Jailbait!,Cine Productions,0
-71507,Jailbait,MMC Studios,0
 65506,Lady from Louisiana,Tiggy Films,0
 39001,My Teacher's Wife,Banque Populaire Images 9,0
 133601,The Neighbors,Cheri Productions,0
@@ -9268,7 +9037,6 @@ id,title,name_companies,revenue
 35023,Two of a Kind,Studio Babelsberg StudioBabelsberg Motion Pictures,0
 324436,Dyke Hard,RGM Entertainment,0
 228558,The Harry Hill Movie,LD Entertainment,0
-70027,The Wrecking Crew,Imaginarium Entertainment Group,0
 328233,India's Daughter,Rogue,0
 154140,Men in White,More Entertainment,0
 193229,Black Field,Reel Security,0
@@ -9281,8 +9049,6 @@ id,title,name_companies,revenue
 28784,Hell Is a City,Block / Hanson,0
 32064,The Time Guardian,District 9,0
 199578,Patrick,New Zealand Post Digital and Visual Effects Grant,0
-243688,Poltergeist,Easy There Tiger Productions,95437994
-272634,The Circle,Sayaka Producciones Audiovisuales,0
 271674,Suite Française,Vertice 360,9104716
 262500,Insurgent,It's a Laugh Productions,295238201
 325138,Dum Laga Ke Haisha,Millar Gough Ink,0
@@ -9298,7 +9064,6 @@ id,title,name_companies,revenue
 199647,The Color of Time,Marble Road Productions,0
 48691,Goodbye Uncle Tom,Home Movies Ltd.,0
 260176,Southern Baptist Sissies,Miso Film,0
-244063,Boys,Roenbergfilm,0
 220493,Sal,B & T Film,0
 168259,Furious 7,Muti Films,1506249360
 97559,Mako: The Jaws of Death,Meteor Film Productions,0
@@ -9312,7 +9077,6 @@ id,title,name_companies,revenue
 57219,Chain of Command,Olympus Pictures,0
 40927,The Fruit Machine,Deer Path Productions,0
 87178,The Whisperer in Darkness,Northwood Productions,0
-49038,Beauty and the Beast,Rangeland Productions,0
 38652,River of Death,Gigantic Movie,0
 117428,Wild 90,Epoch Films,0
 120386,The Stud,Internationale Scarena Filmproduktionsgesellschaft 2,0
@@ -9363,7 +9127,6 @@ id,title,name_companies,revenue
 138486,Arrow In The Dust,Cannes Film Festival,0
 10010,Brother Bear 2,Logline Studios,0
 9565,No More School,Blue Screen Productions,0
-42023,Heat,Cinémage,0
 114116,Law and Order,Trancas International Films,0
 245260,Six Days in Roswell,Full Body Productions Inc.,0
 15674,Sabrina the Teenage Witch,100 Bares,0
@@ -9396,7 +9159,6 @@ id,title,name_companies,revenue
 214216,Babycakes,Giorgos Papalios Productions,0
 46836,Willy/Milly,Acolyte Films,235262
 300690,Lily & Kat,Cuban State Film,0
-257214,Loaded,BraxtanFILM,0
 177354,Stud Life,Jaffe / Braunstein Enterprise,0
 27200,Sherlock Holmes in New York,James Cruze Productions,0
 26447,3:15,Thriller,0
@@ -9454,7 +9216,6 @@ id,title,name_companies,revenue
 260672,The First Time,Quickfire Films,0
 37582,Sleeping Dogs,Lucky Monkey Pictures,0
 107525,Saippuaprinssi,Filmsmith Productions,0
-255157,The Forger,Medici Entertainment,0
 167221,Long Live Freedom,Gremi Film Production,48125
 229328,Electricity,Double Edge Films,0
 136345,Ballerina,Khanzhonkov,0
@@ -9484,7 +9245,6 @@ id,title,name_companies,revenue
 20036,The Prince & Me: A Royal Honeymoon,Cofinova 5,0
 165321,Way Beyond Weight,Films Distribution,0
 28855,The Return of Count Yorga,First National Productions,0
-128614,"Like Father, Like Son",Picture Players Productions,0
 260310,Space Dogs 2,Mezhrabpom-Rus,0
 248087,The Eternal Zero,Shree Ashtavinayak Cinevision Ltd,84500000
 289720,Outcast,Handmade International,0
@@ -9538,13 +9298,11 @@ id,title,name_companies,revenue
 100830,Radiostars,Regina Films,0
 28969,The Velveteen Rabbit,Grupo Cine Liberación,0
 36897,Pokémon: Mewtwo Returns,Iride Cinematografica,0
-101669,Mother's Day,BorderLine Films,0
 45190,Su excelencia,Hidden St. Productions,0
 321030,One More Time,Filmwerx77,0
 332340,Man Up,Left Films,0
 72953,Devil's Bible,Межрабпом-Русь,0
 12447,Driving Me Crazy,DW Studios,0
-127546,Driving Me Crazy,Right of Way Films,0
 70026,Falling From Grace,Inecom Entertainment Company,232
 86768,5 Steps to Danger,Waterfront Productions,0
 170315,The Ceremony,Regina Ziegler Filmproduktion,0
@@ -9559,7 +9317,6 @@ id,title,name_companies,revenue
 284537,Welcome to Me,Playtime,0
 242332,Escape by Night,Remstar Films,0
 92705,Sweden: Heaven and Hell,Studio Filmowe Perspektywa,0
-51476,Shoot to Kill,Hochschule für Bildende Künste Hamburg,0
 63029,Mr. Robinson,GHK Kassel,0
 23334,Port of New York,20th Century Pictures,0
 258630,Pelota,Rollercoaster Productions,0
@@ -9616,7 +9373,6 @@ id,title,name_companies,revenue
 133741,Radio Unnameable,Fairplay Pictures,0
 179159,Germ,Home Team Productions,0
 253291,DamNation,Wolper Productions,0
-75910,Lifted,Stax Records,0
 49785,Backdoor,Castel Films,0
 330115,Ride,Baltic Industrial Finance,0
 42156,Lightning Over Water,Vaca Films,0
@@ -9643,18 +9399,15 @@ id,title,name_companies,revenue
 70324,The Trap,Kreative Film Empire,0
 139170,The Long Day's Dying,Left Tackle Pictures,0
 190795,Two Hundred Thousand Dirty,Vostokfilm,0
-13775,Macbeth,Amiguetes Entertainment,0
 174754,Specters,Mad Scientist Productions,0
 214138,Bad Hair,Daiwa Building,0
 330544,Bessie,Cinédia,0
 9646,Here Is Your Life,Ithaka Entertainment,0
-66082,Rembrandt,Ilion Animation Studios,0
 191829,The Good Lie,CinemaNX,0
 257084,Tunisian Victory,Hanson Allen Films,0
 193524,The Stone Roses: Made of Stone,Hart-Lunsford Pictures,729043
 120370,Three Inches,Fade to Black Productions,0
 241882,Ankhon Dekhi,New Zealand Large Budget Screen Production Grant,0
-305088,For Love or Money,Liberty Pictures (II),5600000
 42279,Bootleggers,Televisión Española,0
 257521,Persecuted,Institute of Culture,1558836
 123949,Kokoko,Stars Road Entertainment,0
@@ -9666,7 +9419,6 @@ id,title,name_companies,revenue
 287424,Maggie,Cover-Up,187112
 40029,The Bamboo House of Dolls,PFG Entertainment,0
 103067,The Designated Victim,Filmstudio Berlin,0
-14067,Thunderstruck,Filmstudio 1929,0
 268920,Hot Pursuit,Priya Films,51680201
 138502,Offline,Comptoir Français du Film Production (CFFP),0
 259830,Scintilla,Filmes Cinematografica,0
@@ -9698,7 +9450,6 @@ id,title,name_companies,revenue
 25936,Radio Day,Joanna Productions,0
 281418,The Lookalike,Common People Productions,0
 276137,Road,Crown Film Unit,0
-333381,Return to Sender,Terra Filmkunst,0
 294862,Magical Universe,Phoenician Entertainment,0
 250784,Concerning Violence,Stormy Productions Inc.,0
 151693,Morgan,Azerfilm,0
@@ -9757,7 +9508,6 @@ id,title,name_companies,revenue
 33744,The Impossible Years,Ma.Ja.De Filmproduktion,0
 127564,The Last Hunt,CFWB,0
 25939,Passenger,Cineworx,0
-78992,The Passenger,Farbfilm-Verleih,0
 26357,To Trap a Spy,Flanders Audiovisual Fund (VAF),0
 29467,Tomorrow Is Another Day,Imagine Film,0
 124026,The Fiend of Dope Island,NFF,0
@@ -9830,7 +9580,6 @@ id,title,name_companies,revenue
 11048,The Knock Out Cop,Framestore,0
 11053,Flatfoot in Hong Kong,Triangle Films,0
 128121,The Last White Knight,Janel Productions,0
-80177,Mercenaries,Anne of Green Gables Productions,0
 60142,"Master, a Building in Copacabana",Meir Teper,0
 14565,Love Lies Bleeding,All For A Films,0
 222951,B.A. Pass,MPI Media Group,0
@@ -9861,7 +9610,6 @@ id,title,name_companies,revenue
 58545,The Most Wonderful Evening of My Life,Gébéka Films,0
 56366,Drama of Jealousy,Cartoon Saloon,0
 220153,Iliza Shlesinger: War Paint,Candleridge Entertainment,0
-279977,The Mirror,Spy Next Door,0
 109001,Shiva,Silverstar Ltd.,0
 33460,Sehar,Mod Producciones,0
 293238,Labyrinth,Galaxy Pictures Limited,0
@@ -9877,7 +9625,6 @@ id,title,name_companies,revenue
 54503,The Mystery of Chess Boxing,Impéria,0
 31248,Ram Gopal Varma Ki Aag,Bord Scannan na hEireann / Irish Film Board,0
 255528,Blank: A Vinylmation Love Story,Castle Films,0
-18881,Kite,Notro Films,0
 113190,Beyond Gay: The Politics of Pride,Wingman Productions,0
 217341,Rewind,Tunnel Post,0
 53220,Rabbit Fire,Carr Miller Entertainment,0
@@ -9916,7 +9663,6 @@ id,title,name_companies,revenue
 81831,The Boom,Now Films,0
 48955,Everybody Go Home,Wiseman Film Productions,0
 56435,The Sign of Venus,JR Canada Productions,0
-40146,Night of the Demon,Hassen Brahiti / Studio Canal,0
 80647,Chanbara Striptease,A Bigger Boat,0
 92496,Ninja Academy,"Copercines, Cooperativa Cinematográfica",0
 120802,Noobz,Devon Film,0
@@ -10019,7 +9765,6 @@ id,title,name_companies,revenue
 276488,Let Us Prey,Oktober oy,0
 319924,Russell Madness,Películas Pendleton,0
 309887,Bad Asses on the Bayou,Poisson Rouge Pictures,0
-319986,Grace,Agora Entertainment,0
 285649,L'erba proibita,Keystone Film Company,0
 188684,Punishment Room,League of Noble Peers,0
 38918,Kiss me Kismet,I Film Dell'Orso,0
@@ -10039,7 +9784,6 @@ id,title,name_companies,revenue
 201277,The Last Match,UAA Films,0
 49398,Quarter to Two Before Jesus Christ,Western Film Productions,0
 300600,RISE,Collective Digital Studios,0
-332177,Vendetta,Charlie Banks,0
 297633,Bordering on Bad Behavior,White Rock Lake Productions,0
 283686,Out of the Dark,kahuuna films,0
 16261,Repli-Kate,Walt Disney Studios Motion Pictures,0
@@ -10052,7 +9796,6 @@ id,title,name_companies,revenue
 287793,Cam2Cam,One Eye Production,0
 21896,Yes Nurse! No Nurse!,Savalas Audio Post-Production,0
 65683,Dil,Cabal Film,0
-161825,Best Friends,Color Force,0
 221981,The Wrong Girl,Dayday Films,0
 18016,A Sister's Secret,Bronson Avenue,0
 159763,A Nanny's Revenge,Paramount Pictures Digital Entertainment,0
@@ -10069,7 +9812,6 @@ id,title,name_companies,revenue
 78403,Born Bad,Jiangsu Broadcasting System,0
 81470,The Guy From Harlem,Chuan Production Film Studio,0
 38364,The Square Peg,Effigy Films,0
-128979,Treasure Island,Ankatt Produktion,0
 130267,Seal Team Six: The Raid on Osama Bin Laden,Galuk Premium,0
 58075,My Zinc Bed,First Line Entertainment,0
 42966,Once Upon a Time in Mumbaai,Eclectic Pictures,0
@@ -10111,7 +9853,6 @@ id,title,name_companies,revenue
 81937,Dynamite Brothers,Kurîmu remon Seisaku Iinkai,0
 5742,"Cherry, Harry & Raquel!",Canonigo Films,0
 5747,Common Law Cabin,Big Finish Media,0
-5744,Fanny Hill,Lightning Strikes Entertainment,0
 5648,The Immoral Mr. Teas,Zaccheus Film Group,0
 126692,Prelude: Dog Star Man,Gunless Productions,0
 207454,Mystery Woman,Furry Vengeance Productions,0
@@ -10202,12 +9943,10 @@ id,title,name_companies,revenue
 228290,Una piccola impresa meridionale,Jonathan Productions,0
 287935,Midnight Sun,Tempus,0
 56994,The Second Wedding Night,Stephen J. Cannell Productions,0
-56974,Black and White,Phoenix Film Partners,0
 53957,La matassa,National Theatre of Great Britain Production,0
 89847,Modus Operandi,Winter's Bone Productions,0
 38162,Top of the World,Sponge Ent.,0
 299245,The Gallows,StudioUrania,42664410
-78339,Memory Lane,Programme MEDIA de la Communauté Européenne,0
 239417,The Wedding Chest,Région Wallone,0
 295368,Elon Gold: Chosen and Taken,Casa Kafka Pictures,0
 64943,Giordano Bruno,Banque Populaire Images 8,0
@@ -10225,17 +9964,13 @@ id,title,name_companies,revenue
 279144,"The Death of ""Superman Lives"": What Happened?",Cineuropa 92,0
 85643,In Heaven There Is No Beer?,Nova Films,0
 119801,Made In Paris,Pathé Frères,0
-290672,Detour,Apple Creek Productions,0
 250622,National Lampoon Presents: Endless Bummer,Cold Fusion Media Group,0
 2166,The Revengers' Comedies,Artists / Media Cooperation,0
 198521,Sweet Revenge,Breakout Pictures,0
-107352,Sweet Revenge,RedGuitar,0
 133469,The Dream Team,Gloria Productions,0
-29466,The Magician,Michael Nolin,0
 41002,El Mago,Sands Films,0
 13296,Hokkabaz,Clear Entertainment,0
 95862,The Phantom of Paris,Imagine Television,0
-181850,The Pirates of Penzance,Teakwood Lane Productions,0
 73203,The Sorcerers,Real Time Productions,0
 47410,Trapped,Frank Perry Films Inc.,0
 79526,Duska,Myriapod Productions,0
@@ -10283,7 +10018,6 @@ id,title,name_companies,revenue
 9878,The Boy in the Plastic Bubble,Lumina Films,0
 302348,Allies,area japan,0
 61527,Helena from the Wedding,Little More Co.,0
-86000,Always,Mandalay Vision,0
 49960,Kiss the Abyss,10th Hole Productions,0
 294222,Mantervention,Gilbert Films,0
 98068,Pilgrim Song,Saint Aire Production,0
@@ -10318,7 +10052,6 @@ id,title,name_companies,revenue
 266425,Sand Castles,TT Filmműhely,0
 13336,Chrysalis,Joroni Film,0
 10270,The Challenge,KinoKamera,0
-204709,The Scapegoat,Here and There Productions,0
 249934,The Slow Business of Going,IMAV Editions,0
 291270,Anomalisa,Ace Deuce Entertainment,5659286
 318781,Colonia,Anthem Pictures,3621046
@@ -10394,7 +10127,6 @@ id,title,name_companies,revenue
 55027,Dan Aykroyd - Unplugged On UFO's,Bärenfilm,0
 60238,Hidden Secrets,Greenlit Rights,0
 79419,The First Snow of Winter,Luiz Carlos Barreto Produções Cinematográficas,0
-298312,The Visit,Regina Filmes,98450062
 290751,Secret in Their Eyes,Condor Filmes,34854990
 283445,Sinister 2,The Mingei Theatre Company,52882018
 85221,Fantasmagorie,Viceroy Films Ltd.,0
@@ -10441,20 +10173,15 @@ id,title,name_companies,revenue
 49455,The Short & Curlies,Les Films Odéon,0
 115873,The Angrez,GR Films,300000
 20931,Taxi No. 9 2 11: Nau Do Gyarah,IndiePix Studios,0
-189621,Beau Geste,Rola Productions,0
-98203,Captive,NCA Productions,24591
 58646,OPA!,Oxymoron Entertainment,6000000
 74430,Thumb Tripping,Mallick Media,0
 2988,The Harrad Experiment,Middle Pictures,0
 142106,Petunia,Marui-Kobunsha Corporation,0
 10492,Flashback,Odeon,0
-121550,Flashback,Zaza Entertainment,0
 99863,Flight Angels,Ideefixe Productions,0
 189723,Hero's Island,Notting Hill Films,0
 180114,Holy Matrimony,WestEnd Films,0
 177190,It's Tough to Be Famous,Red Canyon Pictures,0
-158750,Moving Target,Boot Girl Production,0
-180152,Out on a Limb,Hallmark Hall of Fame Productions,0
 66568,The 25th Hour,Bavaria Atelier,0
 12598,Jo,Wizan Productions,0
 43142,The Naked and the Dead,fiftyfilms,0
@@ -10515,7 +10242,6 @@ id,title,name_companies,revenue
 27924,Autumn Marathon,The Dream & Pictures,0
 63303,Girl without an Address,The Lost Tribe,0
 78132,For the Matches,Motion Pictures International,0
-117863,The Overcoat,Good Apple Productions,0
 20899,The Adventures of Buratino,New Element Productions,0
 108586,A Bunny's Tale,Sly Dog Films,0
 283587,Beasts of No Nation,Israel Fund for Film Production,9077700
@@ -10546,7 +10272,6 @@ id,title,name_companies,revenue
 104244,The Possessed,Armada Films,0
 95375,"Young, Violent, Dangerous",Cinémage 4,0
 195768,City Under Siege,Cofinova 6,0
-85784,The Double,Soficinéma 6,0
 91060,Johnny Yuma,The Chimney Pot,0
 242262,La sedia della felicità,Waterfront Film,0
 126832,Stan,Armada Pictures,0
@@ -10593,7 +10318,6 @@ id,title,name_companies,revenue
 157843,Queen of the Desert,Cinema Four,0
 359105,Heneral Luna,Romania Film,0
 11142,Der Clown - Tag der Vergeltung,Films en Stock,0
-322434,The Ceremony,Menageatroz,0
 44827,Dor,Romanian National Center for Cinematography,0
 160155,Life Is Ruff,Ross Sanders Production International,0
 74555,Evil Things,See-Saw Films,0
@@ -10624,13 +10348,11 @@ id,title,name_companies,revenue
 245536,Rabbit and Deer,Lotus Entertainment,0
 312940,The Mole at the Sea,Explorer Film '58,0
 285181,1001 Grams,Paramount Network Television,0
-289039,Factory Girl,An Olive Branch Productions,0
 298721,Cemetery of Splendour,Rollercoaster Entertainment,0
 322614,Crumbs,Vortex Words Pictures,0
 97110,The Tyrannical Father,Bagman (2009),0
 74717,Courtyard of the Ballads,MCG,0
 126227,Desolation Canyon,Une Hirondelle Productions,0
-144111,Nana,Blackfeet Pictures,0
 267463,The 10 Year Plan,Agence Nationale pour la Cohésion Sociale et l'Egalité des Chances (ACSE),0
 10645,The Slurb,"Bureau, The",0
 13305,Snow-White and Rose-Red,Globe Enterprises,0
@@ -10652,10 +10374,7 @@ id,title,name_companies,revenue
 253112,Sheila Levine is Dead and Living in New York,Birnbaum/Barber,0
 49954,Orson Welles: The One-Man Band,Cineroma SRL,0
 123691,Dream Deceivers: The Story Behind James Vance vs. Judas Priest,French Tax Credit,0
-33352,Aftermath,Cinescope Productions,0
 179847,First Love,Cinet,0
-39793,First Love,Kinology,0
-33984,First Love,Pomor Film,0
 69407,Varalaru,Davaj Film,500000
 328930,Sunrise,Red Dragon Productions,0
 28472,Silsila,Morabito Picture Company,0
@@ -10663,7 +10382,6 @@ id,title,name_companies,revenue
 3145,The Horror of Frankenstein,Sato Atsushi,0
 46581,Immoral Tales,Towani Corp.,0
 31927,One of Us,Amka Films,0
-136146,Inside,RTSI Televisione Svizzera,0
 301228,Narcopolis,Ajym Films,0
 330112,Ashby,Coopérative Générale du Cinéma Français,4631
 362046,4Got10,Mavi Film,0
@@ -10693,7 +10411,6 @@ id,title,name_companies,revenue
 336666,Sleeping Giant,Grack Films,0
 319996,Chasuke's Journey,# Andrea Sperling Productions,0
 75063,Rainbow Bridge,Microangelo Entertainment,0
-49249,A Tale of Two Cities,프로덕션M,0
 258665,A Prayer for Rain,Sofica Investimage,0
 123879,Say Uncle,Bedard/Lalonde Amusements,0
 40922,Coffee Date,Space: The Imagination Station,0
@@ -10705,7 +10422,6 @@ id,title,name_companies,revenue
 217185,I'll Get By,"Tesela, P.C.",0
 85285,The Empty Canvas,La Zanfoñia Producciones,0
 152846,The Most Beautiful Wife,Curtwel Productions,0
-62947,The Witch,Ciné Vog Films,0
 72485,The True Meaning of Pictures: Shelby Lee Adams' Appalachia,Tatira,0
 103750,The Taste of Money,Oliwood Productions,0
 151086,The Ocean Waif,koboiFILM,0
@@ -10713,13 +10429,11 @@ id,title,name_companies,revenue
 188560,The Secret Lives of Second Wives,Jacques Le Glou Audiovisuel,0
 172577,The Take,Bona Entertainment,0
 199184,Giovani mariti,Electra Compagnia Cinematografica,0
-326755,Dirty Weekend,Spark Script Workshop,0
 63071,The Bishop's Bedroom,Big & Little Films Pty. Ltd.,0
 65480,Caro papà,Lotterywest,0
 72279,Madman at War,Australian Film Board,0
 194485,The Priest's Wife,Joseph M. Schenck Production,0
 82368,Love and Larceny,Dreamworks Pictures,0
-32528,Spartacus,Fern Gully Tales,0
 136294,The Perfect Date,Zentropa Productions,0
 29760,Cayman Went,Freak Show Entertainment,0
 353595,LEGO DC Comics Super Heroes: Justice League: Attack of the Legion of Doom!,Kovno Communications,0
@@ -10772,7 +10486,6 @@ id,title,name_companies,revenue
 18816,Dragon Squad,Obregon Cinematografica,0
 280019,For the Emperor,Vela Producciones,0
 180651,Fists of Legend,Wanda Vision S.A.,0
-24821,Hidden,Catpics Co Productions AG,0
 14660,Solstice,Siriol Productions,0
 20458,Headhunter,Concordia Compagnia Cinematografica,0
 153795,Straight A's,Les Films du Veyrier,0
@@ -10794,13 +10507,11 @@ id,title,name_companies,revenue
 195276,Montage,ITC Movie,0
 204553,Cold Eyes,Four Leaf Productions,0
 137409,Cold War,Wildstorm Productions,0
-352128,The Dead Zone,Nordisk Film Production,0
 72650,Punished,Pennebaker-Baroda Productions,0
 25124,Kung Fu Chefs,Jerico,0
 72074,Murderer,Warner Music,0
 334682,A Ballerina's Tale,Access Motion Pictures,0
 280612,Genome Hazard,Puja Entertainment (India),0
-200645,Marius,Mangusta Productions,0
 19553,Lifepod,Producers-Actors Corporation,0
 67499,My Grandpa the Bankrobber,Scott-Brown Productions,0
 21459,Chupke Chupke,Tarentula,0
@@ -10845,7 +10556,6 @@ id,title,name_companies,revenue
 93178,Peak: The Rescuers,Funnyman Inc.,0
 51083,Word of Honor,Handsomecharlie Films,0
 32329,Looking for Langston,Hungarian National Film Office,0
-44296,Fireworks,Lazio Film Commission,0
 75886,Pedro,Rome Film Commission,0
 239534,Beni Unutma,Grana Productions,0
 47354,K-9: P.I.,Ace Productions,0
@@ -10869,9 +10579,6 @@ id,title,name_companies,revenue
 146970,In the West There Was a Man Named Invincible,Panda Productions Inc.,0
 157724,The Crazy Bunch,Horticus UK,0
 231001,All Hallows' Eve,Sanctum Australia,0
-140648,City on Fire,Great Wight Productions/ Osford Films,0
-74944,War of the Buttons,Circle of Confusion,0
-74945,War of the Buttons,Forest Park Pictures,0
 81644,Letters from the Big Man,StoneBrook Entertainment,0
 113255,Huie's Sermon,Dangerous To Know,0
 36880,Wodaabe: Herdsmen of the Sun,Opal Records,0
@@ -10906,9 +10613,7 @@ id,title,name_companies,revenue
 30065,The Wild Bull,Bay Films,0
 227600,Dombivali Fast,MTV Studios,0
 159365,Benaam,UBU Film,0
-303966,Black Magic,H Plus Communication,0
 366120,Red Rose,Independent Artists,0
-62803,Hero,Pan,0
 122895,The Old Temple,Warner Bros. Japan,0
 41903,Mr. India,An Erich von Stroheim Production,0
 55627,100 Days,Sankei Shimbun,0
@@ -10928,9 +10633,7 @@ id,title,name_companies,revenue
 134446,Chachi 420,Filmi Domirev,0
 165016,Aflatoon,Independent Film Fund/CINV,0
 46373,Bade Miyan Chote Miyan,Elephant Studio,0
-103048,China Gate,Five Windows Productions,0
 45533,Pyaar Kiya To Darna Kya,Trapped Ashes,0
-54959,Soldier,Shinkai Makoto,0
 74405,Sharpe's Company,CTR,0
 366742,On Football,Spinster,0
 366551,Krampus: The Reckoning,Malibu Bay Films,0
@@ -10958,7 +10661,6 @@ id,title,name_companies,revenue
 343878,An Afternoon,Visual Arts College,0
 150218,Hercules Against the Barbarians,Medias Res Filmproduktion,0
 92673,Hercules Against the Mongols,Istisnai Filmler ve Reklamlar (IFR),0
-27766,Santa Claws,New Daughter Productions,0
 58227,The Connection,Massa d'Or Produccions,0
 128368,"Douro, Faina Fluvial",Armor Entertainment,0
 116789,Falling For You,BNJArmor,0
@@ -10982,7 +10684,6 @@ id,title,name_companies,revenue
 51285,PG 16...,APTN,0
 200823,Fonzy,Général Films,0
 327383,Happy 140,Company Films,0
-287426,Shelter,Moving Pictures Film and Television,0
 59959,You Won't Have Alsace-Lorraine,Proton Cinema,0
 67177,Dear Michele,Ministry of Education and Culture,0
 107812,Lovers and Liars,Budapest Film,0
@@ -10996,7 +10697,6 @@ id,title,name_companies,revenue
 117340,Hello Lonesome,Karmic Productions,0
 232739,Perfumed Ball,Sokal-Film GmbH,0
 330007,In the Grayscale,Neunte Babelsberg Film,0
-134155,King Lear,Holleran Company,0
 84106,Captains of the Sands,Sechzehnte Babelsberg Film,0
 84368,Manichitrathazhu,Camera,0
 60392,Chashme Buddoor,Radio Televizija Srbije (RTS),0
@@ -11004,11 +10704,9 @@ id,title,name_companies,revenue
 257200,The Conquerors,Allan King Associates,0
 66175,I Was a Shoplifter,Eyeworks,0
 131898,This Earth Is Mine,The Icelandic Filmcompany,0
-85346,Undertow,Tre Vänner Produktion AB,0
 293603,The Roosevelts: An Intimate History,Out of Towners Productions,0
 76793,Le bal des casse-pieds,Warner Bros. Entertainment Finland Oy,0
 79853,38 Parrots,Zentropa International Sweden,0
-20975,The Girls,Centre National du Cinéma et de L'image Animée (CNC),0
 65656,Beauties of the Night,Legion Entertainment,0
 65110,Winter Evening in Gagry,Edition Video,0
 42952,72 Meters,Nordisk Film Distribution,0
@@ -11041,7 +10739,6 @@ id,title,name_companies,revenue
 333886,Lemonade,Subotica Entertainment,0
 64433,Pardon,Mongrel Media,0
 30634,Organize İşler,Cogeco Program Development Fund,0
-49828,Police,Newfoundland and Labrador Film Development,0
 352327,After Words,Harbor Ventures,0
 172520,Coldwater,K-L Productions,0
 224923,Aleksandr's Price,Kastle Films,0
@@ -11064,8 +10761,6 @@ id,title,name_companies,revenue
 51411,Ma and Pa Kettle Go to Town,Stage 18 Pictures,0
 48300,Return of the One-Armed Swordsman,Renova-Media,0
 102428,Salomé,Federal Agency for Culture and Cinematograph,0
-217919,Salomé,Parts and Labor,0
-96951,Salomé,Parts and Weather,0
 48943,Young and Dangerous 5,John Krimsky and Gifford Cochran Inc.,0
 356898,Hong Kong Trilogy: Preschooled Preoccupied Preposterous,Bender-Spink Inc.,0
 346755,The Red Spider,Summit Film,0
@@ -11084,7 +10779,6 @@ id,title,name_companies,revenue
 306464,Family Guy Presents: Seth and Alex's almost live comedy show,Micro scope,0
 352197,Heart of a Dog,Phi Group,0
 232034,The Desert Song,Artista-Filmi,0
-42298,Dressed to Kill,Bannon Glen,0
 24647,Hälsoresan,Endeavour Productions,0
 336691,Paternity Leave,"Fay, Richwite",0
 368330,Katyar Kaljat Ghusali,Shadow Lane,4400000
@@ -11147,7 +10841,6 @@ id,title,name_companies,revenue
 321621,The Throwaways,P.C.L. Film Studio,0
 340816,Christmas Eve,Kim Ki-Young Production,0
 85304,John Lennon - Plastic Ono Band,Hanguk Munye Yeonghwa,0
-342831,Sherlock Holmes,Foundation for Filmakers,0
 25041,The American Mall,Televentures,0
 333968,How to Win at Checkers (Every Time),Filmes do Tejo,0
 17223,Two Tigers,Les Films de l'Après-Midi,0
@@ -11179,7 +10872,6 @@ id,title,name_companies,revenue
 22162,A Kid in Aladdin's Palace,Sepia Films,0
 122326,100 Ghost Street: The Return of Richard Speck,Distracted Media,0
 262165,The Unwanted,Zapruder's Other Films,0
-47680,The Wall,DLSHS,0
 256314,Beltracchi - The Art of the Forgery,Marvel Entertainment,0
 371507,Locust,Film Agency for Wales,467363
 71482,Totally True Love,Warp (Submarine),0
@@ -11204,7 +10896,6 @@ id,title,name_companies,revenue
 79781,The Last Fall,Sateenkaarifilmi Oy,0
 9287,Troublemakers,Desperado Film,0
 108228,A Fare to Remember,Costa Rica Production Support,0
-120172,Another World,Rézo Films,0
 177112,Found in Time,Contre Prod,0
 229056,The Christmas Carol,Ulysse Films,0
 284460,Samurai Cop 2: Deadly Vengeance,Films de l'Archer,0
@@ -11226,14 +10917,12 @@ id,title,name_companies,revenue
 339339,A Tale of Two Thieves,6140 Productions,0
 339888,Tyke Elephant Outlaw,Brillhart / Gonzales Productions,0
 359204,A Syrian Love Story,Adullam Films LLC,0
-266294,Sisters,Chretien,105011053
 169382,Homemade Hillbilly Jam,Mancori,0
 348634,A Christmas Detour,Flight 33 Productions,0
 360604,Ice Sculpture Christmas,Grand Productions,0
 363476,Charming Christmas,Hurry Up Productions,0
 363478,I'm Not Ready for Christmas,Lee Rose Productions,0
 363479,Merry Matrimony,Goff-Kellam Productions,0
-366630,The Bridge,59 Films,0
 366631,On the Twelfth Day of Christmas,Grupo Cine Arte,0
 72443,"Josee, the Tiger and the Fish",Iterfilm,0
 58550,Memoirs of a Teenage Amnesiac,Provobis Film,0
@@ -11242,7 +10931,6 @@ id,title,name_companies,revenue
 49704,Love in Disguise,Zookeeper Productions,0
 171587,Whatcha Wearin'?,NBV Productions,0
 189151,Akko's Secret,Montauk Films,0
-92499,Spellbound,Camp Kellner Media,0
 260583,The Substitute Husband,Baba Arts Limited Productions,0
 43788,Pimpernel Smith,History Films,0
 141476,When Santa Fell to Earth,FoxTelecolombia,0
@@ -11275,10 +10963,8 @@ id,title,name_companies,revenue
 151911,Blockade,Vindicated Pictures,0
 99729,Central Airport,John Wilder Nightwatch Productions,0
 181426,Chandu on the Magic Island,Katherine Company,0
-44459,Cinderella,Feast Productions Limited,0
 83880,Super Shark,Reprisal Films,0
 175822,The Phantom Fiend,RCR Media Group,0
-66068,Girl,Third Street Pictures,0
 12135,Left Bank,Hitit,0
 20388,De Indringer,Telefilm Wien,0
 53103,My Queen Karo,Mondial Televisione Film,0
@@ -11302,7 +10988,6 @@ id,title,name_companies,revenue
 57718,Megamind: The Button Of Doom,Movie%26Art,0
 132873,Die Mondverschwörung,Lereby,0
 370665,Dilwale,Authentic Films,61000000
-331190,Captive,Lions Gate Family Entertainment,2801508
 336313,Hell & Back,Hall Bartlett Productions,157768
 141901,Evim Sensin,Enlight Pictures,0
 37460,Raavan,Blitz Films,4200000
@@ -11326,7 +11011,6 @@ id,title,name_companies,revenue
 198667,Man on Horseback,Moby Dick Films,0
 83119,I Am a Camera,Interkerkelijke Omroep Nederland (IKON),0
 16912,The Colditz Story,Fonds voor de Nederlandse Film,0
-86942,Tusk,Sofar-Film,0
 143355,The Battle of Sutjeska,Al-Ahramm Studios,0
 215408,The Aviators,Producciones Labarouta,0
 362703,Diablo,Produccions A Modiño,0
@@ -11351,13 +11035,11 @@ id,title,name_companies,revenue
 372113,Ahwak,Maymon Film Inc.,0
 253150,Plastic Galaxy: The Story of Star Wars Toys,Big Kid Pictures,0
 371492,Tomorrow,Films Triunfo S.A.,43471
-89877,The Reunion,Carlmar Film,0
 356994,Wire Cutters,Ryan Murphy Productions,0
 198890,Madalena,Twentieth Century Fox Television,0
 220075,Nine Muses of Star Empire,J2 Pictures,0
 76817,A Journey into Bliss,Chubu-nippon Broadcasting Company,0
 187442,Asu Mare,Hokkaido Broadcasting Co.,0
-345875,The Abandoned,Fukuoka Broadcasting System (FBS),0
 279997,I Survived a Zombie Holocaust,Gantz Film Partners,0
 85032,Kotoko,Hiroshima Telecasting (HTV),0
 313985,The West,Miyagi Television Broadcasting,0
@@ -11390,7 +11072,6 @@ id,title,name_companies,revenue
 47612,Au bonheur des dames,Snoot Entertainment,0
 214600,Le mystère de la tour Eiffel,New Era,0
 55873,Tarzan and the Leopard Woman,Pioneer Pictures,0
-173080,Graveyard Shift,First Thought Films,0
 79500,Prehysteria!,Chad Troutwine Films,0
 47360,Deathstalker and the Warriors from Hell,Green Film Company,0
 47363,Deathstalker IV: Match of Titans,Human Worldwide,0
@@ -11402,7 +11083,6 @@ id,title,name_companies,revenue
 211845,The Bible,Virtual Audiovisuais,0
 136716,Hollywood on Trial,Merchant Pacific Corporation,0
 217587,Being Ginger,Gigi Productions,0
-158431,Slow Burn,Sneaky Pete Productions,0
 274817,Wood Job!,Cinema Vehicle Services,0
 56083,Hermanoteu In the Land of Godah,A&E IndieFilms,0
 67083,BaadAsssss Cinema,Initiate Productions,0
@@ -11419,13 +11099,10 @@ id,title,name_companies,revenue
 329805,My King,All the Way Round,282000
 83617,Fluke,Beacon Classics,0
 255575,Parviz,Carnival Films & Television,0
-127468,The Amateur,Masterpiece,0
 291154,Daawat-e-Ishq,Runaway Fridge TV,0
 44554,A Man Called Hero,Yorkshire Television (YTV),0
-273899,Stonewall,William F. Storke & Robert E. Fuisz,187674
 336807,Fatima,GNK Productions,0
 35021,The Old Fairy Tale: When the Sun Was God,Le Film d'Art,0
-301744,Bloodsuckers,Sterling Camera and Film Company,0
 97666,What a Mess!,M.B. Dudley Amusement Co.,0
 187737,Il terrorista,B.A. Filmproduktion,0
 333387,The Wannabe,Rise Films,0
@@ -11480,7 +11157,6 @@ id,title,name_companies,revenue
 336808,Embrace of the Serpent,Snowfort Pictures,1320005
 376869,Neerja,Site B,2978994
 323677,Race,Arable Entertainment,24804129
-367493,Providence,Praesens-Film,0
 296879,Of Mind and Music,Filmova Společnost Praha,0
 267860,London Has Fallen,Cinergi,205754447
 269149,Zootopia,Flashback Productions,1023784195
@@ -11522,7 +11198,6 @@ id,title,name_companies,revenue
 159436,Jaani Dushman: Ek Anokhi Kahani,Plattform Produktion,0
 354251,Southbound,Gruzia-Film,0
 56309,Carry on Admiral,Sun Pictures,0
-93193,Jigsaw,Lotus Film,0
 4289,Dinocroc,MS-Films,0
 28346,Blood Surf,A Space Between,0
 90030,The Monster of Piedras Blancas,Marakesh Films,0
@@ -11545,7 +11220,6 @@ id,title,name_companies,revenue
 89816,The Bear That Wasn't,Saturn Harvest Films,0
 278051,Death Driver,Khartoum,0
 68720,Tammy and the Doctor,Pimienta,0
-105465,The Art of Love,Metrol Technology,0
 73800,Beach Spike,Lambart Productions,0
 23529,Cosas insignificantes,Green Film House,0
 54769,Drei Männer im Schnee,Amoon,0
@@ -11608,7 +11282,6 @@ id,title,name_companies,revenue
 272220,Karam,Quick Six Entertainment,0
 97361,'D',Confédération Générale du Travail (CGT),0
 129820,Silence and Cry,Toloda,0
-111988,Alexander the Great,Maipo,0
 44351,Rabbits,Pili Films,0
 44066,Daughters of the Sun,Cliffjack Motion Pictures,0
 217247,The Issa Valley,hiq productions,0
@@ -11628,7 +11301,6 @@ id,title,name_companies,revenue
 45204,Stages,"3, 4 Women Productions",0
 11869,"Quax, der Bruchpilot",Gold-Gems Ltd.,0
 45677,7 Years,DMK Productions,0
-8846,Alone,Veteran Pictures,0
 69019,The Amazing Mr. Bickford,Media Pro One,0
 94790,How to Become Myself,Iconiq Group,0
 108639,Blush,Existential Films,0
@@ -11651,7 +11323,6 @@ id,title,name_companies,revenue
 115239,Wojaczek,Melnitsa Animation Studio,0
 104374,Woman of the Lake,Infinitum Nihil,0
 14489,The Scarlet Flower,Ginso Investment Corp,0
-85265,The Child,Film It,0
 112044,Atlantis,Mark Canton Productions,0
 162396,The Big Swap,Kino video,0
 198450,The Cannibals,Big Up Productions,0
@@ -11734,7 +11405,6 @@ id,title,name_companies,revenue
 61203,Shor in the City,Ceskoslovenský Státní Film,0
 56901,Yeh Saali Zindagi,George King Productions,0
 78377,Idiot in Paris,Studioul Cinematografic București,0
-287322,Blackbird,Captivate Entertainment,0
 96552,Pretpark Nederland,Fin Août Productions,0
 105572,Three Seats for the 26th,YouTube,0
 354023,Trying to Kiss the Moon,LG,0
@@ -11782,7 +11452,6 @@ id,title,name_companies,revenue
 46333,Pervert!,Leverage Management,0
 24285,Phileine Says Sorry,Closest to the Hole Productions,0
 27730,The Revenge of the Living Dead Girls,Farraday Films,0
-18265,Remote Control,Leverage Entertainment,0
 48623,One Hundred Days After Childhood,Produzioni Artistiche Internazionali,0
 161827,"I, a Woman",Central Film Office of the Iranian Ministry of Culture,0
 56245,MollyCam,Rappaport Productions,0
@@ -11922,14 +11591,11 @@ id,title,name_companies,revenue
 67089,Beat,Yellow Film & TV,0
 182950,Blonde Dynamite,Double Dutch Films,0
 356325,Everything Is Copy,Ripple World Pictures,0
-114242,Faust,Magnet Films,0
 116500,Incendiary Blonde,Florentine Films,0
 45960,Blind Spot,American Documentaries Inc.,0
 121848,Isle of Fury,Kenneth Lauren Burns,0
 81670,Jock of the Bushveld,WETA,0
-64239,Kamikaze,Time-Life Video,0
 59895,Sudden Danger,Headline Pictures,0
-36799,Sugar,Nice Guy Productions,0
 224162,Tarnished Angel,Les Films Alyne,0
 33484,Hit the Ice,Vendôme Production,0
 161816,Raghu Romeo,Cubica,0
@@ -11941,7 +11607,6 @@ id,title,name_companies,revenue
 156603,Let's Go Navy!,McMahon International Pictures,0
 252916,Here Come the Marines,Charles Band Productions,0
 70313,Bowery to Bagdad,Numéro 4 Production,0
-193435,High Society,Folimage,0
 178569,Jail Busters,Digit Anima,0
 334362,Highway to Hellas,Alabama Production Group,0
 195030,Palmipedarium,Spader Knekt,0
@@ -11952,7 +11617,6 @@ id,title,name_companies,revenue
 158928,The Roman Spring of Mrs. Stone,Lippert Films,0
 26829,The Houston Story,Cinequanon Pictures International Inc.,0
 29390,"Let's Kill Uncle, Before Uncle Kills Us",Stanmore Productions,0
-29398,Project X,Penbar Productions,0
 369168,A Good American,The Essanay Film Manufacturing Company,0
 327674,The Invited,Red Bull Media House,0
 356300,How to Plan an Orgy in a Small Town,Brain Farm Digital Cinema,0
@@ -11961,7 +11625,6 @@ id,title,name_companies,revenue
 301608,The Trust,Caramel Films,0
 173327,From Bedrooms to Billions,RTV Sarajevo,0
 68016,Aadukalam,Babibutafilm,6000000
-297393,Dark Horse,Fox International Productions (FIP),0
 121983,Free Angela and All Political Prisoners,rebel one pictures,0
 285869,Wet Bum,wishing well pictures,0
 308063,The Visit: An Alien Encounter,Directions Inc.,0
@@ -11989,7 +11652,6 @@ id,title,name_companies,revenue
 261684,This Side of Heaven,Iron Bull Films,0
 126418,Should Ladies Behave,Indifferent Entertainment,0
 184824,Sweepings,Middle Road Pictures,0
-335498,The Penalty,Heretic Films,0
 255733,Our Mr. Sun,Last Exit Productions,0
 290188,The Brittany Murphy Story,Apache,0
 87992,Where Once We Walked,Ominous Productions,0
@@ -12025,7 +11687,6 @@ id,title,name_companies,revenue
 142611,"Houston, We Have a Problem!",Southern Cross Feature Film Company,0
 113347,A Drummer's Dream,Mercury Film International,0
 99513,Stateless Things,Inkas Film & T.V. Productions,0
-381341,Perfect Strangers,PPV Athens,0
 384254,The Cockroach That Ate Cincinnati,Da Huang Pictures,0
 387252,Kadhalum Kadanthu Pogum,Philip A. Waxman Productions Inc.,0
 381298,Ghayal Once Again,Illuminati Films Pvt Ltd,0
@@ -12038,7 +11699,6 @@ id,title,name_companies,revenue
 21343,Reverb,Tazora Films,0
 76102,N Is a Number: A Portrait of Paul Erdös,Wessler Entertainment,0
 390777,Ordinary World,Yucaipa Films,0
-391578,"New York, New York",Misha Films,0
 384737,Precious Cargo,Les Chauves-Souris,100659
 60961,Held Up,cattleya,0
 188540,Arrambam,Région Rhône-Alpes,21000000
@@ -12057,7 +11717,6 @@ id,title,name_companies,revenue
 13521,Charlie And A Half,Seoul Films,0
 13520,Festival At The Poolroom,Kirghizfilm,0
 244449,Flamenco at 5:15,Beachfront Films,0
-353069,Mother's Day,Chimera Films LLC,48418160
 17137,What We Do Is Secret,Reno Productions,0
 28697,Fatal Fury: The Motion Picture,Gorham Productions,0
 68922,Sword for Truth,Stoller Global Solutions,0
@@ -12079,7 +11738,6 @@ id,title,name_companies,revenue
 114521,Artie Shaw: Time Is All You've Got,BBC Wales,0
 214187,The Death of Kevin Carter: Casualty of the Bang Bang Club,Elkcreek Cinema,0
 65887,The horse,TDJ Enterprises / New Dimensions Entertainment,0
-210615,The Son,Our Stories Films,0
 66187,Elite Group,Chunichi Eigasha,0
 92307,The Final Comedown,The South Australian Film Corporation,0
 39764,Glass: A Portrait of Philip in Twelve Parts,Jonai Productions,20
@@ -12103,14 +11761,12 @@ id,title,name_companies,revenue
 261433,Pao's Story,Suomi-Filmi,0
 250434,Superstar: The Life and Times of Andy Warhol,Producciones Filmamento,0
 54316,Tonite Let's All Make Love in London,Cinévision Ltée,0
-91556,Heartbreakers,Filminor,0
 5066,Carry On Cleo,Skyscraper Films,0
 83788,Crime on a Summer Morning,Thor Productions,0
 72655,The Loner,Project 8 Films,0
 124013,A Crime,Parallel Media,0
 45537,La vie est à nous,Voodoo Production Services,0
 349790,I Ship It,Escándalo Films,0
-366005,Lullaby,Ran Entertainment,0
 383121,Kindergarten Cop 2,Oren Peli / Brian Witten Pictures,0
 132144,The Battle of Chile - Part I,TheManipulators,0
 132148,The Battle of Chile - Part II,Brownstone Productions,0
@@ -12146,7 +11802,6 @@ id,title,name_companies,revenue
 85327,Rich Kids,Vivid White Productions,0
 55134,Mickybo and Me,Where's Lunch,0
 70527,A Little Night Music,Story Bridge Films,286000
-108835,Labyrinth,Auburn Entertainment,0
 391626,The Offering,Leopardo Filmes,0
 319632,What Is a Man without a Moustache?,Talandracas,0
 226072,Sorry for Kung Fu,Berkshire Axis Media,0
@@ -12198,7 +11853,6 @@ id,title,name_companies,revenue
 385371,The Midnight Man,Inner Circle Films,0
 168079,Cold Sweat,Michael Cacoyannis Productions,0
 337154,The Meddler,Atossa Film Produktion GmbH,4267218
-134362,The Beast,Onda Entertainment,0
 291805,Now You See Me 2,Mirror Maze,334901337
 370464,The Masked Saint,StellaNova Film,0
 23802,Bill Hicks: Totally Bill Hicks,American Lives Film Project,0
@@ -12248,7 +11902,6 @@ id,title,name_companies,revenue
 280178,Freedom,Chydzik Media Group,0
 269306,Last Pair Out,First Wedding Productions,0
 41962,A Taxing Woman's Return,KL Production,0
-139176,Camille,LOT Productions,0
 60163,Beck,La Costa Productions,0
 40863,Jackie Chan: My Stunts,Walking West Entertainment,0
 198652,Loot,Norris Brothers Entertainment,0
@@ -12258,7 +11911,6 @@ id,title,name_companies,revenue
 89587,Eyes of Crystal,Soon Lee Films,0
 312623,Living on Love,Great Earth Film Company,0
 377823,The Final Master,Film International Rotterdam,0
-218351,The Girl Said No,Millennium Entertainment,0
 117767,Eroica,Video Flims,0
 44688,Day One,Vaco Moloco,0
 132133,Man on the Tracks,Lotte Entertainment,0
@@ -12340,21 +11992,17 @@ id,title,name_companies,revenue
 399106,Piper,Sataifilm,0
 341957,21 Days,Coleidon-Film,0
 101206,Action in Arabia,S.N.D.,0
-49237,Fair Game,Footprint Investments,0
 130134,Lafayette Escadrille,Ambrosia Pictures,0
 380372,The Asylum,Crave Films,0
 83876,The Avenging Eagle,Knightsbridge Entertainment,0
 102814,The Beach Boys: An American Band,Le Grisbi Productions,0
 94544,The Bronze Buckaroo,5150 Action,0
-262260,The Desert Song,The Collective,0
-254664,The Journey,Bloody Disgusting,0
 137308,Sancharram,8383 Productions,0
 228941,Au revoir l'été,Major League Baseball Productions,0
 81633,Hospitalité,How Am I Doing Productions,0
 110412,Symptoms,New Mexico Media Partners,0
 120121,La vida alrededor,Mistress Inc.,0
 189696,Mickey Mouse in Vietnam,Telecine,0
-364051,The Innocents,Akil Production Company,0
 394499,Porta dos Fundos: Contrato Vitalício,Nostromo Pictures,0
 145481,Don Quijote cabalga de nuevo,Cindy Cowan Entertainment,0
 82776,El ministro y yo,La Sexta,0
@@ -12372,7 +12020,6 @@ id,title,name_companies,revenue
 345054,Double Daddy,Summer Magic,0
 55344,Boys on the Run,PIC Agency,0
 401387,Sunspring,Lol Productions,0
-390880,Friday,Maítrise Artisanale de l'Industrie Cinematographique (MAIC),0
 405388,Mono,Sedis,0
 40585,We Will All Meet in Paradise,Lunanime,0
 216043,The Iceman: Confessions of a Mafia Hitman,Région Provence-Alpes-Côte d'Azur,0
@@ -12413,19 +12060,16 @@ id,title,name_companies,revenue
 4288,The Final Terror,Gunslinger,0
 60700,Sorry for the Disturbance,Microwave Film,0
 369605,Sky Line,Special Broadcasting Service (SBS),0
-378607,The House,Al Jazeera Documentary Channel,0
 228496,Sx_Tape,Charlotte Street Films,0
 261410,VeggieTales: God Wants Me to Forgive Them!?!,InterPositive Media,0
 273312,VeggieTales: Madame Blueberry,HW Two,0
 275136,VeggieTales: The Ultimate Silly Song Countdown,Waterfall Media,0
 273578,VeggieTales: The Ballad of Little Joe,Sakonnet Capital Partners,0
 273149,VeggieTales: Duke and the Great Pie War,Robert Stillman Productions,0
-390584,King Cobra,Patricia Clifford Productions,0
 358615,Pirates of the Prairie,Once and Future Films,0
 32091,The Touch,Avanti Media,0
 396395,The Wedding March,Abbott Vision,0
 40717,Three Faces West,Chump Films,0
-230058,Tumbledown,Dan McCulloch Productions,0
 168552,Youth,Hérodiade,0
 324277,Jaco,Duck Farm Films,0
 407789,Clinton Cash,Anurag Kashyap Films,0
@@ -12451,7 +12095,6 @@ id,title,name_companies,revenue
 384111,Family Lies,Ascension Pictures,0
 31111,The Sicilian Girl,Cloud Atlas Productions,0
 336265,The Mind's Eye,Five Drops,0
-306966,Summer Camp,Media Asia Group,0
 184799,Just Tell Me What You Want,Dreams of Dragon Picture,0
 177474,That Kind of Woman,Inscription Films,0
 319998,Sworn Virgin,Believe Entertainment,0
@@ -12488,7 +12131,6 @@ id,title,name_companies,revenue
 358332,Cosmos Laundromat,Cité-Films,0
 77660,The Fifth Seal,Rapsodie Production,0
 91921,Ecstasy of Order: The Tetris Masters,Media Development Authority (MDA),0
-213681,Masterminds,Bait Productions,29200000
 63959,The Zodiac Killer,Blackmagic Design Films,0
 21837,Cop Dog,Boundless Pictures,0
 36375,Edge of Doom,Group W,0
@@ -12501,7 +12143,6 @@ id,title,name_companies,revenue
 95610,Bridget Jones's Baby,Oxybot,211952420
 283552,The Light Between Oceans,Yahoo Japan,25956113
 317557,Queen of Katwe,CCRE,10367161
-298721,Cemetery of Splendour,EuropaCorp.,0
 247414,Arisan!,Siam Movies,0
 390437,Ki and Ka,Studio Three,0
 406429,League of Gods,Rescued Media,0
@@ -12564,9 +12205,7 @@ id,title,name_companies,revenue
 89068,Deep Core,Microsoft Studios,0
 15611,Do You Believe in Miracles? The Story of the 1980 U.S. Hockey Team,Laskey Productions,0
 253277,Sequoia,Puzzlebox Films,0
-97995,Seven Years Bad Luck,Kurtti-Pellerin,0
 85196,The Forest,Paradigm Pictures,0
-119374,The Forest,Thomson Productions,0
 44328,The Mermaid,Capelight Pictures,0
 171346,Torchy Blane in Panama,Al!ve AG,0
 382873,On the Other Side,Line by Line Productions,0
@@ -12580,7 +12219,6 @@ id,title,name_companies,revenue
 102743,Gabi on the Roof in July,RBB,0
 381691,Maheshinte Prathikaaram,Topkapi Film,230000
 108437,Tre colonne in cronaca,Lung Cheung Company Limited,0
-105693,The Suspect,HPG Production,0
 113629,Wind from the East,game productions,0
 225940,A Man for Burning,Télégraphe,0
 69775,Murder 2,Amber Lamps,0
@@ -12645,7 +12283,6 @@ id,title,name_companies,revenue
 393134,Loop,Enumerated Pictures,0
 24799,Wolvesbayne,Cine Films,0
 374452,Sieranevada,Prerna Films,0
-392812,Dogs,Ramsay Productions,0
 75004,Poongsan,Dirk Productions Ltd.,0
 161908,Head Over Heels 2,Hachette-Fox Productions,0
 132608,Kings & Rats,Doublesteen Productions,0
@@ -12661,13 +12298,10 @@ id,title,name_companies,revenue
 34745,Catch Me If You Can,Inphenate,0
 418072,Peace Code,2 Player Productions,0
 60504,Bone Daddy,Von Zerneck Sertner Films,0
-268853,Paranoia,Campfire LLC,0
 375366,The Girl with All the Gifts,Ember Productions,0
 408537,The Distinguished Citizen,The Genre Co.,0
-399300,The Bodyguard,Star Cinema,0
 387845,Musudan,WXS Productions,500
 334930,Insanity,Chinese Shadows,0
-380007,Everybody's Fine,Full House,0
 42782,Circus World,Soureh Cinema,0
 212967,Ashley,Periscope Entertainment,0
 173739,Zézero,Social Construct,0
@@ -12697,7 +12331,6 @@ id,title,name_companies,revenue
 388243,Bleed,Roddenberry Entertainment,0
 392820,Gimme Danger,Grindfest,0
 410936,Murderous Tales,AireCine,0
-336055,Office,Hearst Entertainment Productions,0
 370203,The Swedish Theory of Love,Charter Entertainment,0
 352917,Víkend,Mirror Cube Films,0
 381046,The Dwarvenaut,ADCB Films,0
@@ -12706,7 +12339,6 @@ id,title,name_companies,revenue
 393939,Set the Thames on Fire,Crombie Film,0
 55504,Go Figure,Most/Rice Films,0
 317120,Cloudy With a Chance of Love,Studio Swan,0
-367538,The Flight Before Christmas,RoC Works Co.,0
 37609,The Cheetah Girls 2,Serena,0
 245473,Cloud 9,P.A.C (Paris),0
 407334,My Summer Prince,Chamdin & Stöhr Filmproduktion,0
@@ -12749,7 +12381,6 @@ id,title,name_companies,revenue
 415766,Who Gets the Dog?,Stampede Films,0
 412851,Seneca's Day,Bitter Films,0
 417877,Baked in Brooklyn,Noir Blanc Films,0
-331642,Born to Win,Carolina Film Works,0
 324560,Brimstone,Intrepid Films,0
 35826,Wicked Stepmother,CreativeEAST,0
 149213,Murder in a Small Town,Dalpaengee,0
@@ -12813,7 +12444,6 @@ id,title,name_companies,revenue
 276833,"Quiet Riot: Well Now You're Here, There's No Way Back","Kraken Films, The",0
 253980,Marvel One-Shot: All Hail the King,Sisifo Films AIE,0
 376386,All These Sleepless Nights,Head Games the Film,0
-373480,Kiki,Makuhari Media,0
 281987,Desperado's Duel,Telewizja Polska - Agencja Filmowa,0
 76122,Marvel One-Shot: The Consultant,Prasa i Film,0
 350060,Heartstone,Transfilm,0
@@ -12905,7 +12535,6 @@ id,title,name_companies,revenue
 124902,A Dangerous Man: Lawrence After Arabia,Fadd Enterprises,0
 74302,Köyden İndim Şehire,C.A.P.A.C.,0
 42496,Millhouse,Copra Films,0
-296633,The Whistleblower,Les Films de la Colombe,0
 262474,Pro Wrestlers vs Zombies,Whyaduck Productions,0
 126816,I Can Make You Love Me,RKO Teleradio Pictures,0
 161808,Celal ile Ceren,Highlook Communications Group,0
@@ -12915,7 +12544,6 @@ id,title,name_companies,revenue
 210052,Wolfskinder,Lebox Produktion AB,0
 187897,The Deadly Duo,El Virgili Films,0
 144464,Electrocuting an Elephant,Solar Filmworks,0
-413052,Hacker,Roswell Films,0
 371446,The Free World,Therapy Content,0
 124277,The Maker,Cinevisión,0
 426903,Buffalo Running,Braindogs Entertainment,0
@@ -12923,7 +12551,6 @@ id,title,name_companies,revenue
 160261,Army,Working Title Television,0
 412213,The Women's Balcony,Compagnie Cinématographique Européenne,0
 64191,Mom at Sixteen,United Performers' Studio,0
-185644,The End,Fellers Film,0
 53035,Kevorkian,Cine Plus,0
 65345,Longhorns,Irving Allen Productions,0
 103181,Sondheim! The Birthday Concert,Arrete Ton Cinema,0
@@ -12932,7 +12559,6 @@ id,title,name_companies,revenue
 56486,Loss Is to Be Expected,Film House Bas Celik,0
 347870,Slash,Amber Entertainment / Drive Thru Pictures,0
 429126,Reggie Watts: Spatial,Miramas S.A.S,0
-401060,Mercy,Leftwood Films,0
 413417,The Matchbreaker,Two 4 The Money Media,0
 310307,The Founder,"Bad Angels Productions, Ltd.",23964782
 89463,Perry Mason: The Case of the Sinister Spirit,Keep Movieng,0
@@ -13018,7 +12644,6 @@ id,title,name_companies,revenue
 173189,Brian Posehn: The Fartist,Eurozoom,0
 169840,Good Fortune,Wonderful Films PLC,0
 16122,Playing Beatie Bow,Louisiana Media Productions,0
-377691,The Man,Finish Films,0
 241140,My Beautiful Country,Jaguar Films,0
 394759,Sheep & Wolves,El Bus Producciones,0
 12911,The Gaul,Films André Paulvé,0
@@ -13055,7 +12680,6 @@ id,title,name_companies,revenue
 242049,Beautiful Noise,ZenHQ Films,0
 229373,Födelsedagen,Comedian International,0
 85753,Perry Mason: The Case of the Killer Kiss,Dingsheng Cultural Industry Investment,0
-55253,The Machine,JSBC Eudemonia Blue Ocean TV & Movie Group,0
 294098,Gooische Vrouwen 2,We Pictures,0
 63996,Vipers Nest,Yunnan Film Group,18000000
 92940,Perry Mason: The Case of the Wicked Wives,Morocco Junction Pictures,0
@@ -13104,9 +12728,7 @@ id,title,name_companies,revenue
 416635,American Summer,Good / Credit Productions,0
 437838,Invention of Trust,Vision,0
 382212,Homo Sapiens,Iconica,0
-251421,Private Property,Centuria Films S.L.,0
 45515,The Color of Lies,Colosé Producciones,0
-357155,Delirium,F & F VI Productions A.I.E,0
 75018,Great Migrations,Yerevan Film Studio,0
 382595,Dalida,Wang Bing Film Workshop,0
 419371,Abbey Grace,Europa Films,0
@@ -13130,7 +12752,6 @@ id,title,name_companies,revenue
 431567,Onus,Vertebra Films,0
 262982,The Hollow Point,Sobras Producciones,0
 331075,Twilight Online,John Heyman/Peter Watkins Production,496000
-408509,Orphan,SOIXAN7E QUIN5E,0
 58368,Kung Fu Wing Chun,See Me Louisiana,0
 425942,Black Snow,Helios-Filmproduktion,1440000
 435351,Neal Brennan: 3 Mics,Corrado Schoner Productions,0
@@ -13158,8 +12779,6 @@ id,title,name_companies,revenue
 415358,Pink,Green Light Media,0
 434711,To Stay Alive - A Method,Friendly Cat Productions Ltd.,0
 272264,The Owners,Sycamore Pictures,0
-436279,The Citizen,Northern Ontario Heritage Fund,0
-394269,Lemonade,Lorette Distribution,0
 384289,Peter and the Farm,Haut et Court Distribution,0
 363007,Préjudice,Golem Distribución,0
 397093,The Beginning of Life,Videocine S.A. de C.V.,0
@@ -13200,13 +12819,11 @@ id,title,name_companies,revenue
 422500,Barry Crimmins: Whatever Threatens You,Adam & Eve Productions,0
 429792,Tony Roberts: Motorcity Motormouth,2DUX²,0
 378446,Ogres,Alpha Core,0
-52623,Missing,Genre Films,1
 382597,R.A.I.D. Special Unit,Simon Kinberg Productions,0
 379371,Pre Vis Action,Civic Bakery,0
 410661,My Entire High School Sinking Into the Sea,Big Noise Films,0
 32945,The Strange Woman,Harbinger Media Partners,0
 417263,Britney Ever After,Oakland Productions,0
-296557,The Roommate,Jigsaw,0
 287647,Cart,Global Produce,0
 272820,Mr. Pig,Dreambridge Films,0
 348611,Sister Cities,Red Crown Productions,0
@@ -13222,9 +12839,7 @@ id,title,name_companies,revenue
 51122,Make-Out with Violence,430 Productions,0
 51021,Lure: Teen Fight Club,IndustryWorks Pictures,0
 393765,Priceless,Lifetime,0
-163924,Invasion,Fusion Films,0
 332168,Tonight It's Me,Chimichanga Productions,0
-228455,The Order,Brillstein Entertainment Partners,0
 155107,Buffalo Dance,Maglan,0
 172972,Kung Fu Vs. Acrobatic,Cinematográfica ABSA,0
 293570,Enemy of the Reich: The Noor Inayat Khan Story,Mythology Entertainment (II),0
@@ -13254,7 +12869,6 @@ id,title,name_companies,revenue
 442491,Deconstructing Sgt. Pepper's Lonely Hearts Club Band,Aurora Entertainment,0
 28602,Zombie Wars,F G Film Productions,0
 224113,Zombie Fever,Premiere Bobine,750000
-345909,Wolves,Beactive Entertainment,0
 340101,Their Finest,New Treatment,12173470
 403252,The Railroad Lady,Permacology Productions,0
 4369,Just a Question of Love,Columbia Pictures Producciones Mexico,0
@@ -13269,7 +12883,6 @@ id,title,name_companies,revenue
 345938,The Shack,September Gurls Productions,57330873
 278475,Şevkat Yerimdar,Ardent Studios,0
 203273,Some Dogs Bite,Trans America Films,0
-422715,The Bride,Stick Films,0
 408550,Les Pépites,VH1 Rock Docs,0
 395992,Life,New Company,100541806
 37213,Lovely Complex,Kremlin Films,0
@@ -13291,14 +12904,12 @@ id,title,name_companies,revenue
 323788,The Man in 3B,Robert Patrick Productions,0
 419747,Halloweed,Will Zens Productions,0
 360808,Doctor's Orders,Parade Pictures,0
-73478,The Prince and the Pauper,Angels & Airwaves,0
 243764,As You See,Sierra Pictures (II),0
 255635,Are We Ok?,Mad Samurai Productions,0
 300490,Unutursam Fısılda,RLJ Entertainment,0
 439695,Unexpected Journey,California Pictures,0
 94065,Slaves in Bondage,Family Productions,0
 47616,The Yellow Rolls-Royce,Best Medicine Productions,0
-126919,The Scapegoat,Pad-Ram Enterprises,0
 2459,An Elephant Can Be Extremely Deceptive,Films Pacifica Inc.,0
 48852,The Choirboys,Boondock Films,0
 18051,Timecop 2: The Berlin Decision,The Obsidian Collective,0
@@ -13330,7 +12941,6 @@ id,title,name_companies,revenue
 430156,David Bowie: The Last Five Years,Romson Productions,0
 356294,25 April,Hanauma Bay,0
 56263,Going South,DIPPER FILMS,0
-39278,Missing,lobos grande,0
 396810,The Last Word,a la carte entertainment,1783421
 286538,Bokeh,Pellicola,0
 243664,"Didi, the Goofy Cupid",Banca Popolare di Vicenza,0
@@ -13452,7 +13062,6 @@ id,title,name_companies,revenue
 390054,Sand Castle,The  First Musical Company,0
 199602,Dual,Gower Street Pictures,0
 305198,Al Capone: Icon,Mr. E Productions Inc.,0
-445605,Slam,Vanguard Entertainment,0
 240992,Santo vs. the Zombies,WarnerVision Films,0
 276486,The Work of Director Chris Cunningham,Enrique Cerezo Producciones Cinematográficas S.A.,0
 30592,The Jacksons: An American Dream,Film Export Group,0
@@ -13462,7 +13071,6 @@ id,title,name_companies,revenue
 296901,Firefly,B.O.B. and Partners,0
 38614,Romantik Komedi,Big City Pictures,0
 382518,Last Call for Nowhere,thefyzz,0
-59219,Quo Vadis,Dunulf Productions,0
 409297,A Dark Song,Emmitt Productions Limited,0
 134990,Touch of the Light,ADF Acquisitions,0
 14274,The Heart of the Game,MK Pictures,0
@@ -13483,7 +13091,6 @@ id,title,name_companies,revenue
 56746,Carol's Journey,8:38 Productions,0
 442949,Rising Fear,Energy Entertainment,0
 68163,The Hidden II,Red Granite Pictures,0
-60236,Countdown,Fickle Fish Films,0
 411024,Karl Marx City,Moxie Pictures,0
 54474,The Star,Double Negative,809000
 69072,Sam Kinison: Family Entertainment Hour,Malavita,0
@@ -13535,7 +13142,6 @@ id,title,name_companies,revenue
 401150,World Cinema,Conquest Productions,0
 271495,Dialogues,Esme,0
 11070,Moonlight Tariff,Golden Sun,0
-360998,Metamorphosis,Bionic Boy Productions,0
 116248,Vampire,Castlight Pictures,0
 426670,Dolly Parton's Christmas of Many Colors: Circle of Love,James Nasser Productions Inc.,0
 117422,Make Way For A Lady,Mischief Films,0
@@ -13576,7 +13182,6 @@ id,title,name_companies,revenue
 86231,The In Crowd,Diaphana Productions,124880
 119457,General Education,Pupcake Productions,0
 50492,Large,Spiegel TV,0
-44417,Hector,SCTV,0
 76706,Christmas Mail,MGM Home Video,0
 69621,Counterstrike,International Artists,0
 317925,A la mala,Capture Film Internatrional,0
@@ -13585,7 +13190,6 @@ id,title,name_companies,revenue
 56525,Boj S Tenyu 2: Revansh,Altitude Film Entertainment,11171900
 271234,22 Minutes,Film House Germany,0
 177950,Parliament Funkadelic: One Nation Under a Groove,Maven Pictures,0
-347382,The One,Echo Lake Productions (I),0
 246438,Семь кабинок,amber entertainment,0
 302150,The Hunter's Prayer,Beat Pirate Films,0
 23764,Toyland,Sneak Preview Productions,0
@@ -13604,7 +13208,6 @@ id,title,name_companies,revenue
 77762,Winter in Prostokvashino,Saga Pictures,0
 364150,The Godfather Trilogy: 1972-1990,Jones Film,0
 20883,Peculiarities of the National Hunt in the Winter,NTTS Productions Ltd.,0
-72211,The Adventures of Buratino,Black Chalk Productions,0
 104674,Bayou,Mankurt Media,0
 40886,Picnic,Saratoga Film Corporation,0
 264356,Simon's Cat,Production Magic Inc.,0
@@ -13622,7 +13225,6 @@ id,title,name_companies,revenue
 62643,The Charge,Filmlink International,0
 64199,The Nude,Makmalbaf Film House,0
 188996,More Than a Secretary,Zadig Productions,0
-406107,Dead Awake,Yofi Films,0
 29361,Antikiller D.K,Girls Club Film Project,2141028
 56820,Live and Remember,Mad Dimension,0
 26920,Assassin's Creed: Lineage,Tarnol Group Pictures,0
@@ -13631,15 +13233,12 @@ id,title,name_companies,revenue
 53945,Pirates: Blood Brothers,Dallas Production Inc.,0
 71382,"Hello, We Are Your Cover!",Ben's Sister Productions,0
 63838,Mechenosets,Release Entertainment,3919731
-62721,Countdown,B. Lord Productions,0
 64805,Body to Body,Flick Productions,0
 38329,The Adventures of the Electronic,Chaos Theory Entertainment,0
 186766,Olympia 52,Secret Handshake Entertainment,0
-439154,The Midwife,Sinatra Enterprises,0
 363992,The Wizard of Lies,Vision Pictures,0
 52891,Hitler's Kaput!,Digital Domain,9713500
 29299,The Invincible,Taleswapper,0
-19312,The Black Hole,Rollin Studio Romania,0
 69097,All Inclusive ili Vsyo Vklyucheno,VTM,0
 24960,World Record,K.J.B. Production,0
 74779,Robotropolis,The Matthau Company,0
@@ -13689,7 +13288,6 @@ id,title,name_companies,revenue
 44386,Pretty as a Picture: The Art of David Lynch,Movie Mogul Films,0
 274388,Express 'Moscow-Russia',Fado Filmes,0
 413579,Best Worst Thing That Ever Could Have Happened...,Roxbury Pictures,0
-11842,Red Sun,Tobina Film,0
 60794,El Crack,Les Films d'Antoine,0
 369894,Wakefield,A Contracorriente Films,0
 424971,In View,Bridge Entertainment Group,0
@@ -13697,7 +13295,6 @@ id,title,name_companies,revenue
 339964,Valerian and the City of a Thousand Planets,ShoreFront Entertainment,90024292
 95414,The Mad Scientist,Iron River Films,0
 25525,Lensman,Artco Films,0
-423360,Hammer,Studio Hamburg International Production,0
 431714,Long Strange Trip,Alexander Sextus,0
 174720,Maksim Perepelitsa,Oh My Gomez! Films,0
 86772,The Black Raven,Chicago Overcoat Productions,0
@@ -13707,14 +13304,10 @@ id,title,name_companies,revenue
 356167,Jimi Hendrix: Electric Church,PERFINI,0
 404518,Mali Blues,Malay Film Productions Ltd.,0
 458808,Nice Places to Die,Ashok Kumar Productions,0
-117680,Home of the Brave,Yasahi-Mation Productions,0
 458310,Hasan Minhaj: Homecoming King,Sam Wiesenthal Productions,0
-76812,Black Butterfly,Factory Films,0
 210183,Held For Ransom,MediaPro Pictures,0
 66526,Mudhalvan,Mondo Furioso Filmproduction,22000000
-195796,Home Sweet Home,Bad Biology,0
 83524,Intergirl,Production Film 82,0
-193288,Extraterrestrial,Seppä Callahanin Filmimaailma Oy,0
 6436,Star Command,Sagittarius Productions Inc.,0
 43084,Deadly Species,Paradox Produksjon,0
 64827,L'educazione sentimentale di Eugenie,Magali Films,0
@@ -13727,13 +13320,11 @@ id,title,name_companies,revenue
 67317,Dr. Alien,Whodunit Productions,0
 16266,2012 Doomsday,Generation International,0
 86190,Adventures Of A Taxi Driver,ABC News,0
-47345,She,Manchester Films,0
 13981,Appleseed: Ex Machina,Cinéfrance 1888,0
 136087,The Giant King,Stadenn Productions,0
 2154,The Dark Side of The Moon,Moviecraft Entertainment,0
 103307,My Seawoman,Marfa,0
 65713,Seven Old Men and One Girl,Juri Productions,0
-109535,Purgatory,Master Film,0
 275054,The Bonus,Propeler Film,0
 103301,Babnik,Neue Mediopolis Filmproduktion,0
 62664,Indigo,Vertigo/Emotionfilm,0
@@ -13742,8 +13333,6 @@ id,title,name_companies,revenue
 28279,Succubus,Universidad Nacional de Colombia,0
 81297,"Och, Karol",Volya Films,0
 52849,A Bell From Hell,Ciudad Lunar Producciones,0
-228642,Exit,Primer Plano Film Group,0
-96005,Courage,CineMart,0
 83481,Heroes,Carboandes,0
 327982,Soulless 2,Servientrega,0
 453053,Dumb: The Story of Big Brother Magazine,Gobernacion del Cesar,0
@@ -13800,7 +13389,6 @@ id,title,name_companies,revenue
 20650,The Sealed Room,E-motion Film,0
 366860,El Violetero,Cumulus Projekt,0
 336544,Princes of the Yen,Drunken Angel Entertainment,0
-67488,A Little Princess,Goran Production Company,0
 155169,Frog,Hargla Company,0
 52039,Don't Let Me Drown,Inkas Production,0
 44341,Life of an American Fireman,Lychnari Productions,0
@@ -13837,7 +13425,6 @@ id,title,name_companies,revenue
 51273,Dark World,SnowPiercer,0
 314952,What Men Do! 2,Moho Film,0
 75438,Pregnant,Gosteleradio,8000000
-20449,The Ghost,"Tvorcheskoye Obyeduneniniye ""Luch""",0
 60189,Lovey-Dovey 3,United Filmmakers,0
 233880,At the Ends of the Earth,Cinema Organization,0
 413785,George Best: All By Himself,Rubber Films,0
@@ -13847,7 +13434,6 @@ id,title,name_companies,revenue
 54309,Notte prima degli esami - Oggi,Hong Kong Kai Fa Film Co.,0
 167556,My Friends Need Killing,Acajou Films,0
 408024,Moka,Rebel Rebel,126463
-381507,Home,Birka Holding,0
 32534,I Am So Proud of You,Rija Films,0
 18040,Night Skies,GP Cinema Company,0
 61008,You and Your Stupid Mate,Harmonica Films,0
@@ -13859,8 +13445,6 @@ id,title,name_companies,revenue
 184363,Kino-pravda no. 21 - Lenin Kino-Pravda. A Film Poem about Lenin,Picture Circle,0
 189505,"Stride, Soviet!",Riviera Films,0
 427673,Sadie's Last Days on Earth,Reprise Films,0
-149723,The Letters,Nouveau Film,0
-345914,The House,MR TV-Film,0
 438634,Summer 1993,Film1,0
 157414,Up There,Filmiran,0
 42616,The Virginian,Pixomondo,0
@@ -13888,7 +13472,6 @@ id,title,name_companies,revenue
 460846,Security,Gekko Film,0
 394185,Chokeslam,Film Finance Corporation (FFC),0
 404733,Overdrive,Unit 3 mm,0
-77519,The Libertine,Hersua Interfilms,0
 285755,Forgiveness,Wise Guy Productions,0
 405446,The Human Surge,Larry White Productions,0
 298207,Der kleine Nazi,Waterland Film & TV,0
@@ -13915,7 +13498,6 @@ id,title,name_companies,revenue
 99229,Normal,Thai Occidental Productions,0
 62741,Tender Age,Rogue State,0
 86118,This Way Up,Remember Dreaming Productions,0
-108827,Mirage,Little Dragon Productions,0
 156310,Wolfman,Sonney Amusement Enterprises Inc.,0
 407531,Bedeviled,Astor Pictures Corp.,0
 244698,Radio Bikini,Silverscreen Films,0
@@ -13941,7 +13523,6 @@ id,title,name_companies,revenue
 429039,"Jean Ziegler, l'optimisme de la volonté",Top n°1,0
 45592,Film,Swabie Production,0
 69483,Julia Misbehaves,Dreaming Tree Productions,0
-423453,Sahara,Willis Kent Productions,7800000
 36886,Schoolgirl Report Part 4: What Drives Parents to Despair,Noujaim Films,0
 280640,Geronimo,LaLoggia Productions,0
 24049,Sivaji: The Boss,Sherpas Cinema,19000000
@@ -13960,7 +13541,6 @@ id,title,name_companies,revenue
 206277,Shirley: Visions of Reality,BUF,0
 92108,Baby sa jakies inne,Piste Rouge,0
 60153,Hi Way,Mystique Films Inc.,0
-245073,Family Life,Nantucket Productions,0
 154575,Illumination,A&E Networks,0
 88844,Code Blue,Gerber Company,0
 383618,Siv Sleeps Astray,Bron Studios,0
@@ -13995,17 +13575,13 @@ id,title,name_companies,revenue
 293654,Corporate Event,Mille et Une Productions,0
 64197,Travelling with Pets,Propaganda Pictures,0
 102363,Bedouin,Need Productions,0
-98604,Cinderella,Francia-Túnez; Dovidis / Satpec,0
 97672,Suicides,Jay-X Entertainment,0
-100152,Mars,TMP Films,0
 63281,Pro Lyuboff,Hollywood Royal Pictures,1268793
 70965,Kuka,Museum,0
-275331,The Hunters,frozen assets productions,0
 174271,The Fortunes and Misfortunes of Moll Flanders,Sunchaser Entertainment,0
 42652,The Prisoner of If Castle,Favorit Film,0
 39562,To Be Fat Like Me,Kino Lorber,0
 14008,Cadet Kelly,Marianna Films Oy,0
-420346,The Morning After,A&E Home Entertainment,0
 390959,Shadow of the Blair Witch,Nihon Ad Systems,0
 289923,The Burkittsville 7,Waverly Productions,0
 222848,Caged Heat 3000,Hollywood International Pictures,0
