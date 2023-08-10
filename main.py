@@ -205,6 +205,15 @@ ML_DF1 = pd.read_csv('ML_SistemaRecomendacion_1.csv')
 
 @app.get("/Pelis_recom/{pelicula}")
 def Pelis_recom(pelicula):
+    """
+    lista de las 5 películas recomendadas basadas en una película dada.
+
+    peliculas opciones:
+        Titanic , Jumanji, The Lego Batman Movie, Toy Story, The Incredibles
+
+    Responses:
+        lista de las 5 películas recomendadas basadas en una película dada.
+    """
     movie = ML_DF1[ML_DF1['title'] == pelicula]
     
     if len(movie) == 0:
@@ -254,8 +263,16 @@ movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
 
 @app.get("/movie_recommendation_artista/{Artista}")
 def movie_recommendation_artista(Artista):
-
     movie_df = pd.read_csv('df_sistema_recomendacion_artistas.csv')
+    """
+    lista de las 5 películas recomendadas basadas en un actor o una actriz dada.
+
+    peliculas opciones:
+        Tom Hanks , Robin Williams, Bonnie Hunt', Adam Hann-Byrd, Bradley Pierce
+
+    Responses:
+        lista de las 5 películas recomendadas.
+    """
 
     # películas que tengan al actor especificado en la columna 'Actor'
     movies_with_artista = movie_df[movie_df['Actor'] == Artista]
