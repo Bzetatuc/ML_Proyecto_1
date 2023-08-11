@@ -172,7 +172,7 @@ column_description = {
 video tutorial de la API, Funciones y Resultados.
 
 > `VIDEO`<br>
-<a href="https:  " target="_blank">Video</a>
+<a href="https://youtu.be/wwA3x60ovPE  " target="_blank">Video</a>
 
 
 ## **Recursos y links utilizados**
